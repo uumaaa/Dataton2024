@@ -1,0 +1,185 @@
+[
+  {
+    "id": "61ddd18fdb69a1001d7c264f",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTADO DE YUCATÁN",
+      "siglas": "ISSTEY"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "LUIS ENRIQUE",
+      "primerApellido": "GALVÁN",
+      "segundoApellido": "ESPINOSA",
+      "puesto": "AUXILIAR ADMINISTRATIVO II"
+    },
+    "tipoFalta": {
+      "clave": "VLNP",
+      "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL",
+      "descripcion": "INCUMPLIMIENTO EN EL EJERCICIO DE SUS FUNCIONES COMO SERVIDOR PÚBLICO EN VIRTUD DE QUE SUSPENDIÓ INJUSTIFICADAMENTE EL SERVICIO PÚBLICO QUE PRESTABA FALTANDO AL PRINCIPIO DE HONRADEZ ARTÍCULO 7 FRACCIÓN V DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN CONFIGURANDOSE LA HIPOTESIS NORMATIVA PREVISTA EN EL ARTÍCULO 51 FRACCIÓN I INCISO A DE LA CITADA LEY"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-11-26"
+    },
+    "inhabilitacion": {
+      "plazo": "3 MESES",
+      "fechaInicial": "2021-11-26",
+      "fechaFinal": "2022-02-26"
+    },
+    "expediente": "DNQR/012/2021",
+    "autoridadSancionadora": "Secretaría de la Contraloría General",
+    "tipoSancion": [
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN",
+        "descripcion": "SUSPENSIÓN TEMPORAL POR EL TÉRMINO DE 3 MESES"
+      }
+    ],
+    "causaMotivoHechos": "INCUMPLIMIENTO EN EL EJERCICIO DE SUS FUNCIONES COMO SERVIDOR PÚBLICO EN VIRTUD DE QUE SUSPENDIÓ INJUSTIFICADAMENTE EL SERVICIO PÚBLICO QUE PRESTABA FALTANDO AL PRINCIPIO DE HONRADEZ ARTÍCULO 7 FRACCIÓN V DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN CONFIGURANDOSE LA HIPOTESIS NORMATIVA PREVISTA EN EL ARTÍCULO 51 FRACCIÓN I INCISO A DE LA CITADA LEY",
+    "documentos": [],
+    "fechaCaptura": "2022-01-11T18:50:55+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6244beac0fc808001a09ce14",
+    "institucionDependencia": {
+      "nombre": "CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN",
+      "clave": "02 02",
+      "siglas": "CJ"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "CARLOS SATUR",
+      "primerApellido": "CEBALLOS",
+      "segundoApellido": "FARFAN",
+      "puesto": "DIRECTOR DE ADMINISTRACIÓN Y FINANZAS"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO",
+      "descripcion": "VOLACIÓN A LA LEY Y NORMATIVIDAD DE TRANSPARENCIA"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-01-15"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "UNIDAD DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CONTRALORIA DEL CJ",
+    "causaMotivoHechos": "FALTA DE PÚBLICACIÓN DE INFORMACIÓN CONFORME A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA",
+    "documentos": [],
+    "expediente": "01/2020",
+    "fechaCaptura": "2022-03-30T20:34:54+00:00",
+    "tipoSancion": [
+      {
+        "clave": "O",
+        "valor": "OTRO",
+        "descripcion": "ABSTENCIÓN DE SANCIÓN"
+      }
+    ]
+  },
+  {
+    "id": "6244c1b40fc808001a09ce19",
+    "institucionDependencia": {
+      "nombre": "CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN",
+      "clave": "02 02",
+      "siglas": "CJ"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "ALDO XAVIER",
+      "primerApellido": "OJEDA",
+      "segundoApellido": "RUÍZ",
+      "puesto": "RESPONSABLE DE LA UNIDAD DE TRANSPARENCIA",
+      "nivel": "RESPONSABLE DE LA UNIDAD DE TRANSPARENCIA"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO",
+      "descripcion": "FALTA DE VIGILANCIA DEL CUMPLIMIENTO A LA LEY Y NORMATIVIDAD DE TRANSPARENCIA"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-01-15"
+    },
+    "expediente": "01/2020",
+    "autoridadSancionadora": "UNIDAD DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CONTRALORIA DEL CJ",
+    "tipoSancion": [
+      {
+        "clave": "O",
+        "valor": "OTRO",
+        "descripcion": "ABSTENCIÓN DE SANCION"
+      }
+    ],
+    "causaMotivoHechos": "NO VIGILÓ Y GESTIONÓ EL REGISTRO OPORTUNO DE INFORMACIÓN OBLIGATORIA DE LA LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA",
+    "documentos": [],
+    "fechaCaptura": "2022-03-30T20:46:44+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62961b2ab579e500193f6561",
+    "institucionDependencia": {
+      "nombre": "Instituto para la Construcción y Conservación de Obra Pública en Yucatán",
+      "siglas": "INCOPY"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Gregorio Alexander",
+      "primerApellido": "Villares",
+      "segundoApellido": "Monzón",
+      "puesto": "Residente y supervisor de obra"
+    },
+    "tipoFalta": {
+      "clave": "VLNP",
+      "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+    },
+    "inhabilitacion": {
+      "plazo": "30 días naturales",
+      "fechaInicial": "2022-02-17",
+      "fechaFinal": "2022-03-17"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "Secretaría de la Contraloría General",
+    "causaMotivoHechos": "INCUMPLIMIENTO EN EL EJERCICIO DE SUS FUNCIONES COMO SERVIDOR PÚBLICO EN VIRTUD DE QUE AUTORIZO EL PAGO DE ESTIMACIONES POR CONCEPTO DE OBRA NO EJECUTADO INCUMPLIENDO CON LAS DISPOSICIONES LEGALES ESTABLECIDAS EN LOS ARTÍCULOS 113 FRACCIONES I VIII XIV Y 115 FRACCIONES I V Y XI DEL REGLAMENTO DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADAS CON LAS MISMAS Y  7 FRACCIONES III IV IX Y XI DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN",
+    "documentos": [],
+    "expediente": "DNQR/032/2021",
+    "fechaCaptura": "2022-05-31T13:43:37+00:00",
+    "tipoSancion": [
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN",
+        "descripcion": "Suspensión temporal por el término de 30 días naturales"
+      }
+    ]
+  },
+  {
+    "id": "65451e0446589b001de74bec",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN",
+      "siglas": "INSEJUPY"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "CLAUDIA MARGARITA",
+      "primerApellido": "VARGAS",
+      "segundoApellido": "CERVANTES",
+      "puesto": "AUXILIAR DEL DEPARTAMENTO INMOBILIARIO G"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE"
+    },
+    "resolucion": {
+      "fechaResolucion": "2023-07-25"
+    },
+    "inhabilitacion": {
+      "plazo": "1 AÑO",
+      "fechaInicial": "2023-08-01",
+      "fechaFinal": "2024-08-01"
+    },
+    "expediente": "DNQR/003/2023",
+    "autoridadSancionadora": "Secretaría de la Contraloría General",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Inhabilitación temporal por el término de 1 año"
+      }
+    ],
+    "causaMotivoHechos": "INCUMPLIMIENTO EN EL EJERCICIO DE SUS FUNCIONES COMO SERVIDORA PÚBLICA EN VIRTUD DE QUE REALIZÓ FUNCIONES AJENAS A LAS QUE SE ENCONTRABA FACULTADA INCUMPLIENDO CON LAS DISPOSICIONES LEGALES ESTABLECIDAS EN LOS ARTÍCULOS 109 FRACCIÓN III DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS 98 FRACCIÓN III DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN 3 FRACCIONES VIII IX Y X Y NUMERAL 15 FRACCIÓN VIII DEL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL GOBIERNO DEL ESTADO DE YUCATÁN APARTADO 6 PUNTO 1 FRACCIÓN III Y 6 PUNTO 6 FRACCIÓN IV DEL CÓDIGO DE CONDUCTA DEL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN 7 FRACCIONES VI VII Y VIII 17 PRIMER PÁRRAFO Y 51 FRACCIÓN I INCISO N DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN",
+    "documentos": [],
+    "fechaCaptura": "2023-11-03T16:21:24+00:00",
+    "__v": 0
+  }
+]

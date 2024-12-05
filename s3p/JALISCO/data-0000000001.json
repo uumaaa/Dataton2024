@@ -1,0 +1,212 @@
+[
+  {
+    "id": "66d21cf3cadf98001adb9e34",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Administración",
+      "siglas": "SECADMON"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "HCPROMEDICAL SA DE CV",
+      "tipoPersona": "M"
+    },
+    "responsableSancion": {
+      "nombres": "Bryam David",
+      "primerApellido": "Sánchez ",
+      "segundoApellido": "Porras"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "Órgano Interno de Control",
+    "causaMotivoHechos": "Falta calificada como grave de conformidad con el artículo 116 la Ley de Compras Gubernamentales Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios ",
+    "documentos": [],
+    "expediente": "OIC/PS/001/2024",
+    "fechaCaptura": "2024-08-30T19:54:25+00:00",
+    "inhabilitacion": {
+      "plazo": "06 meses",
+      "fechaInicial": "2024-04-19",
+      "fechaFinal": "2024-08-19"
+    },
+    "tipoFalta": "Persona moral que se encuentra inhabilitada para celebrar contratos con los entes públicos",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": ""
+      }
+    ]
+  },
+  {
+    "id": "66d22819cadf98001adb9eb1",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE ADMINISTRACIÓN ",
+      "siglas": "SECADMON"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "ERNESTO CESAR GONZÁLEZ R",
+      "tipoPersona": "F"
+    },
+    "responsableSancion": {
+      "nombres": "BRYAM DAVID",
+      "primerApellido": "SÁNCHEZ",
+      "segundoApellido": "PORRAS"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": ""
+      }
+    ],
+    "documentos": [],
+    "expediente": "OIC/PS/002/2024",
+    "autoridadSancionadora": "ÓRGANO INTERNO DE CONTROL ",
+    "inhabilitacion": {
+      "plazo": "07 meses",
+      "fechaInicial": "2024-06-18",
+      "fechaFinal": "2025-01-18"
+    },
+    "causaMotivoHechos": "Falta calificada como grave de conformidad con lo dispuesto en el artículo 116 de la Ley de Compras Gubernamentales Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios",
+    "tipoFalta": "Persona física que se encuentra inhabilitada para celebrar contratos con los entes públicos",
+    "fechaCaptura": "2024-08-30T20:14:17+00:00",
+    "__v": 0
+  },
+  {
+    "id": "66d22940cadf98001adb9ec7",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE ADMINISTRACIÓN ",
+      "siglas": "SECADMON"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "AUTOMOTRIZ SOUL SA DE CV",
+      "tipoPersona": "M"
+    },
+    "responsableSancion": {
+      "nombres": "BRYAM DAVID",
+      "primerApellido": "SÁNCHEZ",
+      "segundoApellido": "PORRAS"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": ""
+      }
+    ],
+    "documentos": [],
+    "expediente": "OIC/PS/003/2024",
+    "tipoFalta": "Persona moral que se encuentra inhabilitada para celebrar contratos con los entes públicos",
+    "causaMotivoHechos": "Falta calificada como grave de conformidad a lo dispuesto en el artículo 116 de la Ley de Compras Gubernamentales Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios",
+    "autoridadSancionadora": "ÓRGANO INTERNO DE CONTROL ",
+    "inhabilitacion": {
+      "plazo": "06 meses",
+      "fechaInicial": "2024-05-24",
+      "fechaFinal": "2024-11-24"
+    },
+    "fechaCaptura": "2024-08-30T20:19:12+00:00",
+    "__v": 0
+  },
+  {
+    "id": "66d22e21cadf98001adb9edd",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE ADMINISTRACIÓN ",
+      "siglas": "SECADMON"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "JMC BIOMEDICA SA DE CV",
+      "tipoPersona": "M"
+    },
+    "responsableSancion": {
+      "nombres": "BRYAM DAVID",
+      "primerApellido": "SÁNCHEZ",
+      "segundoApellido": "PORRAS"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": ""
+      }
+    ],
+    "documentos": [],
+    "inhabilitacion": {
+      "fechaInicial": "2024-06-27",
+      "fechaFinal": "2024-12-27",
+      "plazo": "06 meses"
+    },
+    "expediente": "OIC/PS/004/2024",
+    "tipoFalta": "Persona moral que se encuentra inhabilitada para celebrar contratos con los entes públicos",
+    "causaMotivoHechos": "Falta calificada como grave de conformidad con lo dispuesto en el artículo 116 de la Ley de Compras Gubernamentales Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios",
+    "autoridadSancionadora": "ÓRGANO INTERNO DE CONTROL ",
+    "fechaCaptura": "2024-08-30T20:40:01+00:00",
+    "__v": 0
+  },
+  {
+    "id": "66d235edcadf98001adb9efd",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE ADMINISTRACIÓN ",
+      "siglas": "SECADMON"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "GONGAR CONSULTORES SAS DE ",
+      "tipoPersona": "M"
+    },
+    "responsableSancion": {
+      "nombres": "BRYAM DAVID",
+      "primerApellido": "SÁNCHEZ",
+      "segundoApellido": "PORRAS"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "ÓRGANO INTERNO DE CONTROL ",
+    "causaMotivoHechos": "Falta calificada como grave de conformidad a lo dispuesto en el artículo 116 de la Ley de Compras Gubernamentales Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios ",
+    "documentos": [],
+    "expediente": "OIC/PS/005/2024",
+    "fechaCaptura": "2024-08-30T21:13:43+00:00",
+    "inhabilitacion": {
+      "plazo": "06 meses",
+      "fechaInicial": "2024-07-11",
+      "fechaFinal": "2025-01-11"
+    },
+    "tipoFalta": "Persona moral que se encuentra inhabilitada para celebrar contratos con los entes públicos",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": ""
+      }
+    ]
+  },
+  {
+    "id": "66d2379ccadf98001adb9f2b",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE ADMINISTRACIÓN ",
+      "siglas": "SECADMON"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "CONSORCIO INTERAMERICANOD",
+      "tipoPersona": "M"
+    },
+    "responsableSancion": {
+      "nombres": "BRYAM DAVID",
+      "primerApellido": "SÁNCHEZ",
+      "segundoApellido": "PORRAS"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": ""
+      }
+    ],
+    "documentos": [],
+    "expediente": "OIC/PS/006/2024",
+    "tipoFalta": "Persona moral que se encuentra inhabilitada para celebrar contratos con los entes públicos",
+    "causaMotivoHechos": "Falta calificada como grave de conformidad a lo dispuesto en el artículo 116 de la Ley de Compras Gubernamentales Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios",
+    "autoridadSancionadora": "ÓRGANO INTERNO DE CONTROL ",
+    "inhabilitacion": {
+      "plazo": "06 meses",
+      "fechaInicial": "2024-07-11",
+      "fechaFinal": "2025-01-11"
+    },
+    "fechaCaptura": "2024-08-30T21:20:28+00:00",
+    "__v": 0
+  }
+]

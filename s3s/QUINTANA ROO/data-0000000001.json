@@ -1,0 +1,809 @@
+[
+  {
+    "id": "649e4c0a1fe7bf001d964641",
+    "institucionDependencia": {
+      "nombre": "Dirección General de Desarrollo Urbano el Municipio  Benito Juárez",
+      "siglas": "DGDU"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Manuel",
+      "primerApellido": "Barrios",
+      "segundoApellido": "Apresa",
+      "puesto": "Inspector adscrito a la Dirección General de Desarrollo Urbano el Municipio  Benito Juárez",
+      "nivel": "Inspector"
+    },
+    "tipoFalta": {
+      "clave": "AFN",
+      "valor": "ABUSO DE FUNCIONES"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-11-23"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "TERCERA SALA UNITARIA",
+    "causaMotivoHechos": "EL SERVIDOR PÚBLICO SIMULÓ SU PARTICIPACIÓN EN EL DESARROLLO DE LA INSPECCIÓN RELATIVA AL ACTA DE INSPENCCIÓN DEIV-1774-2017 PARA PRETENDER GENERAR UN BENEFICIO PARA SÍ Y CAUSAR PERJUICIO A LOS DENUNCIANTES",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "SENTENCIA DICTADA EN EL PROCEDIMIENTO  RESPONSABILIDAD ADMINISTRATIVA TJA QR-SU3-064-2019",
+        "tipo": "RESOLUCION",
+        "descripcion": "SENTENCIA DE FECHA 23 DE NOVIEMBRE DE 2021 POR LA QUE SE DETERMINÓ LA RESPONSABILIDAD ADMINISTRATIVA GRAVE COMETIDA POR MANUEL BARRIOS APRESA",
+        "url": "https://drive.google.com/file/d/1m51uXVPVFqNZ-9KmALNmECF_hiR8mcN-/view",
+        "fecha": "2021-11-23"
+      }
+    ],
+    "expediente": "TJA QR-SU3-064-2019",
+    "fechaCaptura": "2023-06-30T03:33:12+00:00",
+    "tipoSancion": [
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN",
+        "descripcion": "SUSPENSIÓN TEMPORAL PARA DESARROLLAR EMPLEO, CARGO O COMISIÓN, POR 30 (TREINTA) DÍAS NATURALES, AL HABERSE ACREDITADO LA SIMULACIÓN DEL ATESTIGUAMIENTO EN LA DILIGENCIA DEL ACTA DE INSPECCIÓN DEVI-1774-2017 SUPRACITADA, EN CONTRAVENCIÓN A LA REGLAMENTACIÓN DE LA MATERIA."
+      }
+    ]
+  },
+  {
+    "id": "649e50561fe7bf001d96467f",
+    "institucionDependencia": {
+      "nombre": "Dirección General de Desarrollo Urbano el Municipio  Benito Juárez",
+      "siglas": "DGDU"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "JUAN LUIS  ",
+      "primerApellido": "FRANCO ",
+      "segundoApellido": "ARANDA",
+      "puesto": "Inspector adscrito a la Dirección General de Desarrollo Urbano el Municipio  Benito Juárez",
+      "nivel": "Inspector"
+    },
+    "tipoFalta": {
+      "clave": "AFN",
+      "valor": "ABUSO DE FUNCIONES"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-11-23"
+    },
+    "inhabilitacion": {
+      "plazo": "1 AÑO",
+      "fechaInicial": "2022-09-19",
+      "fechaFinal": "2023-09-19"
+    },
+    "expediente": "TJA/QR-SU3-064-2019",
+    "autoridadSancionadora": "TERCERA SALA UNITARIA",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITACIÓN TEMPORAL PARA DESARROLLAR EMPLEOS, CARGOS O COMISIONES EN EL SERVICIO PÚBLICO Y PARA PARTICIPAR EN ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS U OBRAS PÚBLICAS, POR 1 (UN) AÑO, EN RAZÓN DE QUE, SE CONFIGURÓ SU PRETENSIÓN PARA OBTENER UN BENEFICIO PARA SÍ DERIVADO DE LA FALTA ADMINISTRATIVA GRAVE, GENERANDO UN PERJUICIO A LOS DENUNCIANTES Y AL SERVICIO PÚBLICO EN RELACIÓN CON EL BIEN JURÍDICO TUTELADO QUE EN ESTE CASO CORRESPONDE AL CORRECTO FUNCIONAMIENTO DE LA ADMINISTRACIÓN PÚBLICA."
+      }
+    ],
+    "causaMotivoHechos": "EL SERVIDOR PÚBLICO ELABORÓ LAS ACTAS DE INSPENCCIÓN DEIV-1774-2017 Y DEIV-0439-2018 PARA PRETENDER GENERAR UN BENEFICIO PARA SÍ Y CAUSAR PERJUICIO A LOS DENUNCIANTES\n",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "SENTENCIA DICTADA EN EL PROCEDIMIENTO  RESPONSABILIDAD ADMINISTRATIVA TJA QR-SU3-064-2019",
+        "tipo": "RESOLUCION",
+        "descripcion": "SENTENCIA DE FECHA 23 DE NOVIEMBRE DE 2021 POR LA QUE SE DETERMINÓ LA RESPONSABILIDAD ADMINISTRATIVA GRAVE COMETIDA POR JUAN LUIS  FRANCO ARANDA",
+        "url": "https://drive.google.com/file/d/1m51uXVPVFqNZ-9KmALNmECF_hiR8mcN-/view",
+        "fecha": "2021-11-23"
+      }
+    ],
+    "fechaCaptura": "2023-06-30T03:47:34+00:00",
+    "__v": 0
+  },
+  {
+    "id": "649e621f1fe7bf001d9646a5",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad Pública y Tránsito del Municipio de Benito Juárez",
+      "siglas": "SMSPYT"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "FABIO ANTONIO",
+      "primerApellido": "HUHIN",
+      "segundoApellido": "Díaz",
+      "puesto": "Jefe de área de descacharrización",
+      "nivel": "Jefe de área"
+    },
+    "tipoFalta": {
+      "clave": "AFN",
+      "valor": "ABUSO DE FUNCIONES"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-04-29"
+    },
+    "expediente": "TJA/QR-SU3-003-2020",
+    "autoridadSancionadora": "TERCERA SALA UNITARIA",
+    "tipoSancion": [
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN",
+        "descripcion": "Suspensión del puesto o cargo por el periodo de treinta días del 29/04/2022 al 31/05/2022"
+      }
+    ],
+    "causaMotivoHechos": "Durante una campaña de descacharrización el servidor público emitió una boleta de infracción y remitió un vehículo sin realizar una previa averiguación o recibir un reporte fundado",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "Sentencia emitida en el procedimiento de responsabilidad administrativa número TJA/QR-SU3-003-2020",
+        "tipo": "RESOLUCION",
+        "descripcion": "Sentencia mediante la cual se determinó la responsabilidad administrativa  de Fabio Antonio Huhín Díaz",
+        "url": "https://drive.google.com/file/d/1RV3rKe7Ss8kkE6MofMIz0ud-uB9k_mlJ/view?usp=sharing",
+        "fecha": "2022-04-29"
+      }
+    ],
+    "fechaCaptura": "2023-06-30T05:03:27+00:00",
+    "__v": 0
+  },
+  {
+    "id": "64ee8802b7962d00200c27a6",
+    "institucionDependencia": {
+      "nombre": " Dirección de Servicios Públicos Municipales de Benito Juárez Quintana Roo",
+      "siglas": "D.G.S.P.M."
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "HELBERT GIBRANN ",
+      "primerApellido": "FERNÁNDEZ ",
+      "segundoApellido": "SANTOS",
+      "puesto": "Inspector de la Dirección de Servicios Públicos Municipales de Benito Juárez Quintana Roo",
+      "nivel": "Inpector"
+    },
+    "tipoFalta": {
+      "clave": "CEX",
+      "valor": "COHECHO O EXTORSION",
+      "descripcion": "En su encargo como Inspector de la Dirección de Servicios Públicos Municipales de Benito Juárez Quintana Roo obtuvo un beneficio propio no comprendido a su reglamento como inspector al inducir al contribuyente a realizar un pago por la cantidad de tres mil pesos a fin de no observar ninguna anomalía en el acta de inspección  realizada a un establecimiento el Tajonal"
+    },
+    "resolucion": {
+      "fechaResolucion": "2020-11-20"
+    },
+    "expediente": "24/2019-SU4-II",
+    "autoridadSancionadora": "Cuarta Sala Unitaria del Tribunal de Justicia Administrativa del Estado de Quintana Roo",
+    "tipoSancion": [
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN",
+        "descripcion": "Suspensión del empleo, cargo o comisión por un periodo de treinta días."
+      }
+    ],
+    "causaMotivoHechos": "En su encargo como Inspector de la Dirección de Servicios Públicos Municipales de Benito Juárez Quintana Roo obtuvo un beneficio propio no comprendido a su reglamento como inspector al inducir al contribuyente a realizar un pago por la cantidad de tres mil pesos a fin de no observar ninguna anomalía en el acta de inspección  realizada a un establecimiento\n",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "Sentencia definitiva",
+        "tipo": "RESOLUCION",
+        "descripcion": "Sentencia definitiva del expediente del Procedimiento de Responsabilidad Administrativa 24/2019-SU4-II",
+        "url": "https://drive.google.com/file/d/1DPO7v35PKNoA5-mrhBjMQ5X8MbGo-PTN/view?usp=drive_link",
+        "fecha": "2020-11-20"
+      }
+    ],
+    "fechaCaptura": "2023-08-30T00:06:26+00:00",
+    "__v": 0
+  },
+  {
+    "id": "64efa933b7962d00200c27c5",
+    "institucionDependencia": {
+      "nombre": "Registro Civil del Municipio de Benito Juárez Quintana Roo",
+      "siglas": "R.C.M.B.J.Q.ROO"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "LAURA PATRICIA ",
+      "primerApellido": "ORDUÑO ",
+      "segundoApellido": "CORONA",
+      "puesto": "Secretaria de la oficialia uno del Registro Civil del Municipio de Benito Juarez Quintana Roo",
+      "nivel": "Secretaria"
+    },
+    "tipoFalta": {
+      "clave": "CEX",
+      "valor": "COHECHO O EXTORSION",
+      "descripcion": "Recibía sin autorización alguna dinero en efectivo de los contribuyentes que acudían a dicha oficialía a realizar trámites de derechos a saber solicitar copias certificadas de actas de nacimiento matrimonio defunción desviando parcialmente el costo real de cada trámite al pagar en caja esto con la intención de obtener un beneficio económico para sí misma"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-12-08"
+    },
+    "inhabilitacion": {
+      "plazo": "1 año",
+      "fechaInicial": "2022-03-18",
+      "fechaFinal": "2023-03-18"
+    },
+    "expediente": "137/2020-SU4-I",
+    "autoridadSancionadora": "Cuarta Sala Unitaria del Tribunal de Justicia Administrativa del Estado de Quintana Roo",
+    "tipoSancion": [
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "Se impone una sanción económica de $5,208.00 M.N."
+      },
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público por un periodo de un año."
+      }
+    ],
+    "causaMotivoHechos": "Durante el desempeño de su encargo como SECRETARIA de la oficialía 01 del Registro Civil del Municipio de Benito Juárez Quintana Roo recibía sin autorización alguna dinero en efectivo de los contribuyentes que acudían a dicha oficialía a realizar trámites de derechos con  la intención de obtener un beneficio económico para sí misma\n",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "Sentencia definitiva",
+        "tipo": "RESOLUCION",
+        "descripcion": "Sentencia definitiva de fecha 08 de diciembre de 2021, emitida en el expediente del Procedimiento de Responsabilidad Administrativa 137/2020-SU4-I",
+        "url": "https://drive.google.com/file/d/1LOiGfYgIwdS0Lz_Jjl8-FU17BgF-qGKb/view?usp=sharing",
+        "fecha": "2021-12-08"
+      }
+    ],
+    "fechaCaptura": "2023-08-30T20:40:19+00:00",
+    "__v": 0
+  },
+  {
+    "id": "649e19331fe7bf001d9645e9",
+    "institucionDependencia": {
+      "nombre": "Dirección de Zona Federal Marítimo Terrestre en el Municipio de Solidaridad Quintana Roo"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Israel",
+      "primerApellido": "Mena",
+      "segundoApellido": "Díaz",
+      "puesto": "Vigilante en el programa federal Vigilancia de la ZOFEMAT",
+      "nivel": "Vigilante"
+    },
+    "tipoFalta": {
+      "clave": "PEC",
+      "valor": "PECULADO",
+      "descripcion": "Realizó actos de apropiación para sí de un recurso público consistente en el radio portátil de 16 canales color negro "
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-07-15"
+    },
+    "inhabilitacion": {
+      "plazo": "3 años ",
+      "fechaInicial": "2022-09-27",
+      "fechaFinal": "2025-09-27"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "Segunda Sala Unitaria del Tribunal de Justicia Administrativa del Estado de Quintana Roo",
+    "causaMotivoHechos": "Realizó actos de apropiación para sí de un recurso público consistente en el radio portátil de 16 canales color negro toda vez que concluida su relación laboral con la Dirección de Zona Federal Marítimo Terrestre en el Municipio de Solidaridad Quintana Roo no se presentó a devolverlo",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "Sentencia del Procedimiento Responsabilidad Administrativa 01/2020-SU2-PR",
+        "tipo": "RESOLUCION",
+        "descripcion": "SENTENCIA DE FECHA 19 DE NOVIEMBRE DE 2021 POR LA QUE SE DETERMINÓ LA RESPONSABILIDAD ADMINISTRATIVA GRAVE COMETIDA POR ISRAEL MENA DÍAZ",
+        "url": "https://drive.google.com/file/d/1Vw-uqO7-Jf0HnbeKUMTvaqXkh3D00BMN/view?usp=sharing",
+        "fecha": "2022-07-14"
+      }
+    ],
+    "expediente": "01/2020-SU2-PR",
+    "fechaCaptura": "2023-09-01T18:07:35+00:00",
+    "tipoSancion": [
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "$4,375.25 (Son: Cuatro mil trescientos setenta y cinco pesos 25/100 M.N)"
+      },
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": " Se impone la sanción administrativa consistente en la inhabilitación temporal para desempeñar cargo, empleo o comisió en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas por un periodo de 3 años."
+      }
+    ]
+  },
+  {
+    "id": "61e1abda2a16a00013957a76",
+    "institucionDependencia": {
+      "nombre": "DIRECCIÓN DEL TALLER MUNICIPAL DE BENITO JUÁREZ",
+      "siglas": "DTMBJ"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "WILBERTH OCTAVIO ",
+      "primerApellido": "TRIANA",
+      "segundoApellido": "GARCÍA",
+      "puesto": "DIRECTOR DEL TALLER MUNICIPAL ",
+      "nivel": "DIRECCIÓN"
+    },
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "INHÁBILITACIÓN POR DIEZ AÑOS"
+    },
+    "resolucion": {
+      "fechaResolucion": "2020-03-20"
+    },
+    "inhabilitacion": {
+      "plazo": "DIEZ AÑOS",
+      "fechaInicial": "2020-09-09",
+      "fechaFinal": "2030-09-09"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "TERCERA SALA UNITARIA DEL TJAQROO",
+    "causaMotivoHechos": "ORDENÓ EL CAMBIO DE MOTOR  DE UN VEHÍCULO OF A UNO PARTÍCULAR",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "SENTNENCIA DEFINITIVA DEL EXPEDIENTE TJA/QR-SU3-074-2019",
+        "tipo": "RESOLUCION",
+        "descripcion": "SENTENCIA DE FECHA 20 DE MARZO DE 2020 POR LA QUE SE DETERMINÓ LA RESPONSABILIDAD ADMINISTRATIVA GRAVE DE WILBERTH ",
+        "url": "https://drive.google.com/file/d/1Us1lib3CyCZxcNwSzvk3oFqRfCBCu7vN/view?usp=sharing",
+        "fecha": "2020-03-14"
+      }
+    ],
+    "expediente": "TJA/QR-SU3-074-2019",
+    "fechaCaptura": "2023-09-01T18:31:33+00:00",
+    "tipoSancion": [
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "SANCIÓN ECONÓMICA POR LA CANTIDAD DE  $42,780.00 PESOS"
+      },
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Se impone la sanción administrativa consistente en la inhabilitación temporal para desempeñar cargo, empleo o comisió en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas por un periodo de 10 años."
+      }
+    ]
+  },
+  {
+    "id": "61e1b1452a16a00013957ab3",
+    "institucionDependencia": {
+      "nombre": "MECÁNICO DEL TALLER MUNICIPAL DE BENITO JUÁREZ",
+      "siglas": "TMBJ"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "EMILIO ",
+      "primerApellido": "JUÁREZ",
+      "segundoApellido": "DORIA",
+      "puesto": "MECÁNICO "
+    },
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "SUSPENSIÓN TEMPORAL POR TREINTA DÍAS NATURALES Y SANCIÓN ECONÓMICA"
+    },
+    "resolucion": {
+      "fechaResolucion": "2020-03-20"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "TERCERA SALA UNITARIA DEL TJAQROO",
+    "causaMotivoHechos": "EL SERVIDOR PÚBLICO INSTRUYÓ AL PERSONAL A SU CARGO PARA REALIZAR EL CAMBIO DE MOTOR NO AUTORIZADO DE UN VEHÍCULO PROPIEDAD DEL MUNICIPIO A UNO PARTICULAR",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "SENTNENCIA DEFINITIVA DEL EXPEDIENTE TJA/QR-SU3-074-2019",
+        "tipo": "RESOLUCION",
+        "descripcion": "SENTENCIA DE FECHA 20 DE MARZO DE 2020 POR LA QUE SE DETERMINÓ LA RESPONSABILIDAD ADMINISTRATIVA GRAVE DE EMILIO JUÁREZ DORIA",
+        "url": "https://drive.google.com/file/d/1Us1lib3CyCZxcNwSzvk3oFqRfCBCu7vN/view?usp=sharing",
+        "fecha": "2020-03-15"
+      }
+    ],
+    "expediente": "TJA/QR-SU3-074-2019",
+    "fechaCaptura": "2023-09-01T18:32:15+00:00",
+    "tipoSancion": [
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN",
+        "descripcion": "SUSPENSIÓN TEMPORAL POR TREINTA DÍAS NATURALES "
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "SANCIÓN ECONÓMICA DE $19220.00"
+      }
+    ]
+  },
+  {
+    "id": "626b08bfb4d39600234713de",
+    "institucionDependencia": {
+      "nombre": "Municipio de Solidaridad Quintana Roo"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "TOMAS ",
+      "primerApellido": "FLORES ",
+      "segundoApellido": "BENITEZ",
+      "puesto": "Delegado de Puerto Aventuras"
+    },
+    "tipoFalta": {
+      "clave": "CEX",
+      "valor": "COHECHO O EXTORSION",
+      "descripcion": "No se advierte potestad alguna otorgada para recibir donaciones a favor de la delegación o el municipio que justifique que el ingreso de dos mil quinientos pesos que obtuvo en cada uno de los meses de octubre noviembre y diciembre de dos mil diecinueve y enero del año dos mil veinte por parte de la empresa Tours Acosta"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-11-19"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "SEGUNDA SALA UNITARIA DEL TJAQROO",
+    "causaMotivoHechos": "Realizó diversos cobros diciendo que eran donaciones a favor del Municipio de Solidaridad",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "SENTENCIA DEFINITIVA DEL EXPEDIENTE 001/2021-SU2-PR",
+        "tipo": "RESOLUCION",
+        "descripcion": "SENTENCIA DE FECHA 19 DE NOVIEMBRE DE 2021 POR LA QUE SE DETERMINÓ LA RESPONSABILIDAD ADMINISTRATIVA GRAVE COMETIDA POR TOMÁS FLORES BENITEZ",
+        "url": "https://drive.google.com/file/d/1rbQYjFROtKgrXCkXay7ROYI9HH4VA8Fu/view?usp=sharing",
+        "fecha": "2021-11-17"
+      }
+    ],
+    "expediente": "01/2021-SU2-PR",
+    "fechaCaptura": "2023-09-01T18:39:01+00:00",
+    "tipoSancion": [
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "sanción económica por 15,000.00 (Son Quince Mil Pesos 00/100 M.N.) "
+      }
+    ]
+  },
+  {
+    "id": "655d13b80e5b49001df64273",
+    "institucionDependencia": {
+      "nombre": "Dirección General de Desarrollo Social del Municipio de Solidaridad"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "MARÍA GUADALUPE",
+      "primerApellido": "TADEO",
+      "segundoApellido": "OLIVARES",
+      "puesto": "Directora de Desarrollo Humano de la Dirección General de Desarrollo Social del Municipio de Solidar",
+      "nivel": "Directora"
+    },
+    "tipoFalta": {
+      "clave": "AFN",
+      "valor": "ABUSO DE FUNCIONES"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-10-31"
+    },
+    "inhabilitacion": {
+      "plazo": "5 AÑOS",
+      "fechaInicial": "2023-05-16",
+      "fechaFinal": "2028-05-16"
+    },
+    "expediente": "01/2019-SU2-PR",
+    "autoridadSancionadora": "Segunda Sala Unitaria del Tribunal de Justicia Administrativa del Estado de Quintana Roo",
+    "tipoSancion": [
+      {
+        "clave": "D",
+        "valor": "DESTITUCIÓN DEL EMPLEO, CARGO O COMISIÓN",
+        "descripcion": "Se impone a María Guadalupe Tadeo Olivares la sanción administrativa consistente en la destitución de su empleo, cargo o comisión, la cual deberá ser ejecutada de conformidad con lo ordenado en el artículo 225 de la Ley General de Responsabilidades Administrativas."
+      },
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Se impone a María Guadalupe Tadeo Olivares, la sanción administrativa consistente en la Inhabilitación temporal para desempeñar empleo, cargo o comisión en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas, por un periodo de 5 años, la cual deberá ser ejecutada de conformidad con lo ordenado en el artículo 225 de la Ley General de Responsabilidades Administrativas."
+      }
+    ],
+    "causaMotivoHechos": "La Ciudadana MARÍA GUADALUPE TADEO OLIVARES y otra incurrieron en ABUSO DE FUNCIONES y DESVÍO DE RECURSO PÚBLICO en virtud de que en el momento de los hechos denunciados fungían como Directora de Desarrollo Humano de la Dirección General de Desarrollo Social y Subdirectora Operativa del Instituto de la Juventud respectivamente del municipio de Solidaridad Quintana Roo y se valieron de sus atribuciones al ser superiores jerárquicos de la denunciante quien desempeñaba el cargo de auxiliar administrativa de la Coordinación de Comunicación Social comisionada al Instituto de la Juventud de Solidaridad Quintana Roo para que ésta realizara una actividad distinta  para la cual fue contratada en beneficio de los intereses de un tercero quien la trasladó para practicarle en contra de su voluntad una prueba de embarazo con lo cual se causó un perjuicio a su integridad así como sus derechos a una vida libre de violencia y al derecho a la vida privada",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "Sentencia definitiva",
+        "tipo": "RESOLUCION",
+        "descripcion": "Sentencia definitiva emitida el 31 de octubre de 2022, en expediente del Procedimiento de Responsabilidad Administrativa 01/2019-SU2-PR",
+        "url": "https://drive.google.com/file/d/15B40koiOrRqU1LC9Frodyt2i-Mnvnk6J/view?usp=drive_link",
+        "fecha": "2022-10-31"
+      }
+    ],
+    "fechaCaptura": "2023-11-21T20:31:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "655d10890e5b49001df64260",
+    "institucionDependencia": {
+      "nombre": "Instituto de la Juventud del Municipio de Solidaridad Quintana Roo",
+      "siglas": "INJUVE SOLIDARIDAD"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "FANY DEL ROSARIO",
+      "primerApellido": "YAM",
+      "segundoApellido": "MATOS",
+      "puesto": "Subdirectora Operativa del Instituto de la Juventud del Municipio de Solidaridad Quintana Roo",
+      "nivel": "Subdirección"
+    },
+    "tipoFalta": {
+      "clave": "DRP",
+      "valor": "DESVÍO DE RECURSOS PÚBLICOS"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-10-31"
+    },
+    "inhabilitacion": {
+      "plazo": "5 años",
+      "fechaInicial": "2023-05-16",
+      "fechaFinal": "2028-05-16"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "Segunda Sala Unitaria del Tribunal de Justicia Administrativa del Estado de Quintana Roo",
+    "causaMotivoHechos": "La Ciudadana FANY DEL ROSARIO YAM MATOS y otro incurrieron en ABUSO DE FUNCIONES y DESVÍO DE RECURSO PÚBLICO en virtud de que en el momento de los hechos denunciados fungían como Subdirectora Operativa del Instituto de la Juventud  y Directora de Desarrollo Humano de la Dirección General de Desarrollo Social respectivamente del municipio de Solidaridad Quintana Roo y se valieron de sus atribuciones al ser superiores jerárquicos de la denunciante quien desempeñaba el cargo de auxiliar administrativa de la Coordinación de Comunicación Social comisionada al Instituto de la Juventud de Solidaridad Quintana Roo para que ésta realizara una actividad distinta  para la cual fue contratada en beneficio de los intereses de un tercero quien la trasladó para practicarle en contra de su voluntad una prueba de embarazo con lo cual se causó un perjuicio a su integridad así como sus derechos a una vida libre de violencia y al derecho a la vida privada",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "Sentencia definitiva",
+        "tipo": "RESOLUCION",
+        "descripcion": "Sentencia definitiva emitida el 31 de octubre de 2022, en expediente del Procedimiento de Responsabilidad Administrativa 01/2019-SU2-PR",
+        "url": "https://drive.google.com/file/d/15B40koiOrRqU1LC9Frodyt2i-Mnvnk6J/view?usp=drive_link",
+        "fecha": "2022-10-30"
+      }
+    ],
+    "expediente": "01/2019-SU2-PR",
+    "fechaCaptura": "2023-11-21T20:32:32+00:00",
+    "tipoSancion": [
+      {
+        "clave": "D",
+        "valor": "DESTITUCIÓN DEL EMPLEO, CARGO O COMISIÓN",
+        "descripcion": "Se impone a Fany del Rosario Yam Matos la sanción administrativa consistente en la destitución de su empleo, cargo o comisión, la cual deberá ser ejecutada de conformidad con lo ordenado en el artículo 225 de la Ley General de Responsabilidades Administrativas."
+      },
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Se impone a Fany del Rosario Yam Matos la sanción administrativa consistente en la Inhabilitación temporal para desempeñar empleo, cargo o comisión en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas, por un periodo de 5 años,  la cual deberá ser ejecutada de conformidad con lo ordenado en el artículo 225 de la Ley General de Responsabilidades Administrativas."
+      }
+    ]
+  },
+  {
+    "id": "663bffa8e21334001ecc93f5",
+    "institucionDependencia": {
+      "nombre": "Municipio de Puerto Morelos",
+      "clave": "NO APLICA",
+      "siglas": "MPM"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Laura Lynn",
+      "primerApellido": "Fernández",
+      "segundoApellido": "Piña",
+      "puesto": "Presidenta Municipal del Ayuntamiento de Puerto Morelos",
+      "nivel": "Presidencia"
+    },
+    "tipoFalta": {
+      "clave": "AFN",
+      "valor": "ABUSO DE FUNCIONES"
+    },
+    "resolucion": {
+      "fechaResolucion": "2024-03-19"
+    },
+    "inhabilitacion": {
+      "plazo": "20 años",
+      "fechaInicial": "2024-04-22",
+      "fechaFinal": "2044-04-21"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "Cuarta Sala Unitaria del Tribunal de Justicia Administrativa del Estado de Quintana Roo",
+    "causaMotivoHechos": "La servidora pública omitió arbitrariamente ejercer sus facultades y atribuciones de vigilar que el gasto  municipal por conducto de la Tesorería Municipal y la Dirección de Egresos se realice conforme al presupuesto de egresos aprobado por el Ayuntamiento para los ejercicios fiscales 2020 y 2021 en especifico lo relacionado al pago de los conceptos de cuotas obrero patronales cesantía vejez y retiro en el periodo correspondiente del mes de enero 2020 a septiembre de 2021 en perjuicio de los trabajadores municipales y ocasionando un daño patrimonial a la Hacienda Pública Municipal por el monto de setenta y ocho millones novecientos cuatro mil ochenta y seis pesos punto cero un centavos moneda nacional",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "Sentencia definitiva",
+        "tipo": "RESOLUCION",
+        "descripcion": "Sentencia definitiva del expediente del Procedimiento de Responsabilidad Administrativa 16/2024-SU4-II",
+        "url": "https://tjaqroo-my.sharepoint.com/:b:/g/personal/yonan_tello_tjaqroo_onmicrosoft_com/EXg6GDKg3ndNng48Nw2wv7kBYnsR1t9-z8EPWQmhMAe0SQ?e=RxjgbL",
+        "fecha": "2024-03-19"
+      }
+    ],
+    "expediente": "16/2024-SU4-II",
+    "fechaCaptura": "2024-05-09T22:30:51+00:00",
+    "observaciones": "Indemnización por los daños y perjuicios ocasionados a la Hacienda Pública Municipal por un monto de setenta y ocho millones novecientos cuatro mil ochenta y seis pesos punto cero un centavos moneda nacional",
+    "tipoSancion": [
+      {
+        "clave": "IRSC",
+        "valor": "INDEMNIZACIÓN RESARCITORIA",
+        "descripcion": "Indemnización por los daños y perjuicios ocasionados a la Hacienda Pública Municipal por un monto de $78,904,086.01 M.N. (Son: setenta y ocho millones novecientos cuatro mil ochenta y seis pesos 01/100 M.N.)"
+      },
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas por un periodo de 20 años."
+      }
+    ]
+  },
+  {
+    "id": "663d5c96e21334001ecc9544",
+    "institucionDependencia": {
+      "nombre": "Sistema Integral para el Desarrollo de la Familia del Municipio de Benito Juárez",
+      "siglas": "DIFBJ"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Francisco Javier",
+      "primerApellido": "Solis",
+      "segundoApellido": "Salas",
+      "puesto": "Coordinador de Donativos del Sistema Integral para el Desarrollo de la Familia del Municipio de BJ",
+      "nivel": "Coordinador"
+    },
+    "tipoFalta": {
+      "clave": "CEX",
+      "valor": "COHECHO O EXTORSION"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-11-15"
+    },
+    "inhabilitacion": {
+      "plazo": "8 meses",
+      "fechaInicial": "2023-06-16",
+      "fechaFinal": "2024-02-15"
+    },
+    "expediente": "TJA/QR-SU3-105-2021",
+    "autoridadSancionadora": "Tercera Sala Unitaria",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas por un periodo de 8 meses."
+      }
+    ],
+    "causaMotivoHechos": "Pretender obtener un beneficio para si por la cantidad de tres mil pesos moneda nacional en efectivo no comprendida en su remuneración como servidor público",
+    "documentos": [],
+    "fechaCaptura": "2024-05-09T23:30:30+00:00",
+    "__v": 0
+  },
+  {
+    "id": "663d5f23e21334001ecc955b",
+    "institucionDependencia": {
+      "nombre": "Dirección se Recursos Humanos del Municipio de Benito Juárez Quintana Roo",
+      "siglas": "DRHMBJ"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Evelio",
+      "primerApellido": "Salvador",
+      "segundoApellido": "García",
+      "puesto": "Auxiliar Administrativo de Resguardo Documental ",
+      "nivel": "Auxiliar"
+    },
+    "tipoFalta": {
+      "clave": "AFN",
+      "valor": "ABUSO DE FUNCIONES"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-04-29"
+    },
+    "inhabilitacion": {
+      "plazo": "1 Año",
+      "fechaInicial": "2023-08-15",
+      "fechaFinal": "2024-08-14"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "Tercera Sala Unitaria",
+    "causaMotivoHechos": "Exigir y pretender obtener con motivo de su cargo como servidor público un beneficio no comprendido en su remuneración al valerse de sus atribuciones como servidor público y a favor de un tercero con el fin de generar un beneficio para si",
+    "documentos": [],
+    "expediente": "TJA/QR-SU3-022-2019",
+    "fechaCaptura": "2024-05-09T23:50:02+00:00",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas por el periodo de 1 año"
+      }
+    ]
+  },
+  {
+    "id": "663d4cf3e21334001ecc9507",
+    "institucionDependencia": {
+      "nombre": "Heroico cuerpo de bomberos del Municipio de Benito Juárez ",
+      "siglas": "DGHCBM"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Pedro Jesús",
+      "primerApellido": "López",
+      "segundoApellido": "Interiam",
+      "puesto": "Bombero"
+    },
+    "tipoFalta": {
+      "clave": "PEC",
+      "valor": "PECULADO"
+    },
+    "resolucion": {
+      "fechaResolucion": "2023-05-30"
+    },
+    "inhabilitacion": {
+      "plazo": "3 meses",
+      "fechaInicial": "2023-07-10",
+      "fechaFinal": "2023-10-09"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "Tercera Sala Unitaria",
+    "causaMotivoHechos": "Hacer uso inapropiado de recursos públicos en perjuicio del servicio público",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "Sentencia definitiva",
+        "tipo": "RESOLUCION",
+        "descripcion": "Sentencia definitiva del expediente del Procedimiento de Responsabilidad Administrativa TJA/QR-SU3-071-2022 de fecha 30 de mayo de 2023",
+        "url": "https://tjaqroo-my.sharepoint.com/:b:/g/personal/yonan_tello_tjaqroo_onmicrosoft_com/Ebf2NP_IIwFHo_jf0Newo84BXwQ4m1oRzLBn3j8ughH21A?e=b9eEft",
+        "fecha": "2023-05-29"
+      }
+    ],
+    "expediente": "TJA/QR-SU3-071-2022",
+    "fechaCaptura": "2024-05-10T00:17:10+00:00",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas por un periodo de 3 meses"
+      }
+    ]
+  },
+  {
+    "id": "61e1d4122a16a00013957af0",
+    "institucionDependencia": {
+      "nombre": "DIRECCIÓN DE JUZGADOS CÍVICOS DEL MUNICIPIO DE B. J. Q.ROO",
+      "siglas": "DJCM"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "CLAUDIA IVETTE",
+      "primerApellido": "MANZANILLO",
+      "segundoApellido": "POOT",
+      "puesto": "JUEZ CALIFICADORA ",
+      "nivel": "JUEZ CALIFICADORA"
+    },
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE"
+    },
+    "resolucion": {
+      "fechaResolucion": "2020-09-21"
+    },
+    "inhabilitacion": {
+      "plazo": "UN AÑO",
+      "fechaInicial": "2020-09-21",
+      "fechaFinal": "2021-09-20"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "TERCERA SALA UNITARIA DEL TJAQROO",
+    "causaMotivoHechos": "UN  CONOCIDO DEL C JUAN  IBARRA FUE DETENIDO Y LA JUEZ CALIFICADORA LE INDICÓ EL MONTO DE LA MULTA PERO AL NO \nTENER EL DINERO COMPLETO LE RECIBIÓ MIL PESOS Y UN RELOJ",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "SENTENCIA DEFINITIVA DEL EXPEDIENTE TJA/QR-SU3-092-2019",
+        "tipo": "RESOLUCION",
+        "descripcion": "SENTENCIA DE FECHA 21 DE SEPTIEMBRE DE 2020 POR LA QUE SE DETERMINÓ LA RESPONSABILIDAD ADMINISTRATIVA GRAVE DE CLAUDIA IVETTE MANZANILLO POOT",
+        "url": "https://drive.google.com/file/d/11r8DZBS682ixinpGZSn-eoPJmCnbtu7M/view",
+        "fecha": "2020-09-17"
+      }
+    ],
+    "expediente": "TJA/QR-SU3-092-2019",
+    "fechaCaptura": "2024-09-23T18:37:48+00:00",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Se impone la sanción administrativa consistente en la inhabilitación temporal para desempeñar cargo, empleo o comisió en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas por un periodo de 1 año."
+      }
+    ]
+  },
+  {
+    "id": "66f1ea7b956115001d514be5",
+    "institucionDependencia": {
+      "nombre": "Dirección de Ingresos Coordinados y Cobranza del Municipio de Benito Juárez Quintana Roo",
+      "siglas": "DICyC"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "José Fernando",
+      "primerApellido": "Mendoza",
+      "segundoApellido": "Martínez",
+      "puesto": "Auxiliar Jurídico",
+      "nivel": "Auxiliar "
+    },
+    "tipoFalta": {
+      "clave": "AFN",
+      "valor": "ABUSO DE FUNCIONES",
+      "descripcion": "Abuso de funciones por cuanto a emitir actos que no estaba facultado así como por ordenar la emisión de actos sin tener las facultades para hacerlo enriquecimiento oculto por no poder acreditar el incremento a su patrimonio"
+    },
+    "resolucion": {
+      "fechaResolucion": "2024-04-08"
+    },
+    "inhabilitacion": {
+      "plazo": "20 años",
+      "fechaInicial": "2024-04-08",
+      "fechaFinal": "2044-04-07"
+    },
+    "expediente": "TJA/QR-SU3-022-2021 y sus acumulados",
+    "autoridadSancionadora": "TERCERA SALA UNITARIA DEL TJAQROO",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio  público y para participar en adquisiciones, arrendamientos, servicios u obras públicas por un periodo de 20 años"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "Sanción económica por la cantidad de $872,000.00 (Son: ochocientos setenta y dos mil pesos 00/100 M.N))"
+      }
+    ],
+    "causaMotivoHechos": "Abuso de funciones por cuanto a emitir actos que no estaba facultado así como por ordenar la emisión de actos sin tener las facultades para hacerlo enriquecimiento oculto por no poder acreditar el incremento a su patrimonio",
+    "documentos": [],
+    "fechaCaptura": "2024-09-23T22:23:55+00:00",
+    "__v": 0
+  }
+]

@@ -1,0 +1,714 @@
+[
+  {
+    "id": "6668fd66108f84001cda8dfa",
+    "institucionDependencia": {
+      "nombre": "FISCALIA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE",
+      "siglas": "FGE"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "ROSARIO ",
+      "primerApellido": "JUAREZ ",
+      "segundoApellido": "RAMIREZ",
+      "puesto": "JEFA DEL DEPARTAMENTO DE CONTROL DE PERSONAL Y PRESTACIONES SOCIALES"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE",
+      "descripcion": "FALTAS ADMINISTRATIVAS "
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-06-27"
+    },
+    "inhabilitacion": {
+      "plazo": "SEIS MESES",
+      "fechaInicial": "2024-05-31",
+      "fechaFinal": "2024-11-30"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "UNIDAD RESOLUTORA",
+    "causaMotivoHechos": "FALTAS ADMINISTRATIVAS ATRIBUIDAS EN FUNCIONES DE JEFA DEL DEPARTAMENTO DE CONTROL DE PERSONAL Y PRESTACIONES SOCIALES",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "ROSARIO JUAREZ RAMIREZ",
+        "descripcion": "INHABILITACIÓN TEMPORAL POR SEIS MESES.",
+        "url": "https://drive.google.com/file/d/19Qmj3ibprcPVmAnvoViYLwUxEMbzhYpt/view?usp=sharing",
+        "fecha": "2024-06-05"
+      }
+    ],
+    "expediente": "FGE/CG/US/PRA/008/2020",
+    "fechaCaptura": "2024-09-19T01:26:50+00:00",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITACIÓN TEMPORAL POR SEIS MESES, PARA DESEMPEÑAR EMPLEOS, CARGOS O COMISIONES EN EL SERVICIO PÚBLICO Y PARA PARTICIPAR EN ADQUISIONES, ARRENDAMIENTOS, SERVICIOS Y OBRAS PÚBLICAS."
+      }
+    ]
+  },
+  {
+    "id": "6668f53f108f84001cda8dcd",
+    "institucionDependencia": {
+      "nombre": "FISCALIA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE",
+      "siglas": "FGE"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "WILFRIDO ALEJANDRO",
+      "primerApellido": "SERRANO ",
+      "segundoApellido": "CRUZ",
+      "puesto": "SUBDIRECTOR DE RECURSOS HUMANOS"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE",
+      "descripcion": "FALTAS ADMINISTRATIVAS "
+    },
+    "resolucion": {
+      "url": "C:\\ESCANERKYO\\FGE-CG-0524-2024.pdf",
+      "fechaResolucion": "2022-06-27"
+    },
+    "inhabilitacion": {
+      "plazo": "NUEVE MESES",
+      "fechaInicial": "2024-05-31",
+      "fechaFinal": "2025-02-28"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "UNIDAD RESOLUTORA",
+    "causaMotivoHechos": "FALTAS ADMINISTRATIVAS EN FUNCIONES DE SUBDIRECTOR DE RECURSOS HUMANOS ",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "WILFRIDO ALEJANDRO SERRANO CRUZ",
+        "descripcion": "INHABILITACIÓN TEMPORAL POR NUEVE MESES.",
+        "url": "https://drive.google.com/file/d/19Qmj3ibprcPVmAnvoViYLwUxEMbzhYpt/view?usp=sharing",
+        "fecha": "2024-06-05"
+      }
+    ],
+    "expediente": "FGE/CG/US/PRA/008/2020",
+    "fechaCaptura": "2024-09-19T01:29:27+00:00",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITACIÓN TEMPORAL POR NUEVE MESES, PARA DESEMPEÑAR EMPLEOS, CARGOS O COMISIONES EN EL SERVICIO PÚBLICO Y PARA PARTICIPAR EN ADQUISIONES, ARRENDAMIENTOS, SERVICIOS Y OBRAS PÚBLICAS."
+      }
+    ]
+  },
+  {
+    "id": "654d2363e61a02001d90f5c7",
+    "institucionDependencia": {
+      "nombre": "FISCALIA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE",
+      "siglas": "FGE"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "AMERICA",
+      "primerApellido": "AGUILAR ",
+      "segundoApellido": "BOZADA",
+      "puesto": "SUBDIRECTORA GENERAL DE ADMINISTRACIÓN"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE",
+      "descripcion": "INHABILITACIÓN"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-10-14"
+    },
+    "inhabilitacion": {
+      "plazo": "5 AÑOS",
+      "fechaInicial": "2023-08-22",
+      "fechaFinal": "2028-08-22"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "CONTRALORIA GENERAL DE LA FISCALIA",
+    "causaMotivoHechos": "IRREGULARIDADES EN LA OBRA CONSTRUCCION Y EQUIPAMIENTO DE LA UNIDAD ANTISECUESTRO DEL ESTADO DE VERACRUZ",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "AMERICA AGUILAR BOSADA",
+        "descripcion": "INHABILITACIÓN TEMPORAL POR CINCO AÑOS.",
+        "url": "https://drive.google.com/file/d/1GiBYlCPVNcTzfIKjj5nUBpjqDsb6SAf2/view?usp=sharing",
+        "fecha": "2023-09-26"
+      }
+    ],
+    "expediente": "CG/FGE/PDA/010/2017",
+    "fechaCaptura": "2024-09-19T01:36:36+00:00",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITACIÓN PARA EJERCER UN CARGO PÚBLICO EN LA FISCALIA GENERAL DEL ESTADO DE VERACRUZ  POR UN LAPSO DE 5 AÑOS"
+      }
+    ]
+  },
+  {
+    "id": "65c6c124b127d2001dc2bb1a",
+    "institucionDependencia": {
+      "nombre": "FISCALIA GENERAL DEL ESTADO DE VERACRUZ",
+      "siglas": "FGE"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "JORGE",
+      "primerApellido": "WINCKLER",
+      "segundoApellido": "ORTIZ",
+      "puesto": "FISCAL GENERAL DEL ESTADO",
+      "nivel": "FISCAL GENERAL"
+    },
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "INHABILITACION DE UN AÑO"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-02-11"
+    },
+    "inhabilitacion": {
+      "plazo": "1 AÑO",
+      "fechaInicial": "2024-02-09",
+      "fechaFinal": "2025-02-09"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "TRIJAEV",
+    "causaMotivoHechos": "CONTRATACION INDEBIDA",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "JORGE WINCKLER ORTIZ",
+        "descripcion": "INHABILITACIÓN TEMPORAL POR UN AÑO.",
+        "url": "https://drive.google.com/file/d/1ebOdXS7ADWkYSGPrZ47BDYcbMdgWMuEp/view?usp=sharing",
+        "fecha": "2024-02-09"
+      }
+    ],
+    "expediente": "PRA/04/2020/SRC-IX",
+    "fechaCaptura": "2024-09-19T01:45:51+00:00",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITACIÓN POR UN AÑO PARA DESEMPEÑAR EMPLEOS, CARGOS O COMISIONES EN EL SERVICIO PÚBLICO ESTATAL"
+      }
+    ]
+  },
+  {
+    "id": "65c6c3bbb127d2001dc2bb53",
+    "institucionDependencia": {
+      "nombre": "FISCALIA GENERAL DEL ESTADO DE VERACRUZ",
+      "siglas": "FGE"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "GABRIELA MERCEDES",
+      "primerApellido": "REVA",
+      "segundoApellido": "HAYON",
+      "puesto": "OFICIAL MAYOR",
+      "nivel": "DIRECTOR GENERAL DE ADMINISTRACION"
+    },
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "INHABILITACION DE UN AÑO"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-02-11"
+    },
+    "inhabilitacion": {
+      "plazo": "1 AÑO",
+      "fechaInicial": "2024-02-09",
+      "fechaFinal": "2025-02-09"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "TRIJAEV",
+    "causaMotivoHechos": "CONTRATACION INDEBIDA",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "GABRIELA MERCEDES REVA HAYON",
+        "descripcion": "INHABILITACIÓN TEMPORAL POR UN AÑO",
+        "url": "https://drive.google.com/file/d/1ebOdXS7ADWkYSGPrZ47BDYcbMdgWMuEp/view?usp=sharing",
+        "fecha": "2024-02-09"
+      }
+    ],
+    "expediente": "PRA/04/2020/SRC-IX",
+    "fechaCaptura": "2024-09-19T01:56:55+00:00",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITACIÓN POR UN AÑO PARA DESEMPEÑAR EMPLEOS, CARGOS O COMISIONES EN EL SERVICIO PÚBLICO ESTATAL"
+      }
+    ]
+  },
+  {
+    "id": "66ea19837f2176001d80a445",
+    "institucionDependencia": {
+      "nombre": "FISCALIA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE",
+      "siglas": "FGE"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "GERARDO ",
+      "primerApellido": "MANTECON ",
+      "segundoApellido": "ROJO",
+      "puesto": "DIRECTOR GENERAL DE ADMINISTRACIÓN "
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE",
+      "descripcion": "FALTAS ADMINISTRATIVAS"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-06-07"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      },
+      "monto": 1111500
+    },
+    "inhabilitacion": {
+      "plazo": "5 AÑOS ",
+      "fechaInicial": "2021-06-07",
+      "fechaFinal": "2026-06-07"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "UNIDAD RESOLUTORA",
+    "causaMotivoHechos": "DAÑO Y PERJUICIO CAUSADO AL PATRIMONIO DE LA FGE",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "GERARDO MANTECÓN ROJO",
+        "descripcion": "INHABILITACIÓN POR UN LAPSO DE 5 AÑOS Y SANCIÓN ECONÓMICA",
+        "url": "https://drive.google.com/file/d/1J98NmixPwr9RpSDpl1mYcZ52lXXSDX42/view?usp=sharing",
+        "fecha": "2023-09-27"
+      }
+    ],
+    "expediente": "CG/FGE/PDA/09/2016",
+    "fechaCaptura": "2024-09-19T17:56:34+00:00",
+    "tipoSancion": [
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "SANCIÓN ECONOMICA POR LA CANTIDAD UN MILLON CIENTO ONCE MIL QUINIENTOS. "
+      }
+    ]
+  },
+  {
+    "id": "668441d3cdea62001dc34ea4",
+    "institucionDependencia": {
+      "nombre": "FISCALIA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE",
+      "siglas": "FGE"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "MARIA ISABEL",
+      "primerApellido": "HERNANDEZ",
+      "segundoApellido": "CRUZ",
+      "puesto": "Fiscal Regional Zona Centro Xalapa"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE",
+      "descripcion": "FALTAS ADMINISTRATIVAS"
+    },
+    "inhabilitacion": {
+      "plazo": "SEIS MESES",
+      "fechaInicial": "2024-07-01",
+      "fechaFinal": "2025-01-01"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "UNIDAD RESOLUTORA",
+    "causaMotivoHechos": "FALTAS ATRIBUIDAS",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "MARIA ISABEL HERNÁNDEZ CRUZ",
+        "descripcion": "INHABILITACIÓN TEMPORAL POR SEIS MESES.",
+        "url": "https://drive.google.com/file/d/1KGRHRQrUu_40x8b5eMfxLIyHrg0B3hMv/view?usp=sharing",
+        "fecha": "2024-07-03"
+      }
+    ],
+    "expediente": "FGE/CG/US/PRA/004/2020",
+    "fechaCaptura": "2024-09-19T19:36:48+00:00",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITACIÓN TEMPORAL POR SEIS MESES, PARA DESEMPEÑAR EMPLEOS, CARGOS O COMISIONES EN EL SERVICIO PÚBLICO Y PARA PARTICIPAR EN ADQUISIONES, ARRENDAMIENTOS, SERVICIOS Y OBRAS PÚBLICAS."
+      }
+    ]
+  },
+  {
+    "id": "653b138ee61a02001d90f588",
+    "institucionDependencia": {
+      "nombre": "FISCALIA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE",
+      "siglas": "FGE"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "GERARDO",
+      "primerApellido": "MANTECON ",
+      "segundoApellido": "ROJO",
+      "puesto": "DIRECTOR GENERAL DE ADMINISTRACIÓN "
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE",
+      "descripcion": "INHABILITACIÓN"
+    },
+    "resolucion": {
+      "fechaResolucion": "2017-12-04"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      },
+      "monto": 2367158.44
+    },
+    "inhabilitacion": {
+      "plazo": "5 AÑOS",
+      "fechaInicial": "2020-09-08",
+      "fechaFinal": "2025-09-08"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "CONTRALORIA GENERAL DE LA FISCALIA",
+    "causaMotivoHechos": "IRREGULARIDADES DETECTADAS EN LA OBRA DE CONSTRUCCIÓN DE LAS INSTALACIONES DE SERVICIOS PERICIALES DE LA ZONA METROPOLITANA EN LA CIUDAD Y PUERTO DE VERACRUZ",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "GERARDO MANTECÓN ROJO",
+        "descripcion": "INHABILITACIÓN TEMPORAL POR CINCO AÑOS.",
+        "url": "https://drive.google.com/file/d/1zlP1g6r_WaNCziRE7LHkO7gFaiV_ptHD/view?usp=sharing",
+        "fecha": "2023-04-14"
+      }
+    ],
+    "expediente": "CG/PDA/01/2017",
+    "fechaCaptura": "2024-09-19T19:56:52+00:00",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "IRREGULARIDADES DETECTADAS EN LA OBRA DE CONSTRUCCIÓN DE LAS INSTALACIONES DE SERVICIOS PERICIALES DE LA ZONA METROPOLITANA EN LA CIUDAD Y PUERTO DE VERACRUZ"
+      }
+    ]
+  },
+  {
+    "id": "66ecd09468d5ba001de8ace5",
+    "institucionDependencia": {
+      "nombre": "Poder Judicial del Estado de Veracruz",
+      "siglas": "PJEV"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Joana Marlen",
+      "primerApellido": "Bautista",
+      "segundoApellido": "Flores",
+      "puesto": "Directora General de Administración",
+      "nivel": "Director"
+    },
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "Inhabilitación temporal de diez años para desempeñarse en el servicio público"
+    },
+    "resolucion": {
+      "fechaResolucion": "2024-09-10"
+    },
+    "inhabilitacion": {
+      "plazo": "10 años",
+      "fechaInicial": "2024-09-11",
+      "fechaFinal": "2034-09-10"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "Pleno del Consejo de la Judicatura",
+    "causaMotivoHechos": "Daño patrimonial con motivo de la contratación irregular de bienes y servicios",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "Ficha técnica certificada del PAS 29/2024-II",
+        "tipo": "CONSTANCIA_INHABILITACION",
+        "descripcion": "Ficha técnica certificada de la resolución ",
+        "url": "https://drive.google.com/drive/folders/1f7IwvXNjN4sqh7RXbcK1gEH7_iQh5tpf?hl=es",
+        "fecha": "2024-09-11"
+      }
+    ],
+    "expediente": "29/2024-II",
+    "fechaCaptura": "2024-09-20T01:32:52+00:00",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Inhabilitación temporal de diez años para desempeñarse en el servicio público"
+      }
+    ]
+  },
+  {
+    "id": "66ecd21b68d5ba001de8ad0d",
+    "institucionDependencia": {
+      "nombre": "Poder Judicial del Estado de Veracruz",
+      "siglas": "PJEV"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Manuela",
+      "primerApellido": "Saldaña",
+      "segundoApellido": "Ríos",
+      "puesto": "Subdirectora de Recursos Financieros",
+      "nivel": "Subdirectora"
+    },
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "Inhabilitación temporal de diez años para desempeñarse en el servicio público"
+    },
+    "resolucion": {
+      "fechaResolucion": "2024-09-10"
+    },
+    "inhabilitacion": {
+      "plazo": "10 años",
+      "fechaInicial": "2024-09-11",
+      "fechaFinal": "2034-09-10"
+    },
+    "expediente": "29/2024-II",
+    "autoridadSancionadora": "Pleno del Consejo de la Judicatura",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Inhabilitación temporal de diez años para desempeñarse en el servicio público"
+      }
+    ],
+    "causaMotivoHechos": "Daño patrimonial con motivo de la contratación irregular de bienes y servicios",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "Ficha técnica certificada del PAS 29/2024-II",
+        "tipo": "CONSTANCIA_INHABILITACION",
+        "descripcion": "Ficha técnica certificada de la resolución ",
+        "url": "https://drive.google.com/drive/folders/1f7IwvXNjN4sqh7RXbcK1gEH7_iQh5tpf?hl=es",
+        "fecha": "2024-09-12"
+      }
+    ],
+    "fechaCaptura": "2024-09-20T01:38:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "66ecd35068d5ba001de8ad20",
+    "institucionDependencia": {
+      "nombre": "Poder Judicial del Estado de Veracruz",
+      "siglas": "PJEV"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Elvis",
+      "primerApellido": "Viveros",
+      "segundoApellido": "Arroyo",
+      "puesto": "Jefe de Departamento de Servicios Generales",
+      "nivel": "Jefe de Departamento"
+    },
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "Inhabilitación temporal de diez años para desempeñarse en el servicio público"
+    },
+    "resolucion": {
+      "fechaResolucion": "2024-09-10"
+    },
+    "inhabilitacion": {
+      "plazo": "10 años",
+      "fechaInicial": "2024-09-11",
+      "fechaFinal": "2034-09-10"
+    },
+    "expediente": "29/2024-II",
+    "autoridadSancionadora": "Pleno del Consejo de la Judicatura",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Inhabilitación temporal de diez años para desempeñarse en el servicio público"
+      }
+    ],
+    "causaMotivoHechos": "Daño patrimonial con motivo de la contratación irregular de bienes y servicios",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "Ficha técnica certificada del PAS 29/2024-II",
+        "tipo": "CONSTANCIA_INHABILITACION",
+        "descripcion": "Ficha técnica certificada de la resolución ",
+        "url": "https://drive.google.com/drive/folders/1f7IwvXNjN4sqh7RXbcK1gEH7_iQh5tpf?hl=es",
+        "fecha": "2024-09-12"
+      }
+    ],
+    "fechaCaptura": "2024-09-20T01:43:44+00:00",
+    "__v": 0
+  },
+  {
+    "id": "66ea1d5d7f2176001d80a4a1",
+    "institucionDependencia": {
+      "nombre": "Poder Judicial del Estado de Veracruz",
+      "siglas": "PJEV"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Ofir Aly",
+      "primerApellido": "Gutiérrez ",
+      "segundoApellido": "Ponce",
+      "puesto": "Subdirector de Recursos Materiales"
+    },
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "Inhabilitación temporal de diez años para desempeñarse en el servicio público"
+    },
+    "resolucion": {
+      "fechaResolucion": "2024-09-10"
+    },
+    "inhabilitacion": {
+      "plazo": "10 años",
+      "fechaInicial": "2024-09-11",
+      "fechaFinal": "2034-09-10"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "Pleno del Consejo de la Judicatura",
+    "causaMotivoHechos": "Daño patrimonial con motivo de la contratación irregular de bienes y servicios",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "Ficha técnica certificada del PAS 29/2024-II",
+        "tipo": "CONSTANCIA_INHABILITACION",
+        "descripcion": "Ficha técnica certificada de la resolución ",
+        "url": "https://drive.google.com/drive/folders/1f7IwvXNjN4sqh7RXbcK1gEH7_iQh5tpf?hl=es",
+        "fecha": "2024-09-12"
+      }
+    ],
+    "expediente": "29/2024-II",
+    "fechaCaptura": "2024-09-20T01:53:20+00:00",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Inhabilitación temporal de diez años para desempeñarse en el servicio público"
+      }
+    ]
+  },
+  {
+    "id": "6713070d254235001d76b93b",
+    "institucionDependencia": {
+      "nombre": "FISCALIA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO De LA LLAVE",
+      "siglas": "FGE"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "DAVID ",
+      "primerApellido": "GARCIA ",
+      "segundoApellido": "GALVAN",
+      "puesto": "FISCAL ESPECIALIZADO PARA LA ATENCIÓN DE DENUNCIAS POR PERSONAS DESAPARECIDAS ZONA CENTRO XALAPA"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE",
+      "descripcion": "RESPONSABLE DE FALTA ATRIBUIDA"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-05-11"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2024-10-17",
+      "fechaFinal": "2025-01-17"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "UNIDAD RESOLUTORA",
+    "causaMotivoHechos": "PROBABLES FALTAS ADMINISTRATIVAS",
+    "documentos": [],
+    "expediente": "FGE/CG/US/PRA/079/2021",
+    "fechaCaptura": "2024-10-19T01:25:29+00:00",
+    "observaciones": "RESPONSABLE DE FALTA ATRIBUIDA",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITACIÓN TEMPORAL POR TRES MESES, PARA DESEMPEÑAR EMPLEOS, CARGOS O COMISIONES EN EL SERVICIO PÚBLICO Y PARA PARTICIPAR EN ADQUISIONES, ARRENDAMIENTOS, SERVICIOS Y OBRAS PÚBLICAS."
+      }
+    ]
+  },
+  {
+    "id": "671c442dd80540001d990c48",
+    "institucionDependencia": {
+      "nombre": "FISCALIA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE",
+      "siglas": "FGE"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "WILFRIDO ALEJANDRO",
+      "primerApellido": "SERRANO",
+      "segundoApellido": "CRUZ",
+      "puesto": "SUBDIRECTOR DE RECURSOS HUMANOS"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE",
+      "descripcion": "FALTAS ADMINISTRATIVAS"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-06-27"
+    },
+    "inhabilitacion": {
+      "plazo": "SEIS MESES",
+      "fechaInicial": "2024-10-24",
+      "fechaFinal": "2025-04-24"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "UNIDAD RESOLUTORA",
+    "causaMotivoHechos": "ADMINISTRATIVAMENTE RESPONSABLE DE FALTAS ADMINISTRATIVAS",
+    "documentos": [],
+    "expediente": "FGE/CG/US/PRA/009/2020",
+    "fechaCaptura": "2024-10-26T01:22:57+00:00",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITACIÓN TEMPORAL POR SEIS MESES, PARA DESEMPEÑAR EMPLEOS, CARGOS O COMISIONES EN EL SERVICIO PÚBLICO Y PARA PARTICIPAR EN ADQUISIONES, ARRENDAMIENTOS, SERVICIOS Y OBRAS PÚBLICAS."
+      }
+    ]
+  },
+  {
+    "id": "672112566bddcb001d740215",
+    "institucionDependencia": {
+      "nombre": "FISCALIA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE",
+      "siglas": "FGE"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "ROSARIO",
+      "primerApellido": "JUAREZ",
+      "segundoApellido": "RAMIREZ",
+      "puesto": "JEFA DEL DEPARTAMENTO DE CONTROL DE PERSONAL Y PRESTACIONES SOCIALES"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE",
+      "descripcion": "FALTAS ADMINISTRATIVAS"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-06-27"
+    },
+    "inhabilitacion": {
+      "plazo": "SEIS MESES",
+      "fechaInicial": "2024-10-24",
+      "fechaFinal": "2025-01-24"
+    },
+    "expediente": "FGE/CG/US/PRA/009/2020",
+    "autoridadSancionadora": "UNIDAD RESOLUTORA",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITACIÓN TEMPORAL POR TRES MESES, PARA DESEMPEÑAR EMPLEOS, CARGOS O COMISIONES EN EL SERVICIO PÚBLICO Y PARA PARTICIPAR EN ADQUISIONES, ARRENDAMIENTOS, SERVICIOS Y OBRAS PÚBLICAS."
+      }
+    ],
+    "causaMotivoHechos": "ADMINISTRATIVAMENTE RESPONSABLE DE FALTAS ADMINISTRATIVAS",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "INHABILITACIÓN ROSARIO JUAREZ RAMIREZ",
+        "tipo": "RESOLUCION",
+        "descripcion": "INHABILITACIÓN TEMPORAL POR TRES MESES.",
+        "url": "https://drive.google.com/file/d/1wbyoggNjrApXm1QCmJC2nJ1KUYgk-L5j/view?usp=sharing",
+        "fecha": "2024-10-24"
+      }
+    ],
+    "fechaCaptura": "2024-10-29T16:50:30+00:00",
+    "__v": 0
+  }
+]

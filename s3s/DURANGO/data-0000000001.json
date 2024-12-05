@@ -1,0 +1,35 @@
+[
+  {
+    "id": "66904c5b411eb5001d4ed976",
+    "institucionDependencia": {
+      "nombre": "Dirección General de Transportes del Estado de Durango"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Raúl",
+      "primerApellido": "García",
+      "segundoApellido": "Álvarez",
+      "puesto": "Inspector Regional de la Delegación de la Dir Gral de Transportes del Edo en Gpe Victoria Dgo"
+    },
+    "tipoFalta": {
+      "clave": "CEX",
+      "valor": "COHECHO O EXTORSION"
+    },
+    "resolucion": {
+      "fechaResolucion": "2024-05-13"
+    },
+    "inhabilitacion": {
+      "plazo": "3 meses"
+    },
+    "__v": 0,
+    "causaMotivoHechos": "Obtener un beneficio por si consiste en dinero no comprendido dentro de su remuneración legal en el ejercicio de sus funciones ",
+    "documentos": [],
+    "fechaCaptura": "2024-07-11T21:33:25+00:00",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": ""
+      }
+    ]
+  }
+]

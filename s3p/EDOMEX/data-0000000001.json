@@ -1,0 +1,296 @@
+[
+  {
+    "id": "622799f073ed865c36ba7cd5",
+    "fechaCaptura": "2020-11-09T11:30:55Z",
+    "expediente": "07/2018",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral del Estado de México",
+      "siglas": "ieem",
+      "clave": "oau-004"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "PEDRO BARRUETA ESCOBAR",
+      "objetoSocial": "FISICA",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "",
+    "autoridadSancionadora": "",
+    "tipoFalta": "ADMINISTRATIVA GRAVE",
+    "tipoSancion": [
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "SANCIÓN ECONÓMICA"
+      }
+    ],
+    "causaMotivoHechos": "UTILIZACIÓN DE INFORMACIÓN FALSA, ",
+    "acto": "",
+    "responsableSancion": {
+      "nombres": "",
+      "primerApellido": "",
+      "segundoApellido": ""
+    },
+    "resolucion": {
+      "sentido": "",
+      "url": "https://trijaem.gob.mx/sentencias"
+    },
+    "multa": {
+      "monto": 7549,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "observaciones": " ",
+    "documentos": []
+  },
+  {
+    "id": "622799f173ed865c36ba7cda",
+    "fechaCaptura": "2020-11-09T12:07:38Z",
+    "expediente": "13/2019",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral del Estado de México",
+      "siglas": "ieem",
+      "clave": "oau-004"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "MÓNICA VIRGINIA MARTÍNEZ BRINGAS",
+      "objetoSocial": "PERSONA FÍSICA",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "",
+    "autoridadSancionadora": "",
+    "tipoFalta": "ADMINISTRATIVA GRAVE",
+    "tipoSancion": [
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "SANCIÓN ECONÓMICA"
+      }
+    ],
+    "causaMotivoHechos": "UTILIZACIÓN DE INFORMACIÓN FALSA, ",
+    "acto": "",
+    "responsableSancion": {
+      "nombres": "",
+      "primerApellido": "",
+      "segundoApellido": ""
+    },
+    "resolucion": {
+      "sentido": "",
+      "url": "https://trijaem.gob.mx/sentencias"
+    },
+    "multa": {
+      "monto": 8060,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "observaciones": " ",
+    "documentos": []
+  },
+  {
+    "id": "622799f173ed865c36ba7cdf",
+    "fechaCaptura": "2022-02-21T12:37:20Z",
+    "expediente": "37/2020",
+    "institucionDependencia": {
+      "nombre": "N/A",
+      "siglas": "N/A",
+      "clave": "N/E"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "RODRÍGUEZ VENEGAS IRIS IVONNE",
+      "objetoSocial": "SD",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "",
+    "autoridadSancionadora": "",
+    "tipoFalta": "ADMINISTRATIVA GRAVE",
+    "tipoSancion": [
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "SANCIÓN ECONÓMICA"
+      }
+    ],
+    "causaMotivoHechos": "UTILIZACIÓN DE INFORMACIÓN FALSA, ",
+    "acto": "",
+    "responsableSancion": {
+      "nombres": "",
+      "primerApellido": "",
+      "segundoApellido": ""
+    },
+    "resolucion": {
+      "sentido": "",
+      "url": "https://trijaem.gob.mx/sentencias"
+    },
+    "multa": {
+      "monto": 8449,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "observaciones": " ",
+    "documentos": []
+  },
+  {
+    "id": "6317b5dd055a2a7017d97424",
+    "fechaCaptura": "2022-09-06T15:10:42Z",
+    "expediente": "01/2021",
+    "institucionDependencia": {
+      "nombre": "N/A",
+      "siglas": "N/A",
+      "clave": "N/E"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "PROYECTOS Y CONSTRUCCIONES  R&M, SOCIEDAD ANONIMA DE CAPITAL VARIABLE",
+      "objetoSocial": "LA CONSTRUCCIÓN, REMODELACIÓN, MANTENIMIENTO, ADMINISTRACIÓN DE TODO TIPO DE INMUEBLE Y EN GENERAL TODO TIPO DE OBRA O PROYECTO DE INGENIERÍA",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "",
+    "autoridadSancionadora": "",
+    "tipoFalta": "ADMINISTRATIVA GRAVE",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "USO INDEBIDO DE RECURSOS PÚBLICOS, ",
+    "acto": "",
+    "responsableSancion": {
+      "nombres": "",
+      "primerApellido": "",
+      "segundoApellido": ""
+    },
+    "resolucion": {
+      "sentido": "",
+      "url": ""
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "0 día(s) 0 mes(es) 5 año(s)"
+    },
+    "observaciones": "EL PERIODO CORRESPONDE A: INHABILITACIÓN TEMPORAL PARA PARTICIPAR EN ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS U OBRAS",
+    "documentos": []
+  },
+  {
+    "id": "652dbfd33571bce3cc3d0029",
+    "fechaCaptura": "2023-06-27T14:39:58Z",
+    "expediente": "6/2021",
+    "institucionDependencia": {
+      "nombre": "Fiscalía General de Justicia del Estado de México",
+      "siglas": "fgjem",
+      "clave": "oau-002"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "ALISON DENISSE VALADEZ GUTIÉRREZ",
+      "objetoSocial": "PERSONA FÍSICA",
+      "tipoPersona": "F",
+      "telefono": "70000000",
+      "directorGeneral": {
+        "nombres": "NA",
+        "primerApellido": "NA",
+        "segundoApellido": "NA"
+      },
+      "apoderadoLegal": {
+        "nombres": "NA",
+        "primerApellido": "NA",
+        "segundoApellido": "NA"
+      }
+    },
+    "objetoContrato": "",
+    "autoridadSancionadora": "",
+    "tipoFalta": "ADMINISTRATIVA GRAVE",
+    "tipoSancion": [
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "SANCIÓN ECONÓMICA"
+      }
+    ],
+    "causaMotivoHechos": "UTILIZACIÓN DE INFORMACIÓN FALSA, ",
+    "acto": "",
+    "responsableSancion": {
+      "nombres": "",
+      "primerApellido": "",
+      "segundoApellido": ""
+    },
+    "resolucion": {
+      "sentido": "",
+      "url": ""
+    },
+    "multa": {
+      "monto": 8449,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "observaciones": "Titular de la Autoridad Investigadora del Órgano Interno de Control de la Fiscalía General de Justicia del Estado de México. \nTitular de la Autoridad Sustanciadora del Órgano Interno de Control de la Fiscalía General de Justicia del Estado de México. \nAl ser la persona física la prestadora del servicio social, se denota que no laboro en la Fiscalía General de Justicia del Estado de México.",
+    "documentos": []
+  },
+  {
+    "id": "652dbfd33571bce3cc3d002c",
+    "fechaCaptura": "2023-07-10T09:23:07Z",
+    "expediente": "32/2020",
+    "institucionDependencia": {
+      "nombre": "N/A",
+      "siglas": "N/A",
+      "clave": "N/E"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "MISHAEL CAYETANO PIÑA",
+      "objetoSocial": "PERSONA FÍSICA",
+      "tipoPersona": "F",
+      "telefono": "0",
+      "directorGeneral": {
+        "nombres": "NA",
+        "primerApellido": "NA",
+        "segundoApellido": "NA"
+      },
+      "apoderadoLegal": {
+        "nombres": "NA",
+        "primerApellido": "NA",
+        "segundoApellido": "NA"
+      }
+    },
+    "objetoContrato": "",
+    "autoridadSancionadora": "",
+    "tipoFalta": "ADMINISTRATIVA GRAVE",
+    "tipoSancion": [
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "SANCIÓN ECONÓMICA"
+      }
+    ],
+    "causaMotivoHechos": "UTILIZACIÓN DE INFORMACIÓN FALSA, ",
+    "acto": "",
+    "responsableSancion": {
+      "nombres": "",
+      "primerApellido": "",
+      "segundoApellido": ""
+    },
+    "resolucion": {
+      "sentido": "",
+      "url": ""
+    },
+    "multa": {
+      "monto": 8449,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "observaciones": "TITULAR DE LA AUTORIDAD INVESTIGADORA DEL ORGANO INTERNO DE CONTROL DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO\nTITULAR DE LA AUTORIDAD SUBSTANCIADORA DEL ORGANO INTERNO DE CONTROL DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO\n\nMISHAEL CAYETANO PIÑA, EN SU CARÁCTER DE PARTICULAR, AL MOMENTO DE COMETER LA CONDUCTA REALIZÓ EL SERVICIO SOCIAL",
+    "documentos": []
+  }
+]

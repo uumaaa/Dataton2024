@@ -1,0 +1,246 @@
+[
+  {
+    "id": "2020001231",
+    "fechaCaptura": "2020-12-01T12:27:45",
+    "expediente": "D-082/2016",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE LA FUNCION PUBLICA",
+      "siglas": "SFP",
+      "clave": "K4"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "LELIO",
+      "primerApellido": "HERNANDEZ",
+      "segundoApellido": "GORDILLO",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "puesto": "RESIDENTE DE OBRA",
+      "nivel": ""
+    },
+    "autoridadSancionadora": "SECRETARÍA DE LA FUNCIÓN PÚBLICA",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "VIOLACION A LO PREVISTO EN LAS FRACCIONES I,II, XXI Y XXIII DEL ART. 47 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS (POR CONCEPTOS AUTORIZADOS Y PAGOS NO EJECUTADOS A FAVOR DE CONTRATISTAS)"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "VIOLACION A LO PREVISTO EN LAS FRACCIONES I,II, XXI Y XXIII DEL ART. 47 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS (POR CONCEPTOS AUTORIZADOS Y PAGOS NO EJECUTADOS A FAVOR DE CONTRATISTAS)",
+    "resolucion": {
+      "url": "https://transparencia.tabasco.gob.mx/media/SFP/2020/4/551185.pdf",
+      "fechaResolucion": "2020-09-17"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Mexican Peso"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "10 AÑOS",
+      "fechaInicial": "2020-09-21",
+      "fechaFinal": "2030-09-21"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "2020001231",
+        "tipo": "RESOLUCION",
+        "titulo": "RESOLUCIÓN",
+        "descripcion": "PRESENTADO EN ORIGINAL POR ECONOMIA PROCESAL",
+        "url": "https://transparencia.tabasco.gob.mx/media/SFP/2020/4/551185.pdf",
+        "fecha": "2020-09-17"
+      }
+    ]
+  },
+  {
+    "id": "2020000201",
+    "fechaCaptura": "2020-02-17T13:44:40",
+    "expediente": "D-089/2017",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE LA FUNCION PUBLICA",
+      "siglas": "SFP",
+      "clave": "K4"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "MAURICIO",
+      "primerApellido": "CASTILLO",
+      "segundoApellido": "CASTILLO",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "puesto": "DIRECTOR DE INFRAESTRUCTURA AGRICOLA",
+      "nivel": ""
+    },
+    "autoridadSancionadora": "SECRETARÍA DE LA FUNCIÓN PÚBLICA",
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO",
+      "descripcion": "VIOLACIÓN A LO PREVISTO EN LAS FRACCIONES I, XXI Y XXIII DEL ART. 47 DE LA LRSP. NO BRINDÓ LA ADECUADA ASESORÍA TÉCNICA A LOS PRODUCTORES, EN LAS ACCIONES DE CONSTRUCCIÓN DE INFRAESTRUCTURA PRODUCTIVA, ASÍ TAMPOCO PROCURÓ LA CORRECTA EJECUSIÓN Y SUPERVICIÓN DE LAS OBRAS DE INFRAESTRUCTURA Y EQUIPAMI"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "VIOLACIÓN A LO PREVISTO EN LAS FRACCIONES I, XXI Y XXIII DEL ART. 47 DE LA LRSP. NO BRINDÓ LA ADECUADA ASESORÍA TÉCNICA A LOS PRODUCTORES, EN LAS ACCIONES DE CONSTRUCCIÓN DE INFRAESTRUCTURA PRODUCTIVA, ASÍ TAMPOCO PROCURÓ LA CORRECTA EJECUSIÓN Y SUPERVICIÓN DE LAS OBRAS DE INFRAESTRUCTURA Y EQUIPAMI",
+    "resolucion": {
+      "url": "https://transparencia.tabasco.gob.mx/media/SFP/2020/1/531201.pdf",
+      "fechaResolucion": "2019-07-22"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Mexican Peso"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "ONCE AÑOS",
+      "fechaInicial": "2019-08-14",
+      "fechaFinal": "2030-08-14"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "2020000201",
+        "tipo": "RESOLUCION",
+        "titulo": "RESOLUCION",
+        "descripcion": "PRESENTADO EN ORIGINAL POR ECONOMIA PROCESAL",
+        "url": "https://transparencia.tabasco.gob.mx/media/SFP/2020/1/531201.pdf",
+        "fecha": "2019-07-22"
+      }
+    ]
+  },
+  {
+    "id": "2020001211",
+    "fechaCaptura": "2020-11-30T13:37:03",
+    "expediente": "D-186/2016",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE LA FUNCION PUBLICA",
+      "siglas": "SFP",
+      "clave": "K4"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "GABRIEL",
+      "primerApellido": "LOPEZ",
+      "segundoApellido": "HERNANDEZ",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "puesto": "DIRECTOR DE CONTROL Y SEGUIMIENTO DE RECURSOS DE LA OBRA PUBLICA",
+      "nivel": ""
+    },
+    "autoridadSancionadora": "SECRETARÍA DE LA FUNCIÓN PÚBLICA",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "VIOLACIÓN A LO PREVISTO EN LAS FRACCIONES I, II, XXI Y XXIII DEL ARTÍCULO 47 DE LA LEY DE LA LRSP. (INFRINGIO LOS PPRINCIPIOS DE LEGALIDAD, HONRADEZ, LEALTAD, IMPARCIALIDAD Y EFICIENCIA)."
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "VIOLACIÓN A LO PREVISTO EN LAS FRACCIONES I, II, XXI Y XXIII DEL ARTÍCULO 47 DE LA LEY DE LA LRSP. (INFRINGIO LOS PPRINCIPIOS DE LEGALIDAD, HONRADEZ, LEALTAD, IMPARCIALIDAD Y EFICIENCIA).",
+    "resolucion": {
+      "url": "https://transparencia.tabasco.gob.mx/media/SFP/2020/4/551182.pdf",
+      "fechaResolucion": "2020-03-18"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Mexican Peso"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "ONCE AÑOS",
+      "fechaInicial": "2020-07-07",
+      "fechaFinal": "2031-07-07"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "2020001211",
+        "tipo": "RESOLUCION",
+        "titulo": "RESOLUCIÓN",
+        "descripcion": "PRESENTADO EN ORIGINAL POR ECONIMIA PROCESAL",
+        "url": "https://transparencia.tabasco.gob.mx/media/SFP/2020/4/551182.pdf",
+        "fecha": "2020-03-18"
+      }
+    ]
+  },
+  {
+    "id": "2020000361",
+    "fechaCaptura": "2020-03-09T13:48:50",
+    "expediente": "D-2134/2014",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE LA FUNCION PUBLICA",
+      "siglas": "SFP",
+      "clave": "K4"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "JOSE MANUEL",
+      "primerApellido": "SAIZ",
+      "segundoApellido": "PINEDA",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "puesto": "SECRETARIO DE ADMINISTRACION Y FINANZAS DE LA SECRETARIA DE ADMINISTRACION Y FINANZAS",
+      "nivel": ""
+    },
+    "autoridadSancionadora": "SECRETARÍA DE LA FUNCIÓN PÚBLICA",
+    "tipoFalta": {
+      "clave": "NAD",
+      "valor": "NEGLIGENCIA ADMINISTRATIVA",
+      "descripcion": "POR FRANCA VIOLACIÓN A LO PREVISTO EN LAS FRACCIONES I, II Y III DEL ARTÍCULO 47 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS. CAUSÓ DAÑOS Y PERJUICIOS A LA HACIENDA PÚBLICA ESTATAL. (OBSERVACION HECHA POR LA AUDITORÍA SUPERIO DE LA FEDERACION, DEL EJERCICIO FISCAL 2012)"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "POR FRANCA VIOLACIÓN A LO PREVISTO EN LAS FRACCIONES I, II Y III DEL ARTÍCULO 47 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS. CAUSÓ DAÑOS Y PERJUICIOS A LA HACIENDA PÚBLICA ESTATAL. (OBSERVACION HECHA POR LA AUDITORÍA SUPERIO DE LA FEDERACION, DEL EJERCICIO FISCAL 2012)",
+    "resolucion": {
+      "url": "https://transparencia.tabasco.gob.mx/media/SFP/2020/1/531290.pdf",
+      "fechaResolucion": "2018-12-14"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Mexican Peso"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "6 AÑOS",
+      "fechaInicial": "2019-02-26",
+      "fechaFinal": "2025-02-26"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "2020000361",
+        "tipo": "RESOLUCION",
+        "titulo": "RESOLUCION",
+        "descripcion": "PRESENTADO EN ORIGINAL POR ECONOMIA PROCESAL",
+        "url": "https://transparencia.tabasco.gob.mx/media/SFP/2020/1/531290.pdf",
+        "fecha": "2018-12-14"
+      }
+    ]
+  }
+]

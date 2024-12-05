@@ -1,0 +1,941 @@
+[
+  {
+    "id": "636accbc9668cf001d71d25e",
+    "institucionDependencia": {
+      "nombre": "AUDITORÍA SUPERIOR DEL ESTADO DE GUERRERO",
+      "siglas": "ASE"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "DANIEL",
+      "primerApellido": "CASTRO",
+      "segundoApellido": "TOLENTINO",
+      "puesto": "AUDITOR",
+      "nivel": "C"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE",
+      "descripcion": "NO CUSTODIAR NI CUIDAR DOCUMENTACION Y DECLARACION PATRIMONIAL Y DE INTERESES POR CONCLUSION DEL ENCARGO EXTEMPORANEA"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-04-06"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2022-06-17",
+      "fechaFinal": "2022-09-15"
+    },
+    "expediente": "ASE-OIC-SS-MI-0009-2021",
+    "autoridadSancionadora": "DIRECTORA DE RESOLUCIONES",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "TRES MESES"
+      }
+    ],
+    "causaMotivoHechos": "IRRESPONSABILIDAD DESCUIDO Y NEGLIGENCIA DEL SERVIDOR PUBLICO EN EL DESEMPEÑO DEL CARGO",
+    "observaciones": "VIOLACIÓN AL ARTÍCULO 49 FRACCIÓN IV y V  DE LA LEY 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO",
+    "documentos": [],
+    "fechaCaptura": "2022-11-08T21:40:12+00:00",
+    "__v": 0
+  },
+  {
+    "id": "636e767a9668cf001d71d415",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral y de Participación Ciudadana del Estado de Guerrero",
+      "siglas": "IEPC"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Cristian Andres",
+      "primerApellido": "Bustos",
+      "segundoApellido": "Maciel",
+      "puesto": "Auxiliar Administrativo de Consejo Distrital Electoral"
+    },
+    "tipoFalta": {
+      "clave": "IDSP",
+      "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+    },
+    "__v": 0,
+    "causaMotivoHechos": "Omitir presentar en tiempo la declaración de situación patrimonial y de intereses con motivo de la conclusión del cargo",
+    "documentos": [],
+    "expediente": "IEPC/CI/PRA/006/2019",
+    "fechaCaptura": "2022-11-11T16:23:11+00:00",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Inhabilitación temporal de un año"
+      }
+    ]
+  },
+  {
+    "id": "636e7f129668cf001d71d494",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral y de Participación Ciudadana del Estado de Guerrero",
+      "siglas": "IEPC"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Santiago",
+      "primerApellido": "Reynoso",
+      "segundoApellido": "García",
+      "puesto": "Analista de Jurídico de Consejo General Distrital"
+    },
+    "tipoFalta": {
+      "clave": "IDSP",
+      "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+    },
+    "__v": 0,
+    "causaMotivoHechos": "Omitió presentar en tiempo y forma su declaración de situación patrimonial y de intereses por conclución del cargo",
+    "documentos": [],
+    "expediente": "IEPC/CI/PRA/008/2019",
+    "fechaCaptura": "2022-11-11T16:59:59+00:00",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Inhabilitación temporal de un año"
+      }
+    ]
+  },
+  {
+    "id": "636e807b9668cf001d71d53b",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral y de Participación Ciudadana del Estado de Guerrero",
+      "siglas": "IEPC"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "María Georgina",
+      "primerApellido": "Pérez",
+      "segundoApellido": "Luciano",
+      "puesto": "Intendente de Consejo General Distrital"
+    },
+    "tipoFalta": {
+      "clave": "IDSP",
+      "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+    },
+    "expediente": "IEPC/CI/PRA/010/2019",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Inhabilitación temporal de un año"
+      }
+    ],
+    "causaMotivoHechos": "Omitió presentar en tiempo y forma su declaración de situación patrimonial y de intereses por conclución del cargo",
+    "documentos": [],
+    "fechaCaptura": "2022-11-11T17:03:55+00:00",
+    "__v": 0
+  },
+  {
+    "id": "636e81149668cf001d71d55e",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral y de Participación Ciudadana del Estado de Guerrero"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Rodolfo",
+      "primerApellido": "Reza",
+      "segundoApellido": "Román",
+      "puesto": "Chofer de Consejo General Distrital"
+    },
+    "tipoFalta": {
+      "clave": "IDSP",
+      "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+    },
+    "expediente": "IEPC/CI/PRA/011/2019",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Inhabilitación temporal de un año"
+      }
+    ],
+    "causaMotivoHechos": "Omitió presentar en tiempo y forma su declaración de situación patrimonial y de intereses por conclución del cargo",
+    "documentos": [],
+    "fechaCaptura": "2022-11-11T17:06:28+00:00",
+    "__v": 0
+  },
+  {
+    "id": "636e817b9668cf001d71d57d",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral y de Participación Ciudadana del Estado de Guerrero",
+      "siglas": "IEPC"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Abigail",
+      "primerApellido": "Verona",
+      "segundoApellido": "Valentín",
+      "puesto": "Intendente de Consejo General Distrital"
+    },
+    "tipoFalta": {
+      "clave": "IDSP",
+      "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+    },
+    "expediente": "IEPC/CI/PRA/012/2019",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Inhabilitación temporal de un año"
+      }
+    ],
+    "causaMotivoHechos": "Omitió presentar en tiempo y forma su declaración de situación patrimonial y de intereses por conclución del cargo",
+    "documentos": [],
+    "fechaCaptura": "2022-11-11T17:08:11+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6372b39d9668cf001d71d63a",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral y de Participación Ciudadana del Estado de Guerrero",
+      "siglas": "IEPC"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Kisai",
+      "primerApellido": "Manrique",
+      "segundoApellido": "Pérez",
+      "puesto": "Auxiliar Administrativa adscrita a la Coordinación de Recursos Materiales y Servicios"
+    },
+    "tipoFalta": {
+      "clave": "IDSP",
+      "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+    },
+    "expediente": "IEPC/CI/PRA/015/2019",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Inhabilitación temporal de un año"
+      }
+    ],
+    "causaMotivoHechos": "Omitió presentar en tiempo y forma su declaración de situación patrimonial y de intereses por conclución del cargo",
+    "documentos": [],
+    "fechaCaptura": "2022-11-14T21:31:09+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6372b1b39668cf001d71d5c9",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral y de Participación Ciudadana del Estado de Guerrero",
+      "siglas": "IEPC"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "José Antonio",
+      "primerApellido": "Sotelo",
+      "segundoApellido": "Salgado",
+      "puesto": "Analista adscrito a la Dirección General de Informatica y Sistemas"
+    },
+    "tipoFalta": {
+      "clave": "IDSP",
+      "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+    },
+    "__v": 0,
+    "causaMotivoHechos": "Omitió presentar en tiempo y forma su declaración de situación patrimonial y de intereses por conclución del cargo",
+    "documentos": [],
+    "expediente": "IEPC/CI/PRA/013/2019",
+    "fechaCaptura": "2022-11-14T21:32:44+00:00",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Inhabilitación temporal de un año"
+      }
+    ]
+  },
+  {
+    "id": "6372b2bd9668cf001d71d627",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral y de Participación Ciudadana del Estado de Guerrero",
+      "siglas": "IEPC"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Isauro",
+      "primerApellido": "Biviano",
+      "segundoApellido": "Basurto",
+      "puesto": "Auxiliar Administrativo adscrito a la Coordinación de Sistemas Internos"
+    },
+    "tipoFalta": {
+      "clave": "IDSP",
+      "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+    },
+    "__v": 0,
+    "causaMotivoHechos": "Omitió presentar en tiempo y forma su declaración de situación patrimonial y de intereses por conclución del cargo",
+    "documentos": [],
+    "expediente": "IEPC/CI/PRA/014/2019",
+    "fechaCaptura": "2022-11-14T21:34:43+00:00",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Inhabilitación temporal de un año"
+      }
+    ]
+  },
+  {
+    "id": "64f78c5621c1df001d542143",
+    "institucionDependencia": {
+      "nombre": "FIDEICOMISO PARA LA PROMOCIÓN TURÍSTICA DE ACAPULCO",
+      "siglas": "FIDETUR"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "SILVIA",
+      "primerApellido": "SANDOVAL",
+      "segundoApellido": "PELÁEZ",
+      "puesto": "DIRECTORA DE ADMINISTRACIÓN Y FINANZAS DEL FIDEICOMISO PARA LA PROMOCIÓN TURÍSTICA DE ACAPULCO "
+    },
+    "tipoFalta": {
+      "clave": "PEC",
+      "valor": "PECULADO",
+      "descripcion": "Art 53 de la Ley Número 465 de Responsabilidades Administrativas Cometerá peculado el servidor público que autorice solicite o realice actos para el uso o apropiación para sí o para las personas a las que se refiere el artículo anterior de recursos públicos sean materiales humanos o financieros sin fundamento jurídico o en contraposición a las normas aplicables"
+    },
+    "resolucion": {
+      "url": "https://www.tjaguerrero.org.mx/wp-content/uploads/2023/09/TJA-SRCH-JRAG-001-2021-_Censurado2.pdf",
+      "fechaResolucion": "2023-04-11"
+    },
+    "inhabilitacion": {
+      "plazo": "12 años y 8 meses",
+      "fechaInicial": "2023-09-04",
+      "fechaFinal": "2036-05-04"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "Sala Regional Chilpancingo del Tribunal de Justicia Administrativa del Estado de Guerrero",
+    "causaMotivoHechos": "Haber falsificado solicitudes de recursos económicos para trasferir recursos financieros de la cuenta bancaria    principal del Banco Santander México S A de C V a nombre del Gobierno del Estado de Guerrero a la cuenta bancaria empresarial del Banco Santander México S A de C V a nombre Fideicomiso para la Promoción Turística de Acapulco para apropiase de recursos públicos financieros por la cantidad de CINCO MILLONES TREINTA Y CINCO MIL PESOS mediante trasferencias electrónicas que se realizó a su cuenta bancaria personal  de la Institución Bancaria Banco Santander México S A de C V",
+    "documentos": [],
+    "expediente": "TJA/SRCH/JRAG/001/2021",
+    "fechaCaptura": "2023-09-05T20:36:50+00:00",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "inhabilitación para desempeñar empleo, cargos o comisiones en el servicio público y participar en adquisiones, arrendamientos, servicios u obras públicas por un período de 12 años y 8 meses"
+      }
+    ]
+  },
+  {
+    "id": "6601df9721c1df001d542323",
+    "institucionDependencia": {
+      "nombre": "Zihuatanejo de Azueta",
+      "clave": "MZA",
+      "siglas": "MZA"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Christian",
+      "primerApellido": "Anzo",
+      "segundoApellido": "Salazar",
+      "puesto": "Dirección de obras publicas ",
+      "nivel": "Directivo"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE",
+      "descripcion": "falta administrativa por omision"
+    },
+    "resolucion": {
+      "fechaResolucion": "2023-04-03"
+    },
+    "inhabilitacion": {
+      "plazo": "3 meses",
+      "fechaInicial": "2023-04-06",
+      "fechaFinal": "2023-07-06"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "Organo de Control Interno Municipal",
+    "causaMotivoHechos": "Auditoria de cumplimiento a Inversiones físicas número 2021-C-CIF-079-010-2022",
+    "documentos": [],
+    "expediente": "003/2023",
+    "fechaCaptura": "2024-03-25T20:35:46+00:00",
+    "tipoSancion": [
+      {
+        "clave": "O",
+        "valor": "OTRO",
+        "descripcion": "Suspensión Temporal"
+      }
+    ]
+  },
+  {
+    "id": "6601e0d321c1df001d54234b",
+    "institucionDependencia": {
+      "nombre": "Zihuatanejo de Azueta",
+      "clave": "MZA",
+      "siglas": "MZA"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Lisseth de Jesús",
+      "primerApellido": "Gutiérrez ",
+      "segundoApellido": "Solis",
+      "puesto": "Tesoreria",
+      "nivel": "Direccion"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE",
+      "descripcion": "falta administrativa por omision"
+    },
+    "resolucion": {
+      "fechaResolucion": "2023-04-03"
+    },
+    "expediente": "004/2023-Resultados3",
+    "autoridadSancionadora": "Organo de Control Interno Municipal",
+    "tipoSancion": [
+      {
+        "clave": "O",
+        "valor": "OTRO",
+        "descripcion": "Amonestación privada"
+      }
+    ],
+    "causaMotivoHechos": "Auditoria de cumplimiento financiero 2021-C-CF-079-0104-2022",
+    "documentos": [],
+    "fechaCaptura": "2024-03-25T20:38:43+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6601e18421c1df001d54235e",
+    "institucionDependencia": {
+      "nombre": "Zihuatanejo de Azueta",
+      "clave": "MZA",
+      "siglas": "MZA"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Alejandra Gabriela",
+      "primerApellido": "Rivera",
+      "segundoApellido": "Niño",
+      "puesto": "Direccion de Recursos humanos",
+      "nivel": "Direccion"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE",
+      "descripcion": "falta administrativa por omision"
+    },
+    "resolucion": {
+      "fechaResolucion": "2023-04-03"
+    },
+    "expediente": "004/2023-Resultados7",
+    "autoridadSancionadora": "Organo de Control Interno Municipal",
+    "tipoSancion": [
+      {
+        "clave": "O",
+        "valor": "OTRO",
+        "descripcion": "Amonestación Publica"
+      }
+    ],
+    "causaMotivoHechos": "Auditoria de cumplimiento financiero 2021-C-CF-079-0104-2022",
+    "documentos": [],
+    "fechaCaptura": "2024-03-25T20:41:40+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6601e20f21c1df001d542371",
+    "institucionDependencia": {
+      "nombre": "Zihuatanejo de Azueta",
+      "clave": "MZA",
+      "siglas": "MZA"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Roberto Antonio",
+      "primerApellido": "Castañeda ",
+      "segundoApellido": "Ventura",
+      "puesto": "Direccion de Adquisiciones",
+      "nivel": "Direccion"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE",
+      "descripcion": "falta administrativa por omision"
+    },
+    "resolucion": {
+      "fechaResolucion": "2023-04-03"
+    },
+    "expediente": " 004/2023-Resultados12",
+    "autoridadSancionadora": "Organo de Control Interno Municipal",
+    "tipoSancion": [
+      {
+        "clave": "O",
+        "valor": "OTRO",
+        "descripcion": "Amonestación Publica"
+      }
+    ],
+    "causaMotivoHechos": "Auditoria de cumplimiento financiero 2021-C-CF-079-0104-2022",
+    "documentos": [],
+    "fechaCaptura": "2024-03-25T20:43:59+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6601e29921c1df001d542384",
+    "institucionDependencia": {
+      "nombre": "Zihuatanejo de Azueta",
+      "clave": "MZA",
+      "siglas": "MZA"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Margarita",
+      "primerApellido": "Díaz",
+      "segundoApellido": "Rueda",
+      "puesto": "Primer Sindicatura",
+      "nivel": "Superior"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE",
+      "descripcion": "falta administrativa por omision"
+    },
+    "resolucion": {
+      "fechaResolucion": "2023-04-03"
+    },
+    "expediente": " 004/2023-Resultados14",
+    "autoridadSancionadora": "Organo de Control Interno Municipal",
+    "tipoSancion": [
+      {
+        "clave": "O",
+        "valor": "OTRO",
+        "descripcion": "Amonestación Publica"
+      }
+    ],
+    "causaMotivoHechos": "Auditoria de cumplimiento financiero 2021-C-CF-079-0104-2022",
+    "documentos": [],
+    "fechaCaptura": "2024-03-25T20:46:17+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6601e38821c1df001d542397",
+    "institucionDependencia": {
+      "nombre": "Zihuatanejo de Azueta",
+      "clave": "MZA",
+      "siglas": "MZA"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Guadalupe",
+      "primerApellido": "Amezcua",
+      "segundoApellido": "Padilla",
+      "puesto": "Direccion egresos",
+      "nivel": "Direccion"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE",
+      "descripcion": "falta administrativa por omision"
+    },
+    "resolucion": {
+      "fechaResolucion": "2023-04-03"
+    },
+    "expediente": " 004/2023-Resultados19",
+    "autoridadSancionadora": "Organo de Control Interno Municipal",
+    "tipoSancion": [
+      {
+        "clave": "O",
+        "valor": "OTRO",
+        "descripcion": "Amonestación Publica"
+      }
+    ],
+    "causaMotivoHechos": "Auditoria de cumplimiento financiero 2021-C-CF-079-0104-2022",
+    "documentos": [],
+    "fechaCaptura": "2024-03-25T20:50:16+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6601e43021c1df001d5423aa",
+    "institucionDependencia": {
+      "nombre": "Zihuatanejo de Azueta",
+      "clave": "MZA",
+      "siglas": "MZA"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Duvelsa ",
+      "primerApellido": "Cisneros ",
+      "segundoApellido": "Valdovinos",
+      "puesto": "Direccion de ingresos",
+      "nivel": "Direccion"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE"
+    },
+    "resolucion": {
+      "fechaResolucion": "2023-03-31"
+    },
+    "expediente": "003/2022-Resultado14",
+    "autoridadSancionadora": "Organo de Control Interno Municipal",
+    "tipoSancion": [
+      {
+        "clave": "O",
+        "valor": "OTRO",
+        "descripcion": "Amonestación Publica"
+      }
+    ],
+    "causaMotivoHechos": "Auditoria no 2020-C-CF-79-103-2021",
+    "documentos": [],
+    "fechaCaptura": "2024-03-25T20:53:04+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6654cef321c1df001d5424a1",
+    "institucionDependencia": {
+      "nombre": "Auditoría Superior del Estado de Guerrero",
+      "siglas": "ASE"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Teófila ",
+      "primerApellido": "Guzmán",
+      "segundoApellido": "Hernández",
+      "puesto": "Auxiliar de intendencia",
+      "nivel": "Auxiliar de intendencia A"
+    },
+    "tipoFalta": {
+      "clave": "IDSP",
+      "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL",
+      "descripcion": "Incumplir con la presentación en tiempo y forma de su Declaración de Situación Patrimonial y de Intereses de Conclusión de Encargo"
+    },
+    "resolucion": {
+      "fechaResolucion": "2024-02-20"
+    },
+    "inhabilitacion": {
+      "plazo": "Término de un año",
+      "fechaInicial": "2024-03-15",
+      "fechaFinal": "2025-03-15"
+    },
+    "expediente": "ASE-OIC-SS-MI-0004-2023-SR",
+    "autoridadSancionadora": "Subdirección de Resoluciones del Órgano Interno de Control de la Auditoría Superior del Estado de Guerrero",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Inhabilitación por el término de un año"
+      }
+    ],
+    "causaMotivoHechos": "Incumplir con la presentación en tiempo y forma de su Declaración de Situación Patrimonial y de Intereses de Conclusión de Encargo",
+    "observaciones": "Por no haber presentado su Declaración de Situación Patrimonial y de Intereses por Conclusión del Encargo",
+    "documentos": [],
+    "fechaCaptura": "2024-05-27T18:20:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "667da18a03a18e001d8707be",
+    "institucionDependencia": {
+      "nombre": "AUDITORÍA SUPERIOR DEL ESTADO",
+      "siglas": "ASE"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "LEANDRO",
+      "primerApellido": "GONZÁLEZ",
+      "segundoApellido": "JUÁREZ",
+      "puesto": "AUXILIAR DE INTENDENCIA",
+      "nivel": "AUXILIAR DE INTENDENCIA A"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE",
+      "descripcion": "INCUMPLIR CON LA PRESENTACIÓN EN TIEMPO Y FORMA DE SU DECLARACIÓN DE SITUACIÓN PATRIMONIAL Y DE INTERESES DE CONCLUSIÓN DEL ENCARGO"
+    },
+    "resolucion": {
+      "fechaResolucion": "2024-05-28"
+    },
+    "inhabilitacion": {
+      "plazo": "UN AÑO",
+      "fechaInicial": "2024-06-25",
+      "fechaFinal": "2025-06-25"
+    },
+    "expediente": "ASE-OIC-SS-MI-0001-2024-SR",
+    "autoridadSancionadora": "SUBDIRECCIÓN DE RESOLUCIONES",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITACIÓN POR EL TÉRMINO DE UN AÑO PARA DESEMPEÑAR EMPLEOS, CARGOS O COMISIONES EN EL SERVICIO PÚBLICO Y PARA PARTICIPAR EN ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS U OBRAS PÚBLICAS"
+      }
+    ],
+    "causaMotivoHechos": "INCUMPLIR CON LA PRESENTACIÓN EN TIEMPO Y FORMA DE SU DECLARACIÓN DE SITUACIÓN PATRIMONIAL Y DE INTERESES DE CONCLUSIÓN DEL ENCARGO",
+    "observaciones": "INCUMPLIR CON LA PRESENTACIÓN EN TIEMPO Y FORMA DE SU DECLARACIÓN DE SITUACIÓN PATRIMONIAL Y DE INTERESES DE CONCLUSIÓN DEL ENCARGO",
+    "documentos": [],
+    "fechaCaptura": "2024-06-27T17:29:46+00:00",
+    "__v": 0
+  },
+  {
+    "id": "667daf2803a18e001d8707df",
+    "institucionDependencia": {
+      "nombre": "Fiscalia General del Estado de Guerrrero",
+      "siglas": "FGE"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "German",
+      "primerApellido": "López",
+      "segundoApellido": "Rodríguez",
+      "puesto": "Agente de la Policia Ministerial"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO",
+      "descripcion": "Irregularidades en el ejercicio de sus funciones publicas consistentes en faltas injustificadas"
+    },
+    "resolucion": {
+      "fechaResolucion": "2018-01-12"
+    },
+    "expediente": "CI/DGFR/205/2013-VI",
+    "autoridadSancionadora": "Contraloria Interna",
+    "tipoSancion": [
+      {
+        "clave": "D",
+        "valor": "DESTITUCIÓN DEL EMPLEO, CARGO O COMISIÓN",
+        "descripcion": ""
+      }
+    ],
+    "causaMotivoHechos": "Faltas Injustificadas",
+    "documentos": [],
+    "fechaCaptura": "2024-06-27T18:27:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "667db3ec03a18e001d8707ff",
+    "institucionDependencia": {
+      "nombre": "Fiscalia General del Estado de Guerrrero",
+      "siglas": "FGE"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Juan",
+      "primerApellido": "Romero",
+      "segundoApellido": "Ávila",
+      "puesto": "Agente Auxiliar del Ministerio Público"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE",
+      "descripcion": "Presuntas irregularidades cometidas en el ejercicio de sus funciones públicas consistentes en abandono de guardia"
+    },
+    "resolucion": {
+      "fechaResolucion": "2018-04-04"
+    },
+    "inhabilitacion": {
+      "plazo": "Suspensión de 15 días sin gose de sueldo"
+    },
+    "expediente": "CI/DGFR/173/2016-V",
+    "autoridadSancionadora": "Contraloria Interna",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Suspensión de 15 días sin gose de sueldo"
+      }
+    ],
+    "causaMotivoHechos": "Abando de guardia",
+    "documentos": [],
+    "fechaCaptura": "2024-06-27T18:48:12+00:00",
+    "__v": 0
+  },
+  {
+    "id": "667dc93603a18e001d870812",
+    "institucionDependencia": {
+      "nombre": "Fiscalia General del Estado de Guerrrero",
+      "siglas": "FGE"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Diana Sarahi",
+      "primerApellido": "Bañuelos",
+      "segundoApellido": "Martínez",
+      "puesto": "Director de área"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE",
+      "descripcion": "Irregularidades en el ejercicio de sus funciones publicas consistentes en faltas injustificadas"
+    },
+    "resolucion": {
+      "fechaResolucion": "2018-07-11"
+    },
+    "expediente": "FGE/CI/DGFR/266/2017-II",
+    "autoridadSancionadora": "Órgano Interno de Control de la Fiscalía General del Estado",
+    "tipoSancion": [
+      {
+        "clave": "D",
+        "valor": "DESTITUCIÓN DEL EMPLEO, CARGO O COMISIÓN",
+        "descripcion": ""
+      }
+    ],
+    "causaMotivoHechos": "Faltas Injustificadas 23 24 25 26 27 y 30 de septiembre asi como todo octubre del 2017",
+    "documentos": [],
+    "fechaCaptura": "2024-06-27T20:19:02+00:00",
+    "__v": 0
+  },
+  {
+    "id": "667dcc4e03a18e001d870831",
+    "institucionDependencia": {
+      "nombre": "Fiscalia General del Estado de Guerrrero",
+      "siglas": "FGE"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Samuel",
+      "primerApellido": "Hipólito",
+      "segundoApellido": "Jiménez",
+      "puesto": "Agente del Ministerio Público"
+    },
+    "tipoFalta": {
+      "clave": "NAD",
+      "valor": "NEGLIGENCIA ADMINISTRATIVA",
+      "descripcion": "Por presuntas irregularidades cometidas en omisiones en las averiguaciones previas"
+    },
+    "resolucion": {
+      "fechaResolucion": "2018-03-13"
+    },
+    "expediente": "FGE/CI/DGFR/109/2016-I",
+    "autoridadSancionadora": "Órgano Interno de Control de la Fiscalía General del Estado",
+    "tipoSancion": [
+      {
+        "clave": "O",
+        "valor": "OTRO",
+        "descripcion": "Amonestación Pública"
+      }
+    ],
+    "causaMotivoHechos": "Averiguaciones Previas ALLE-SC-04-0027-2013 Y ALLE-SC-01-0036-2014",
+    "documentos": [],
+    "fechaCaptura": "2024-06-27T20:32:14+00:00",
+    "__v": 0
+  },
+  {
+    "id": "667dd3ff03a18e001d870854",
+    "institucionDependencia": {
+      "nombre": "Fiscalia General del Estado de Guerrrero",
+      "siglas": "FGE"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Leónidas",
+      "primerApellido": "Manrique",
+      "segundoApellido": "Jiménez",
+      "puesto": "Agente del Ministerio Público"
+    },
+    "tipoFalta": {
+      "clave": "AFN",
+      "valor": "ABUSO DE FUNCIONES",
+      "descripcion": "Por irregularidades cometidas en el ejercicio de sus funciones públicas consistentes en transgresiones a los derechos"
+    },
+    "resolucion": {
+      "fechaResolucion": "2018-04-17"
+    },
+    "expediente": "FGE/CI/DGFR/067/2013-II",
+    "autoridadSancionadora": "Órgano Interno de Control de la Fiscalía General del Estado",
+    "tipoSancion": [
+      {
+        "clave": "O",
+        "valor": "OTRO",
+        "descripcion": "Amonestación Privada"
+      }
+    ],
+    "causaMotivoHechos": "Consistentes en transgresiones a los derecho a la legalidad seguridad juridica a la integridad y seguridad personal",
+    "documentos": [],
+    "fechaCaptura": "2024-06-27T21:05:03+00:00",
+    "__v": 0
+  },
+  {
+    "id": "66d8a34a03a18e001d870caa",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral y de Participación Ciudadana del Estado de Guerrero",
+      "siglas": "IEPC-Gro"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Blanca Brissa",
+      "primerApellido": "Gonzalez",
+      "segundoApellido": "Gonzalez",
+      "puesto": "Presidenta Consejo Distrital"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE",
+      "descripcion": "Falta prevista en el articulo 50 de la LGRA"
+    },
+    "resolucion": {
+      "fechaResolucion": "2024-07-03"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "Organo Interno de Control",
+    "causaMotivoHechos": "Causar daños y perjuicios a la hacienda pública de un Ayuntamiento Municipal como consecuencia de la expedicion irregular de una constancia de asignacion de regidurias",
+    "documentos": [],
+    "expediente": "IEPC-OIC-PRA-002/2023",
+    "fechaCaptura": "2024-09-04T18:18:47+00:00",
+    "tipoSancion": [
+      {
+        "clave": "IRSC",
+        "valor": "INDEMNIZACIÓN RESARCITORIA",
+        "descripcion": ""
+      }
+    ]
+  },
+  {
+    "id": "66d8a41203a18e001d870cbe",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral y de Participación Ciudadana del Estado de Guerrero",
+      "siglas": "IEPC-Gro"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Gaspar",
+      "primerApellido": "Torres",
+      "segundoApellido": "Solano",
+      "puesto": "Secretario Tecnico Consejo Distrital"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE",
+      "descripcion": "Falta administrativa prevista en el articulo 50 de la LGRA"
+    },
+    "resolucion": {
+      "fechaResolucion": "2024-07-03"
+    },
+    "inhabilitacion": {
+      "plazo": "6 meses",
+      "fechaInicial": "2024-07-09",
+      "fechaFinal": "2025-01-09"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "Organo Interno de Control",
+    "causaMotivoHechos": "Causar daños y perjuicios a la hacienda publica de un Ayuntamiento Municipal como consecuencia de la expedicion irregular de una constancia de asignacion de regidurias",
+    "documentos": [],
+    "expediente": "IEPC-OIC-PRA-002/2023",
+    "fechaCaptura": "2024-09-04T18:24:48+00:00",
+    "tipoSancion": [
+      {
+        "clave": "IRSC",
+        "valor": "INDEMNIZACIÓN RESARCITORIA",
+        "descripcion": ""
+      },
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": ""
+      }
+    ]
+  },
+  {
+    "id": "66edd4c903a18e001d870d57",
+    "institucionDependencia": {
+      "nombre": "H AYUNTAMIENTO MUNICIPAL CONSTITUCIONAL DE EDUARDO NERI GUERRERO"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "GUILLERMO ",
+      "primerApellido": "MARTÍNEZ",
+      "segundoApellido": "CATALÁN",
+      "puesto": "TESORERO MUNICIPAL DEL H. AYUNTAMIENTO MUNICIPAL CONSTITUCIONAL DE EDUARDO NERI GUERRERO"
+    },
+    "tipoFalta": {
+      "clave": "DSCT",
+      "valor": "DESACATO",
+      "descripcion": "Artículo 63 de la Ley Número 465 de RA para el Estado de Guerrero "
+    },
+    "resolucion": {
+      "fechaResolucion": "2023-08-09"
+    },
+    "inhabilitacion": {
+      "plazo": "3 meses",
+      "fechaInicial": "2024-07-02",
+      "fechaFinal": "2024-10-02"
+    },
+    "expediente": "TJA/SRCH/JRAG/003/2022",
+    "autoridadSancionadora": "Sala Regional Chilpancingo del Tribunal de Justicia Administrativa del Estado de Guerrero",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "inhabilitación  para desempeñar empleo, cargos o comisiones en el servicio público y participar en adquisiones, arrendamientos, servicios u obras públicas por un período de 3 meses"
+      }
+    ],
+    "causaMotivoHechos": "No entregó la documentación e información faltante contemplada en el acta de Entrega Recepción de fecha veintinueve de septiembre de dos mil veintiuno a pesar de los requerimientos realizados por el Órgano de Control Interno Municipal",
+    "documentos": [],
+    "fechaCaptura": "2024-09-20T20:02:17+00:00",
+    "__v": 0
+  }
+]

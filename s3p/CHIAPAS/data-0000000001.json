@@ -1,0 +1,42 @@
+[
+  {
+    "id": "a56b34a6-57c7-42b9-bb60-e214a65db391",
+    "fechaCaptura": "2023-05-16T14:05:07Z",
+    "expediente": "PRA/68/2021",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE HACIENDA",
+      "siglas": "SH",
+      "clave": "2.1.1.1.1.110"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "OFIMAGEN SOCIEDAD ANONIMA DE CAPITAL VARIABLE",
+      "tipoPersona": "M"
+    },
+    "objetoContrato": "ADQUISICION DE ANAQUELES CON RECURSOS RADICADOS EN LA PARTIDA PRESUPUESTARIA 51106",
+    "autoridadSancionadora": "JUZGADO ESPECIALIZADO EN RESPONSABILIDAD ADMINISTRATIVA DEL TRIBUNAL ADMINISTRATIVO DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS",
+    "tipoFalta": "PRESENTÓ DOCUMENTO OFICIAL ALTERADO CON EL PROPOSITO DE LOGRAR UNA AUTORIZACIÓN UN BENEFICIO, UNA VENTAJA O EN SU CASO PERJUDICAR A PERSONA ALGUNA",
+    "tipoSancion": [
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA"
+      }
+    ],
+    "causaMotivoHechos": "RESPONSABLE DE HABER COMETIDO LA FALTA ADMINISTRATIVA GRAVE DE UTILIZACION DE INFORMACION FALSA",
+    "acto": "DENUNCIA",
+    "responsableSancion": {
+      "nombres": "ELODIA DEL CARMEN",
+      "primerApellido": "RAMIREZ"
+    },
+    "resolucion": {},
+    "multa": {
+      "monto": 9622000,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "0 AÑO(S), 0 MES(ES) Y 0 DIÁ(S)"
+    }
+  }
+]

@@ -1,0 +1,575 @@
+[
+  {
+    "id": "150",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Hacienda",
+      "siglas": "",
+      "clave": "103"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Reyna",
+      "primerApellido": "Rodríguez",
+      "segundoApellido": "Acosta",
+      "puesto": "Cajero",
+      "nivel": "0386"
+    },
+    "tipoFalta": {
+      "clave": "PEC",
+      "valor": "Peculado",
+      "descripcion": "Falta administrativa grave, tipificada en el ordinal 53 de la Ley General de Responsabilidades Administrativas"
+    },
+    "resolucion": {
+      "url": "https://www.tejachihuahua.org.mx/transparencia/archivos/2024/uj/sea/574-SD-EXP-010-2021-2-JRA_Testado.pdf",
+      "fechaResolucion": "2023-11-29"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso mexicano"
+      },
+      "monto": 0
+    },
+    "inhabilitacion": {
+      "plazo": "7 años",
+      "fechaInicial": "2024-03-13",
+      "fechaFinal": "2031-03-13"
+    },
+    "fechaCaptura": "2024-05-06T20:29:09+00:00",
+    "expediente": "010/2021-2 JRA",
+    "autoridadSancionadora": "Tribunal Estatal de Justicia Administrativa",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "Inhabilitación",
+        "descripcion": "",
+        "idSancion": 150
+      }
+    ],
+    "causaMotivoHechos": "Al momento de desempeñarse como cajera de la caseta de cobro de peaje de Sacramento, del periodo de febrero a abril del año 2019, en diversas ocasiones, efectuó el cobro de peaje a los usuarios del tramo carretero Chihuahua- Sacramento, lo registró en el sistema y en consecuencia, generó el comprobante de pago, sin embargo no lo entregó al usuario, posteriormente cuando efectuó el cobro a un diverso usuario, no ingresó el registro y entregó el comprobante de la operación anterior, apropiándose de la suma total de lo cobrado mediante este esquema. Así también cuando realizaba el cobro del peaje, no lo registraba, sino que el pase del usuario por la caseta, lo registraba una tarjeta del SISTEMA TELEPEAJE exenta de pago. Del conjunto de ocasiones en las que se detectaron tales conductas se computó que en total se apropió de $29,561.00 pesos",
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "400",
+        "tipo": "RESOLUCION",
+        "titulo": "Resolución",
+        "descripcion": "",
+        "url": "https://www.tejachihuahua.org.mx/transparencia/archivos/2024/uj/sea/574-SD-EXP-010-2021-2-JRA_Testado.pdf",
+        "fechaApi": "2023-11-29"
+      }
+    ]
+  },
+  {
+    "id": "255",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Hacienda",
+      "siglas": "",
+      "clave": "103"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "GERARDO",
+      "primerApellido": "VILLEGAS",
+      "segundoApellido": "MADRILES",
+      "puesto": "Director general",
+      "nivel": "0035"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "Otro",
+      "descripcion": "ART. 23 I, II, III, XVII, XVIII Y XXXIX DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA"
+    },
+    "resolucion": {
+      "url": "http://pad.029-2019.com",
+      "fechaResolucion": "2020-12-14"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso mexicano"
+      },
+      "monto": 0
+    },
+    "inhabilitacion": {
+      "plazo": "10 AÑOS",
+      "fechaInicial": "2021-01-25",
+      "fechaFinal": "2031-01-25"
+    },
+    "fechaCaptura": "2024-07-17T16:58:25+00:00",
+    "expediente": "P.A.D. 029/2019",
+    "autoridadSancionadora": "Secretaría de la Función Pública",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "Inhabilitación",
+        "descripcion": "",
+        "idSancion": 255
+      },
+      {
+        "clave": "SE",
+        "valor": "Sanción económica",
+        "descripcion": "",
+        "idSancion": 255
+      }
+    ],
+    "causaMotivoHechos": "Firmo el contrato SH/AD/078/2016 en representación de la Secretaria de Hacienda no asegurando que se cumpliera con los criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado, además de acepta como garantía dos cheques cruzados los cuales no dan certeza al que los posea de que dichos instrumentos cuentan con solvencia así mismo ocasiono un daño económico al Estado ya que no se encuentra evidencia de que dicho servicio fue prestado, con lo anterior contraviniendo las actuaciones y omisiones, quebrantando con su actuación el bien jurídico tutelado relativo al no ejercicio arbitrario del empleo cargo o comisión del servicio público.",
+    "observaciones": "la Resolución Definitiva causo firmeza el día 11 de junio del 2024, por tanto se da cumplimiento a lo establecido por el RESOLUTIVO QUINTO y OCTAVO de la resolución en comento",
+    "documentos": [
+      {
+        "id": "511",
+        "tipo": "RESOLUCION",
+        "titulo": "Resolución",
+        "descripcion": "",
+        "url": "www.pad029-2019.com",
+        "fechaApi": "2020-12-14"
+      }
+    ]
+  },
+  {
+    "id": "256",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Hacienda",
+      "siglas": "",
+      "clave": "103"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "GERARDO",
+      "primerApellido": "VILLEGAS",
+      "segundoApellido": "MADRILES",
+      "puesto": "Director general",
+      "nivel": "0035"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "Otro",
+      "descripcion": "ART. 23 I, II, III, XVII, XVIII y XXXIX DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA"
+    },
+    "resolucion": {
+      "url": "http://pad.027-2019.com",
+      "fechaResolucion": "2020-12-14"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso mexicano"
+      },
+      "monto": 0
+    },
+    "inhabilitacion": {
+      "plazo": "10",
+      "fechaInicial": "2021-01-25",
+      "fechaFinal": "2031-01-25"
+    },
+    "fechaCaptura": "2024-07-17T17:03:57+00:00",
+    "expediente": "P.A.D.027/2019",
+    "autoridadSancionadora": "Secretaría de la Función Pública",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "Inhabilitación",
+        "descripcion": "",
+        "idSancion": 256
+      },
+      {
+        "clave": "SE",
+        "valor": "Sanción económica",
+        "descripcion": "",
+        "idSancion": 256
+      }
+    ],
+    "causaMotivoHechos": "Firmo el contrato SH/AD/077/2016 en representación de la Secretaria de Hacienda no asegurando que se cumpliera con los criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado, además de acepta como garantía dos cheques cruzados los cuales no dan certeza al que los posea de que dichos instrumentos cuentan con solvencia así mismo ocasiono un daño económico al Estado ya que no se encuentra evidencia de que dicho servicio fue prestado, con lo anterior contraviniendo las actuaciones y omisiones, quebrantando con su actuación el bien jurídico tutelado relativo al no ejercicio arbitrario del empleo cargo o comisión del servicio público.",
+    "observaciones": "la Resolución Definitiva causo firmeza el día 11 de junio del 2024, por tanto se da cumplimiento a lo establecido por el RESOLUTIVO QUINTO y OCTAVO de la resolución en comento",
+    "documentos": [
+      {
+        "id": "512",
+        "tipo": "RESOLUCION",
+        "titulo": "Resolución",
+        "descripcion": "",
+        "url": "www.pad.027-2019.com",
+        "fechaApi": "2020-12-14"
+      }
+    ]
+  },
+  {
+    "id": "257",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Hacienda",
+      "siglas": "",
+      "clave": "103"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "GERARDO",
+      "primerApellido": "VILLEGAS",
+      "segundoApellido": "MADRILES",
+      "puesto": "Director general",
+      "nivel": "0035"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "Otro",
+      "descripcion": "ART. 23 I, II, III, XVII, XVIII y XXXIX DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA"
+    },
+    "resolucion": {
+      "url": "http://pad.029-2019.com",
+      "fechaResolucion": "2020-12-14"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso mexicano"
+      },
+      "monto": 0
+    },
+    "inhabilitacion": {
+      "plazo": "10 AÑOS",
+      "fechaInicial": "2021-01-25",
+      "fechaFinal": "2031-01-25"
+    },
+    "fechaCaptura": "2024-07-17T17:12:07+00:00",
+    "expediente": "P.A.D.026/2019",
+    "autoridadSancionadora": "Secretaría de la Función Pública",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "Inhabilitación",
+        "descripcion": "",
+        "idSancion": 257
+      },
+      {
+        "clave": "SE",
+        "valor": "Sanción económica",
+        "descripcion": "",
+        "idSancion": 257
+      }
+    ],
+    "causaMotivoHechos": "Firmo el contrato SH/AD/080/2016 en representación de la Secretaria de Hacienda no asegurando que se cumpliera con los criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado, además de acepta como garantía dos cheques cruzados los cuales no dan certeza al que los posea de que dichos instrumentos cuentan con solvencia así mismo ocasiono un daño económico al Estado ya que no se encuentra evidencia de que dicho servicio fue prestado, con lo anterior contraviniendo las actuaciones y omisiones, quebrantando con su actuación el bien jurídico tutelado relativo al no ejercicio arbitrario del empleo cargo o comisión del servicio público.",
+    "observaciones": "la Resolución Definitiva causo firmeza el día 28 de junio del 2024, por tanto se da cumplimiento a lo establecido por el RESOLUTIVO QUINTO y OCTAVO de la resolución en comento",
+    "documentos": [
+      {
+        "id": "513",
+        "tipo": "RESOLUCION",
+        "titulo": "Resolución",
+        "descripcion": "",
+        "url": "www.pad026-2019.com",
+        "fechaApi": "2020-12-14"
+      }
+    ]
+  },
+  {
+    "id": "261",
+    "institucionDependencia": {
+      "nombre": "Coordinación de Comunicación",
+      "siglas": "",
+      "clave": "117"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "FEDERICO",
+      "primerApellido": "GUEVARA",
+      "segundoApellido": "RAMOS",
+      "puesto": "Coordinador",
+      "nivel": "0007"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "Otro",
+      "descripcion": "ART. 23 I, II, III, XVII y XXXIX DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA"
+    },
+    "resolucion": {
+      "url": "http://pad.071-2019.com",
+      "fechaResolucion": "2020-06-10"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso mexicano"
+      },
+      "monto": 0
+    },
+    "inhabilitacion": {
+      "plazo": "10 AÑOS",
+      "fechaInicial": "2020-06-15",
+      "fechaFinal": "2030-06-15"
+    },
+    "fechaCaptura": "2024-07-17T17:48:26+00:00",
+    "expediente": "P.A.D.071/2019",
+    "autoridadSancionadora": "Secretaría de la Función Pública",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "Inhabilitación",
+        "descripcion": "",
+        "idSancion": 261
+      },
+      {
+        "clave": "SE",
+        "valor": "Sanción económica",
+        "descripcion": "",
+        "idSancion": 261
+      }
+    ],
+    "causaMotivoHechos": "Firmo el contrato SH/AD/003/2016 como Coordinador de Comunicación Social del Gobierno de Estado de Chihuahua, no asegurando que se cumpliera con los criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado, así mismo ocasiono un daño económico al Estado ya que no se encuentra evidencia de que dicho servicio fue prestado, con lo anterior contraviniendo las actuaciones y omisiones, quebrantando con su actuación el bien jurídico tutelado relativo al no ejercicio arbitrario del empleo cargo o comisión del servicio público.",
+    "observaciones": "la Resolución Definitiva causo firmeza el día 05 de marzo del 2024, por tanto se da cumplimiento a lo establecido por el RESOLUTIVO SEXTO y NOVENO de la resolución en comento",
+    "documentos": [
+      {
+        "id": "517",
+        "tipo": "RESOLUCION",
+        "titulo": "Resolución",
+        "descripcion": "",
+        "url": "www.pad071-2019.com",
+        "fechaApi": "2020-06-10"
+      }
+    ]
+  },
+  {
+    "id": "647",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Desarrollo Rural",
+      "siglas": "",
+      "clave": "112"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "ENRIQUE",
+      "primerApellido": "ESTRADA",
+      "segundoApellido": "GUTIERREZ",
+      "puesto": "Jefe de departamento",
+      "nivel": "0012"
+    },
+    "tipoFalta": {
+      "clave": "ABCI",
+      "valor": "Actuación bajo conflicto de interés",
+      "descripcion": "Actuación bajo conflicto de interés de conformidad con el artículo 58 de la LGRA"
+    },
+    "resolucion": {
+      "url": "https://www.tejachihuahua.org.mx/transparencia/archivos/2024/sg/resoluciones/1trimestre/SD%20EXP%20015-2023-2%20JRA_Testado.pdf",
+      "fechaResolucion": "2024-03-21"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso mexicano"
+      },
+      "monto": 0
+    },
+    "inhabilitacion": {
+      "plazo": "10 años",
+      "fechaInicial": "2024-06-21",
+      "fechaFinal": "2034-06-21"
+    },
+    "fechaCaptura": "2024-10-11T19:48:39+00:00",
+    "expediente": "015/2023-2 JRA",
+    "autoridadSancionadora": "Tribunal Estatal de Justicia Administrativa",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "Inhabilitación",
+        "descripcion": "",
+        "idSancion": 647
+      },
+      {
+        "clave": "SE",
+        "valor": "Sanción económica",
+        "descripcion": "",
+        "idSancion": 647
+      }
+    ],
+    "causaMotivoHechos": "El servidor público presunto responsable, en ejercicio de sus funciones como jefe de Departamento en la oficina del Director de Ganadería de la Secretaría de Desarrollo Rural según las facultades que se le confirieron mediante el acuerdo delegatorio SDR-AC0523/2017, en relación con el \"Programa de COncurrencia con las Entidades Federativas\" de SAGARPA, tramitó y autorizó el apoyo proporcionado al particular presunto responsable con quien guarda parentesco consanguineo en segundo grado, sin que se acreditara que se haya excusado del conocimiento de dicho asunto.",
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "910",
+        "tipo": "RESOLUCION",
+        "titulo": "Resolución",
+        "descripcion": "",
+        "url": "https://www.tejachihuahua.org.mx/transparencia/archivos/2024/sg/resoluciones/1trimestre/SD%20EXP%20015-2023-2%20JRA_Testado.pdf",
+        "fechaApi": "2024-03-21"
+      }
+    ]
+  },
+  {
+    "id": "649",
+    "institucionDependencia": {
+      "nombre": "Instituto Chihuahuense de Salud ",
+      "siglas": "",
+      "clave": "414"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "IVAR GIOVANNI",
+      "primerApellido": "BARRAGAN",
+      "segundoApellido": "LEON",
+      "puesto": "Médico",
+      "nivel": "0212"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "Otro",
+      "descripcion": "ART. 23 FRACCIONES I, VI, XVII, XVIII Y XXIX DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DLE ESTADO DE CHIHUAHUA"
+    },
+    "resolucion": {
+      "url": "http://PAD.050.2016.com",
+      "fechaResolucion": "2019-08-01"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso mexicano"
+      },
+      "monto": 0
+    },
+    "inhabilitacion": {
+      "plazo": "5 AÑOS",
+      "fechaInicial": "2020-01-18",
+      "fechaFinal": "2025-01-18"
+    },
+    "fechaCaptura": "2024-10-14T19:32:37+00:00",
+    "expediente": "P.A.D. 050/2016",
+    "autoridadSancionadora": "Secretaría de la Función Pública",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "Inhabilitación",
+        "descripcion": "",
+        "idSancion": 649
+      }
+    ],
+    "causaMotivoHechos": "MALA PRAXIS MEDICA ASI COMO APLICACION INCORRECTA DE MEDICAMENTO",
+    "observaciones": "SE DECLARO FIRME LA RESOLUCION EL 14 DE NOVIEMBRE DE 2023",
+    "documentos": [
+      {
+        "id": "912",
+        "tipo": "RESOLUCION",
+        "titulo": "Resolución",
+        "descripcion": "",
+        "url": "http://PAD.050.2016.com",
+        "fechaApi": "2019-08-01"
+      }
+    ]
+  },
+  {
+    "id": "648",
+    "institucionDependencia": {
+      "nombre": "Instituto Chihuahuense de Salud ",
+      "siglas": "",
+      "clave": "414"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "SANDRA VERONICA",
+      "primerApellido": "LOPEZ",
+      "segundoApellido": "NUÑEZ",
+      "puesto": "Enfermera",
+      "nivel": "0302"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "Otro",
+      "descripcion": "ART. 23 FRACCIONES I, VI, XVII, XVIII Y XXIX DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DLE ESTADO DE CHIHUAHUA"
+    },
+    "resolucion": {
+      "url": "http://PAD.050.2016.com",
+      "fechaResolucion": "2019-08-01"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso mexicano"
+      },
+      "monto": 0
+    },
+    "inhabilitacion": {
+      "plazo": "5 AÑOS",
+      "fechaInicial": "2020-01-17",
+      "fechaFinal": "2025-01-17"
+    },
+    "fechaCaptura": "2024-10-14T19:19:30+00:00",
+    "expediente": "P.A.D. 50/2016",
+    "autoridadSancionadora": "Secretaría de la Función Pública",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "Inhabilitación",
+        "descripcion": "",
+        "idSancion": 648
+      },
+      {
+        "clave": "SE",
+        "valor": "Sanción económica",
+        "descripcion": "",
+        "idSancion": 648
+      }
+    ],
+    "causaMotivoHechos": "MALA PRAXIS MEDICA ASI COMO APLICACION INCORRECTA DE MEDICAMENTO",
+    "observaciones": "SE DECLARO FIRME LA RESOLUCION EL 14 DE NOVIEMBRE DE 2023",
+    "documentos": [
+      {
+        "id": "913",
+        "tipo": "RESOLUCION",
+        "titulo": "Resolución",
+        "descripcion": "",
+        "url": "http://PAD.050.2016.com",
+        "fechaApi": "2019-08-01"
+      }
+    ]
+  },
+  {
+    "id": "650",
+    "institucionDependencia": {
+      "nombre": "Instituto Chihuahuense de Salud ",
+      "siglas": "",
+      "clave": "414"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "LUIS ARMANDO",
+      "primerApellido": "BELTRAN",
+      "segundoApellido": "CANO",
+      "puesto": "Enfermera",
+      "nivel": "0302"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "Otro",
+      "descripcion": "ART. 23 FRACCIONES I, VI, XVII, XVIII Y XXIX DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DLE ESTADO DE CHIHUAHUA"
+    },
+    "resolucion": {
+      "url": "http://pad.050.2016.com",
+      "fechaResolucion": "2019-08-01"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso mexicano"
+      },
+      "monto": 0
+    },
+    "inhabilitacion": {
+      "plazo": "5 AÑOS",
+      "fechaInicial": "2020-01-17",
+      "fechaFinal": "2025-01-17"
+    },
+    "fechaCaptura": "2024-10-14T19:38:21+00:00",
+    "expediente": "P.A.D 050/2016",
+    "autoridadSancionadora": "Secretaría de la Función Pública",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "Inhabilitación",
+        "descripcion": "",
+        "idSancion": 650
+      },
+      {
+        "clave": "SE",
+        "valor": "Sanción económica",
+        "descripcion": "",
+        "idSancion": 650
+      }
+    ],
+    "causaMotivoHechos": "MALA PRAXIS MEDICA ASI COMO APLICACION INCORRECTA DE MEDICAMENTO",
+    "observaciones": "SE DECLARO FIRME LA RESOLUCION EL 08 DE FEBRERO DE 2020",
+    "documentos": [
+      {
+        "id": "914",
+        "tipo": "RESOLUCION",
+        "titulo": "Resolución",
+        "descripcion": "",
+        "url": "http://epra.050.2016.com",
+        "fechaApi": "2019-08-01"
+      }
+    ]
+  }
+]

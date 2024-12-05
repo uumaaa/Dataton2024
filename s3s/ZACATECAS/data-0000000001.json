@@ -1,0 +1,2626 @@
+[
+  {
+    "tipoFalta": {
+      "valor": "DESACATO",
+      "clave": "DSCT"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-07-08"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2023-10-16",
+      "fechaFinal": "2024-01-16"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "  Christopher",
+      "primerApellido": "Esparza ",
+      "segundoApellido": "Fiscal ",
+      "puesto": "Regidor del Ayuntamiento en el Municipio de Villa García, Zacatecas.",
+      "_id": "672ced1503a24446a3a70b41"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "RAG/0029/2021-III",
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "institucionDependencia": {
+      "clave": "MNZ052",
+      "siglas": "VG",
+      "nombre": "Municipio de Villa García",
+      "_id": "672ced1503a24446a3a70b42"
+    },
+    "causaMotivoHechos": "No dar respuesta a los requerimientos por parte de una autoridad jurisdiccional, a pesar de que les fueron impuestas las medidas de apremio correspondientes.",
+    "id": "b0861772-291e-4c1a-a377-e6bedfb8beea",
+    "fechaCaptura": "2024-04-30T21:10:41.774Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "ABUSO DE FUNCIONES",
+      "clave": "AFN"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-08-31"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso mexicano",
+        "_id": "672ced1503a24446a3a70b44"
+      },
+      "monto": 450000
+    },
+    "inhabilitacion": {
+      "plazo": "10 años",
+      "fechaInicial": "2024-05-14",
+      "fechaFinal": "2034-05-14"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": " ALFREDO ",
+      "segundoApellido": "HERNÁNDEZ ",
+      "primerApellido": "GUTIÉRREZ ",
+      "puesto": "Tesorero Municipal de Vetagrande, Zacatecas.",
+      "_id": "672ced1503a24446a3a70b43"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "valor": "INDEMNIZACIÓN RESARCITORIA",
+        "clave": "IRSC"
+      }
+    ],
+    "expediente": "TJA/RAG/0020/2021-III",
+    "institucionDependencia": {
+      "nombre": "Municipio de Vetagrande",
+      "clave": "MNZ050",
+      "siglas": "VET",
+      "_id": "672ced1503a24446a3a70b45"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "Realizó erogaciones sin que existiera trámite o convenio ante la Secretaría de Finanzas del Estado, no sujetándose al procedimiento establecido para convenir recursos extraordinarios y omitiendo su obligación de vigiar que toda erogación con cargo al presupuesto de egresos estuviera debidamente justificada. ",
+    "observaciones": "La Indemnización de $450,000.00 (cuatrocientos cincuenta mil pesos 00/100 M.N.) es solidaria con Juan Antonio Herrera Morúa.",
+    "id": "027b0bf6-68b1-423e-a12f-8a8dd5c70fa5",
+    "fechaCaptura": "2024-08-14T18:20:17.739Z"
+  },
+  {
+    "tipoFalta": {
+      "clave": "AFN",
+      "valor": "ABUSO DE FUNCIONES"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-06-24"
+    },
+    "multa": {
+      "monto": 1200000,
+      "moneda": {
+        "clave": "MXN",
+        "_id": "66fda9053a34ace47e7f6cb7"
+      }
+    },
+    "id": "5ad8b1fa-e4aa-4968-be3f-3649f3411107",
+    "fechaCaptura": "2024-10-02T20:11:49.169Z",
+    "expediente": "TJA/RAG/0016/2021-III",
+    "institucionDependencia": {
+      "nombre": "Municipio de General Francisco R. Murguía",
+      "siglas": "GFRM",
+      "clave": "MNZ014",
+      "_id": "66e9a231b97c1cf229cb8774"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": " Mayra Trinidad ",
+      "primerApellido": "Medina",
+      "segundoApellido": "Calderón",
+      "puesto": "Síndica Municipal Ayuntamient",
+      "_id": "66fda9053a34ace47e7f6cb5"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "tipoSancion": [
+      {
+        "clave": "IRSC",
+        "valor": "INDEMNIZACIÓN RESARCITORIA"
+      }
+    ],
+    "causaMotivoHechos": "Autorizar la adquisición de un bien inmueble sin llevar a cabo el procedimiento de licitación y autorización de Cabildo, en perjuicio del patrimonio del ayuntamiento.",
+    "observaciones": "La indemnización es solidaria."
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESACATO",
+      "clave": "DSCT"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-07-08"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2023-10-17",
+      "fechaFinal": "2024-01-17"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": " Rolando de Jesús ",
+      "primerApellido": "Cruz",
+      "segundoApellido": "Ortiz",
+      "puesto": "Regidor del Ayuntamiento en el Municipio de Villa García, Zacatecas.",
+      "_id": "672ced1503a24446a3a70b46"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "RAG/0029/2021-III",
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "No dar respuesta a los requerimientos por parte de una autoridad jurisdiccional, a pesar de que les fueron impuestas las medidas de apremio correspondientes.",
+    "institucionDependencia": {
+      "clave": "MNZ052",
+      "siglas": "VG",
+      "nombre": "Municipio de Villa García",
+      "_id": "672ced1503a24446a3a70b47"
+    },
+    "id": "3129c75e-4ad8-410f-99e8-78607235f70b",
+    "fechaCaptura": "2024-04-30T20:55:59.078Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESACATO",
+      "clave": "DSCT"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-05-20"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2022-11-23",
+      "fechaFinal": "2023-02-23"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Abelardo ",
+      "segundoApellido": "Calvillo",
+      "primerApellido": "Rangel ",
+      "puesto": "Tesorero Municipal del Ayuntamiento ",
+      "_id": "672ced1503a24446a3a70b48"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "TJA/RAG/0015/2021-III",
+    "institucionDependencia": {
+      "nombre": "Municipio de Mazapil",
+      "siglas": "MAZ",
+      "clave": "MNZ026",
+      "_id": "672ced1503a24446a3a70b49"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "No presentar a la Auditoría Superior del Estado, información mensual y trimestral (contable y financiera), aun de haber sido requerido por el ente fiscalizador.",
+    "id": "96529245-ee4e-4634-a0e6-3cff00019797",
+    "fechaCaptura": "2024-06-05T19:28:17.016Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESACATO",
+      "clave": "DSCT"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-05-20"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2022-11-16",
+      "fechaFinal": "2023-02-16"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Agustín ",
+      "segundoApellido": "Juárez",
+      "primerApellido": "Llanas ",
+      "puesto": "Director de desarrollo económico y social del Ayuntamiento ",
+      "nivel": "Directivo",
+      "_id": "672ced1503a24446a3a70b4a"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "TJA/RAG/0015/2021-III",
+    "institucionDependencia": {
+      "nombre": "Municipio de Mazapil",
+      "siglas": "MAZ",
+      "clave": "MNZ026",
+      "_id": "672ced1503a24446a3a70b4b"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "No presentar a la Auditoría Superior del Estado, información mensual y trimestral (contable y financiera), aun de haber sido requerido por el ente fiscalizador.\n\n",
+    "id": "80d51f97-937c-4b5e-b62d-4d99927f5cc7",
+    "fechaCaptura": "2024-06-05T19:35:41.597Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESACATO",
+      "clave": "DSCT"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-07-08"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2023-10-17",
+      "fechaFinal": "2024-01-17"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Aldo Alberto ",
+      "primerApellido": "Salas ",
+      "segundoApellido": "Candelas",
+      "puesto": "Regidor del Ayuntamiento en el Municipio de Villa García, Zacatecas.",
+      "_id": "672ced1503a24446a3a70b4c"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "RAG/0029/2021-III",
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "institucionDependencia": {
+      "clave": "MNZ052",
+      "siglas": "VG",
+      "nombre": "Municipio de Villa García",
+      "_id": "672ced1503a24446a3a70b4d"
+    },
+    "causaMotivoHechos": "No dar respuesta a los requerimientos por parte de una autoridad jurisdiccional, a pesar de que les fueron impuestas las medidas de apremio correspondientes.",
+    "id": "4ee249ce-b21b-4079-94bf-7d6e97124609",
+    "fechaCaptura": "2024-04-30T20:46:29.840Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESACATO",
+      "clave": "DSCT"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-07-08"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2023-01-11",
+      "fechaFinal": "2023-04-11"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Alejandra ",
+      "primerApellido": "Salas",
+      "segundoApellido": "Macías",
+      "puesto": "Sindica municipal del Ayuntamiento de Villa García, Zacatecas.",
+      "_id": "672ced1503a24446a3a70b4e"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "RAG/0029/2021-III",
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "institucionDependencia": {
+      "clave": "MNZ052",
+      "siglas": "VG",
+      "nombre": "Municipio de Villa García",
+      "_id": "672ced1503a24446a3a70b4f"
+    },
+    "causaMotivoHechos": "No dar respuesta a los requerimientos por parte de una autoridad jurisdiccional, a pesar de que les fueron impuestas las medidas de apremio correspondientes.",
+    "id": "b6f1323c-cf10-4194-b127-0ff4718e4a15",
+    "fechaCaptura": "2024-05-03T18:32:35.447Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "COHECHO O EXTORSION",
+      "clave": "CEX"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-03-16"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso mexicano",
+        "_id": "672ced1503a24446a3a70b51"
+      },
+      "monto": 79445
+    },
+    "inhabilitacion": {
+      "plazo": "15 años",
+      "fechaInicial": "2022-07-15",
+      "fechaFinal": "2037-07-14"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Arnulfo Gilberto ",
+      "primerApellido": "Hernández",
+      "segundoApellido": "Tejada",
+      "puesto": "Auxiliar de Caja en Plaza ISSSTEZAC",
+      "nivel": "Auxiliar",
+      "_id": "672ced1503a24446a3a70b50"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "valor": "INDEMNIZACIÓN RESARCITORIA",
+        "clave": "IRSC"
+      }
+    ],
+    "id": "cd6e3989-423e-4658-aa79-c03f1c7b85b8",
+    "fechaCaptura": "2023-08-18T17:52:08.622Z",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado de Zacatecas",
+      "siglas": "ISSSTE",
+      "clave": "EJZ019",
+      "_id": "672ced1503a24446a3a70b52"
+    },
+    "expediente": "TJA/RAG/0014/2021-III",
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas",
+    "causaMotivoHechos": "Obtuvo para sí, con motivo de sus funciones, un beneficio no comprendido en su remuneración como servidor público en el cargo que desempeñó."
+  },
+  {
+    "tipoFalta": {
+      "clave": "DRP",
+      "valor": "DESVÍO DE RECURSOS PÚBLICOS"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-09-06"
+    },
+    "multa": {
+      "moneda": {
+        "_id": "671017403a34ace47ec77636"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "UN AÑO",
+      "fechaInicial": "2022-09-30",
+      "fechaFinal": "2023-09-30"
+    },
+    "id": "8cbc9473-7b6d-4eb4-938f-a16d4512e268",
+    "fechaCaptura": "2024-10-16T19:42:56.219Z",
+    "expediente": "TJA/RAG/472/2019-P3",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "SEDUZAC",
+      "clave": "EJZ009",
+      "_id": "671017403a34ace47ec77633"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Arturo",
+      "primerApellido": "Gutiérrez",
+      "segundoApellido": "Ortiz",
+      "puesto": "Subdirector Administrativo de la Benemérita Escuela Normal Manuel Ávila Camacho. 2015-2016.",
+      "_id": "671017403a34ace47ec77634"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "En ejercicio de sus funciones, autorizó acciones para la asignación de recursos públicos financieros a través de pagos amparados en recibos simples, en contraposición a las normas aplicables."
+  },
+  {
+    "tipoFalta": {
+      "valor": "PECULADO",
+      "clave": "PEC"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-11-19"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso mexicano",
+        "_id": "672ced1503a24446a3a70b54"
+      },
+      "monto": 253625.4
+    },
+    "inhabilitacion": {
+      "plazo": "10 años",
+      "fechaInicial": "2023-11-23",
+      "fechaFinal": "2033-11-23"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Arturo ",
+      "primerApellido": "Gutiérrez",
+      "segundoApellido": "Ortiz",
+      "puesto": "Subdirector Administrativo de la Benemérita Escuela Normal Manuel Ávila Camacho. 2015-2016.",
+      "nivel": "Subdirector",
+      "_id": "672ced1503a24446a3a70b53"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "valor": "INDEMNIZACIÓN RESARCITORIA",
+        "clave": "IRSC"
+      }
+    ],
+    "expediente": "TJA/RAG/0002/2021-III",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "SEDUZAC",
+      "clave": "EJZ009",
+      "_id": "672ced1503a24446a3a70b55"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "Autorizó actos para que terceros con los que tuvo una relación laboral se apropiaran de recursos públicos financieros en contraposición a las normas aplicables. ",
+    "observaciones": "Se precisa que se manejó como monto total de la sanción de indemnización resarcitoria $253,625.40 (doscientos cincuenta y tres mil seiscientos veinticinco pesos con cuarenta centavos Moneda Nacional).\nCantidad que acuerdo a la sentencia es la sumatoria de: daño a la hacienda pública: $168,599.52 (responsable solidario con Ramiro Torres Bañuelos) e indemnización: $85,025.88 (responsable solidario con Ramiro Torres Bañuelos).\n",
+    "id": "5cc5e927-0267-4148-8b59-46d3d7dcea55",
+    "fechaCaptura": "2024-09-11T18:32:04.937Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "ABUSO DE FUNCIONES",
+      "clave": "AFN"
+    },
+    "resolucion": {
+      "fechaResolucion": "0221-09-15"
+    },
+    "inhabilitacion": {
+      "plazo": "UN AÑO ",
+      "fechaInicial": "2022-10-19",
+      "fechaFinal": "2023-10-19"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Bercely Jaime ",
+      "primerApellido": "Romo ",
+      "segundoApellido": "Ortiz ",
+      "puesto": "Residente de Obra",
+      "nivel": "Residente",
+      "_id": "672ced1503a24446a3a70b56"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "TJA/RAG/0340/2020-P3",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Obras Públicas",
+      "siglas": "SOP",
+      "clave": "EJZ008",
+      "_id": "672ced1503a24446a3a70b57"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "Ejecutar de forma arbitraria modificaciones de cadenamiento a la obra pública a su cargo.",
+    "id": "195b6567-7541-481c-85b0-4e4fdb772e2e",
+    "fechaCaptura": "2024-03-14T18:53:27.888Z"
+  },
+  {
+    "tipoFalta": {
+      "clave": "AFN",
+      "valor": "ABUSO DE FUNCIONES"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-06-24"
+    },
+    "multa": {
+      "monto": 1200000,
+      "moneda": {
+        "clave": "MXN",
+        "_id": "66e9adc9b97c1cf229cc075e"
+      }
+    },
+    "id": "3a604405-fee7-4915-91c1-912f6d302921",
+    "fechaCaptura": "2024-09-17T16:27:29.155Z",
+    "expediente": "TJA/RAG/0016/2021-III",
+    "institucionDependencia": {
+      "nombre": "Municipio de General Francisco R. Murguía",
+      "siglas": "GFRM",
+      "clave": "MNZ014",
+      "_id": "66e9adc9b97c1cf229cc075f"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Blas ",
+      "primerApellido": "Ávalos",
+      "segundoApellido": "Mireles",
+      "puesto": "Presidente Municipal del Ayuntamiento",
+      "_id": "66e9adf1b97c1cf229cc0776"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "tipoSancion": [
+      {
+        "clave": "IRSC",
+        "valor": "INDEMNIZACIÓN RESARCITORIA"
+      }
+    ],
+    "causaMotivoHechos": "Autorizar la adquisición de un bien inmueble sin llevar a cabo el procedimiento de licitación y autorización de Cabildo, en perjuicio del patrimonio del ayuntamiento.",
+    "observaciones": "La indemnización es solidaria."
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESACATO",
+      "clave": "DSCT"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-07-08"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2023-10-16",
+      "fechaFinal": "2024-01-16"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Cinthia ",
+      "primerApellido": "Hernández ",
+      "segundoApellido": "Dávila",
+      "puesto": "Regidor del Ayuntamiento en el Municipio de Villa García, Zacatecas.",
+      "_id": "672ced1503a24446a3a70b58"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "RAG/0029/2021-III",
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "No dar respuesta a los requerimientos por parte de una autoridad jurisdiccional, a pesar de que les fueron impuestas las medidas de apremio correspondientes.",
+    "institucionDependencia": {
+      "clave": "MNZ052",
+      "siglas": "VG",
+      "nombre": "Municipio de Villa García",
+      "_id": "672ced1503a24446a3a70b59"
+    },
+    "id": "65db827d-f3de-4b14-9fb3-b42bdd4f1f24",
+    "fechaCaptura": "2024-04-30T20:42:55.456Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESACATO",
+      "clave": "DSCT"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-07-08"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2023-10-16",
+      "fechaFinal": "2024-01-16"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Dulce María de Jesús ",
+      "primerApellido": "Durán",
+      "segundoApellido": "",
+      "puesto": "Regidora del Ayuntamiento en el Municipio de Villa García, Zacatecas.",
+      "_id": "672ced1503a24446a3a70b5a"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "id": "c4c5a1ab-0d97-4b86-a768-64098dc09994",
+    "fechaCaptura": "2024-04-30T21:15:01.215Z",
+    "institucionDependencia": {
+      "clave": "MNZ052",
+      "siglas": "VG",
+      "nombre": "Municipio de Villa García",
+      "_id": "672ced1503a24446a3a70b5b"
+    },
+    "expediente": "TJA/RAG/0029/2021-III",
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "No dar respuesta a los requerimientos por parte de una autoridad jurisdiccional, a pesar de que les fueron impuestas las medidas de apremio correspondientes."
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESACATO",
+      "clave": "DSCT"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-11-25"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2023-10-27",
+      "fechaFinal": "2024-01-27"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Edgar Alejandro ",
+      "primerApellido": "Martínez ",
+      "segundoApellido": "Calderón",
+      "puesto": "Tesorero Municipal",
+      "nivel": "Tesorería",
+      "_id": "672ced1503a24446a3a70b5c"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "TJA/RAG/0036/2021-III",
+    "institucionDependencia": {
+      "nombre": "Municipio de Sain Alto",
+      "siglas": "SA",
+      "clave": "MNZ040",
+      "_id": "672ced1503a24446a3a70b5d"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "No cumplir con la obligación de proporcionar información completa en tiempo y forma en respuesta a los requerimientos formulados por la Auditoría Superior del Estado, a pesar de que les fueron impuestas medidas de apremio conforme a las disposiciones aplicables.",
+    "id": "4c3d059c-1c2a-4109-b972-941485bb6317",
+    "fechaCaptura": "2023-11-30T19:15:46.692Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "ABUSO DE FUNCIONES",
+      "clave": "AFN"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-09-30"
+    },
+    "inhabilitacion": {
+      "plazo": "90 días naturales",
+      "fechaInicial": "2022-12-07",
+      "fechaFinal": "2023-02-03"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Eduardo ",
+      "primerApellido": "Rocha ",
+      "segundoApellido": "Juárez",
+      "puesto": "Docente en el Plantel Pinos, Zacatecas del Colegio de bachilleres DEL Estado de Zacatecas.",
+      "nivel": "Asociado B 2Z22",
+      "_id": "672ced1503a24446a3a70b5e"
+    },
+    "tipoSancion": [
+      {
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN",
+        "clave": "S"
+      }
+    ],
+    "id": "04c9463d-334d-4839-97dc-9545d9ed88ca",
+    "fechaCaptura": "2023-07-20T20:21:39.944Z",
+    "institucionDependencia": {
+      "nombre": "Colegio de Bachilleres del Estado de Zacatecas",
+      "siglas": "COBAEZ",
+      "clave": "EJZ047",
+      "_id": "672ced1503a24446a3a70b5f"
+    },
+    "expediente": "TJA/RAG/360/2020-P3",
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas ",
+    "causaMotivoHechos": "Se valió de las atribuciones que tenía conferidas como docente para causar perjuicio a los educandos del plantel de Pinos, Zacatecas."
+  },
+  {
+    "tipoFalta": {
+      "valor": "COHECHO O EXTORSION",
+      "clave": "CEX"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-10-04"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso mexicano",
+        "_id": "672ced1503a24446a3a70b61"
+      },
+      "monto": 1000
+    },
+    "inhabilitacion": {
+      "plazo": "UN AÑO",
+      "fechaInicial": "2023-10-12",
+      "fechaFinal": "2024-10-12"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "EDUARDO ",
+      "primerApellido": "BUSTOS ",
+      "segundoApellido": "BALDERAS",
+      "puesto": "Director de la “UNEME” de Oncología de Servicios de Salud.",
+      "nivel": "Directivo",
+      "_id": "672ced1503a24446a3a70b60"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "valor": "SANCIÓN ECONÓMICA",
+        "clave": "SE"
+      }
+    ],
+    "expediente": "TJA/RAG/0549/2018-III",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Salud",
+      "siglas": "SS",
+      "clave": "EJZ011",
+      "_id": "672ced1503a24446a3a70b62"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "Con motivo del cargo, utilizaba las instalaciones del hospital, herramientas y aparatos del el sector público, para dar consulta a pacientes de procedencia privada y cobrar honorarios adicionales a su remuneración que como servidor público le proporcionaba la institución, obteniendo para si un beneficio indebido.",
+    "id": "fc080fca-094b-480d-9bee-e65574f0d0a4",
+    "fechaCaptura": "2024-08-29T17:18:44.732Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESACATO",
+      "clave": "DSCT"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-07-08"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2023-10-16",
+      "fechaFinal": "2024-01-16"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Efraín ",
+      "primerApellido": "Santos",
+      "segundoApellido": "Hernández",
+      "puesto": "Regidor del Ayuntamiento en el Municipio de Villa García, Zacatecas.",
+      "_id": "672ced1503a24446a3a70b63"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "RAG/0029/2021-III",
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "No dar respuesta a los requerimientos por parte de una autoridad jurisdiccional, a pesar de que les fueron impuestas las medidas de apremio correspondientes.",
+    "institucionDependencia": {
+      "clave": "MNZ052",
+      "siglas": "VG",
+      "nombre": "Municipio de Villa García",
+      "_id": "672ced1503a24446a3a70b64"
+    },
+    "id": "c14b4dd8-2e80-4afc-874f-b1f684031057",
+    "fechaCaptura": "2024-04-30T21:03:38.172Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESACATO",
+      "clave": "DSCT"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-05-09"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2022-12-13",
+      "fechaFinal": "2023-03-13"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Elisa ",
+      "segundoApellido": "Pérez",
+      "primerApellido": "Chávez",
+      "puesto": "Directora de Desarrollo Económico y Social del Ayuntamiento ",
+      "nivel": "Directivo",
+      "_id": "672ced1503a24446a3a70b65"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "TJA/RAG/0022/2021-III",
+    "institucionDependencia": {
+      "clave": "MNZ021",
+      "siglas": "JT",
+      "nombre": "Municipio de Jiménez del Teul",
+      "_id": "672ced1503a24446a3a70b66"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "Omitió cumplir en tiempo y forma con diversa información solicitada mediante requerimientos por parte de la Auditoría Superior del Estado.",
+    "id": "f559ef3e-bef7-473e-b69d-869c6558c6a8",
+    "fechaCaptura": "2024-06-10T19:20:27.740Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESACATO",
+      "clave": "DSCT"
+    },
+    "resolucion": {
+      "fechaResolucion": "72022-02-08"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2023-10-16",
+      "fechaFinal": "2024-01-16"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Enriqueta",
+      "segundoApellido": "Flores",
+      "primerApellido": "Castillo ",
+      "puesto": "Regidora del Ayuntamiento en el Municipio de Villa García, Zacatecas.",
+      "_id": "672ced1503a24446a3a70b67"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "institucionDependencia": {
+      "clave": "MNZ052",
+      "siglas": "VG",
+      "nombre": "Municipio de Villa García",
+      "_id": "672ced1503a24446a3a70b68"
+    },
+    "expediente": "TJA/RAG/0029/2021-III",
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "No dar respuesta a los requerimientos por parte de una autoridad jurisdiccional, a pesar de que les fueron impuestas las medidas de apremio correspondientes.",
+    "id": "9f18f2eb-ea40-44f4-8e30-e741d4e79cd8",
+    "fechaCaptura": "2024-04-30T21:07:08.289Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESACATO",
+      "clave": "DSCT"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-05-09"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2022-12-15",
+      "fechaFinal": "2023-03-15"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Erika ",
+      "primerApellido": "Castillo",
+      "segundoApellido": "Herrera",
+      "puesto": "Tesorera Municipal del Ayuntamiento ",
+      "_id": "672ced1503a24446a3a70b69"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "id": "ad21bc49-cd3d-483a-a916-d16cc6e2629c",
+    "fechaCaptura": "2024-06-10T19:44:15.040Z",
+    "institucionDependencia": {
+      "clave": "MNZ021",
+      "siglas": "JT",
+      "nombre": "Municipio de Jiménez del Teul",
+      "_id": "672ced1503a24446a3a70b6a"
+    },
+    "expediente": "TJA/RAG/0022/2021-III",
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "Omitió cumplir en tiempo y forma con diversa información solicitada mediante requerimientos por parte de la Auditoría Superior del Estado."
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESVÍO DE RECURSOS PÚBLICOS",
+      "clave": "DRP"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-08-02"
+    },
+    "inhabilitacion": {
+      "plazo": "3 MESES",
+      "fechaInicial": "2021-10-13",
+      "fechaFinal": "2022-01-13"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "ERIKA MARCELA",
+      "primerApellido": "VENEGAS",
+      "segundoApellido": "BADILLO",
+      "puesto": "DIRECCIÓN",
+      "nivel": "DIRECTORA",
+      "_id": "672ced1503a24446a3a70b6b"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "TJA/RAG/168/2020-P3",
+    "institucionDependencia": {
+      "nombre": "Universidad Politécnica de Zacatecas",
+      "siglas": "UPZ",
+      "clave": "EJZ037",
+      "_id": "672ced1503a24446a3a70b6c"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas",
+    "causaMotivoHechos": "CELEBRACIÓN DE CONTRATOS SIN PROCEDIMIENTO DE LICITACIÓN PÚBLICA\n",
+    "id": "f2d68d40-4dd3-4ca9-b025-87774716f2e4",
+    "fechaCaptura": "2022-09-28T14:49:40.242Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESVÍO DE RECURSOS PÚBLICOS",
+      "clave": "DRP"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-02-11"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso mexicano",
+        "_id": "672ced1503a24446a3a70b6e"
+      },
+      "monto": 569495.02
+    },
+    "inhabilitacion": {
+      "plazo": "QUINCE AÑOS",
+      "fechaInicial": "2023-09-25",
+      "fechaFinal": "2038-09-25"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Erika Marcela ",
+      "primerApellido": "Venegas ",
+      "segundoApellido": "Badillo",
+      "puesto": "Rectora de la Universidad Politécnica de Zacatecas",
+      "_id": "672ced1503a24446a3a70b6d"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "valor": "SANCIÓN ECONÓMICA",
+        "clave": "SE"
+      }
+    ],
+    "expediente": "TJA/RAG/0001/2021-III",
+    "institucionDependencia": {
+      "nombre": "Universidad Politécnica de Zacatecas",
+      "siglas": "UPZ",
+      "clave": "EJZ037",
+      "_id": "672ced1503a24446a3a70b6f"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "Aprobó y permitió actos para la asignación de recursos públicos financieros sin fundamento jurídico.",
+    "id": "6d37641a-fadb-4fc5-b690-a55c5f45496e",
+    "fechaCaptura": "2024-06-07T21:08:13.751Z"
+  },
+  {
+    "tipoFalta": {
+      "clave": "AFN",
+      "valor": "ABUSO DE FUNCIONES"
+    },
+    "resolucion": {
+      "fechaResolucion": "2023-05-03"
+    },
+    "inhabilitacion": {
+      "plazo": "7 meses, con 15 días",
+      "fechaInicial": "2023-05-16",
+      "fechaFinal": "2024-01-01"
+    },
+    "id": "b1f779a3-4a87-4cac-bca6-105bb991c1f0",
+    "fechaCaptura": "2024-09-19T20:35:08.270Z",
+    "expediente": "TJA/RAG/0011/2022-III",
+    "institucionDependencia": {
+      "nombre": "Secretaría General de Gobierno",
+      "siglas": "SEGOB",
+      "clave": "EJZ001",
+      "_id": "66ec89d93a34ace47e3a4ab8"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "GABRIEL ",
+      "primerApellido": "MORALES",
+      "segundoApellido": "TORRES",
+      "puesto": "Subsecretario de Transporte Público del Estado de Zacatecas.",
+      "_id": "66ec8afc3a34ace47e3a4c0a"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "Autorizó y expidió permisos experimentales de transporte publico sin contar con las facultades para ello."
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESACATO",
+      "clave": "DSCT"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-11-25"
+    },
+    "inhabilitacion": {
+      "plazo": "TREINTA DÍAS NATURALES",
+      "fechaInicial": "2023-11-01",
+      "fechaFinal": "2023-11-30"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Guillermo Adrián  ",
+      "primerApellido": "Hernández ",
+      "segundoApellido": "Álvarez",
+      "puesto": "Director de Desarrollo Económico y Social",
+      "nivel": "Directivo",
+      "_id": "672ced1503a24446a3a70b70"
+    },
+    "tipoSancion": [
+      {
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN",
+        "clave": "S"
+      }
+    ],
+    "expediente": "TJA/RAG/0036/2021-III",
+    "institucionDependencia": {
+      "nombre": "Municipio de Sain Alto",
+      "siglas": "SA",
+      "clave": "MNZ040",
+      "_id": "672ced1503a24446a3a70b71"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas",
+    "causaMotivoHechos": "No cumplir con la obligación de proporcionar información completa en tiempo y forma en respuesta a los requerimientos formulados por la Auditoría Superior del Estado, a pesar de que les fueron impuestas medidas de apremio conforme a las disposiciones aplicables.",
+    "id": "dbb3f2d9-8adf-42ce-8dec-57afac4c3de3",
+    "fechaCaptura": "2023-11-30T19:24:30.511Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "ABUSO DE FUNCIONES",
+      "clave": "AFN"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-09-25"
+    },
+    "inhabilitacion": {
+      "plazo": "DIEZ AÑOS",
+      "fechaInicial": "2022-12-07",
+      "fechaFinal": "2032-12-07"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Héctor Alejandro ",
+      "primerApellido": "Cordero ",
+      "segundoApellido": "Martínez",
+      "puesto": "Presidente Municipal ",
+      "nivel": "Presidencia",
+      "_id": "672ced1503a24446a3a70b72"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "valor": "INDEMNIZACIÓN RESARCITORIA",
+        "clave": "IRSC"
+      }
+    ],
+    "expediente": "TJA/RAG/0033/2021-III",
+    "institucionDependencia": {
+      "clave": "MNZ013",
+      "siglas": "GEE",
+      "nombre": "Municipio de General Enrique Estrada",
+      "_id": "672ced1503a24446a3a70b73"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "Autorizar órdenes de pago, no vigilar el ejercicio del recurso público, permitir y no verificar erogaciones a la cuenta bancaria a nombre del municipio.",
+    "observaciones": "La indemnización resarcitoria es solidaria con Patricia Hernández Sánchez.",
+    "id": "ab4dc2c7-9b2f-4353-a47f-fa43fcb71cc2",
+    "fechaCaptura": "2024-02-28T21:19:38.019Z"
+  },
+  {
+    "tipoFalta": {
+      "clave": "DSCT",
+      "valor": "DESACATO"
+    },
+    "resolucion": {
+      "fechaResolucion": "2023-11-15"
+    },
+    "inhabilitacion": {
+      "fechaInicial": "2024-08-17",
+      "fechaFinal": "2024-11-17"
+    },
+    "id": "374a896c-a409-404a-bff4-306dbe67a734",
+    "fechaCaptura": "2024-10-14T18:27:53.152Z",
+    "expediente": "TJA/RAG/0030/2023-III",
+    "institucionDependencia": {
+      "nombre": "Municipio de Miguel Auza",
+      "siglas": "MA",
+      "clave": "MNZ029",
+      "_id": "670d62a93a34ace47ebd2508"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "HUMBERTO ",
+      "primerApellido": "GARCÍA ",
+      "segundoApellido": "HERNÁNDEZ",
+      "puesto": "Tesorero Municipal de Miguel Auza, Zacatecas 2016-2018",
+      "_id": "670d62a93a34ace47ebd2509"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "Omitió presentar en tiempo el Informe Anual de Cuenta Publica correspondiente al ejercicio fiscal 2017 del Municipio de Miguel Auza, Zacatecas, aún de los requerimientos que le fueran formulados por parte de la entidad de fiscalización el estado. "
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESACATO",
+      "clave": "DSCT"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-11-25"
+    },
+    "inhabilitacion": {
+      "plazo": "TREINTA DÍAS NATURALES",
+      "fechaInicial": "2023-11-01",
+      "fechaFinal": "2023-11-30"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Ignacio ",
+      "primerApellido": "Gómez",
+      "segundoApellido": " Almaraz ",
+      "puesto": "Director de Obras y Servicios Públicos ",
+      "nivel": "Directivo",
+      "_id": "672ced1503a24446a3a70b74"
+    },
+    "tipoSancion": [
+      {
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN",
+        "clave": "S"
+      }
+    ],
+    "expediente": "TJA/RAG/0036/2021-III",
+    "institucionDependencia": {
+      "nombre": "Municipio de Sain Alto",
+      "siglas": "SA",
+      "clave": "MNZ040",
+      "_id": "672ced1503a24446a3a70b75"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas",
+    "causaMotivoHechos": "No cumplir con la obligación de proporcionar información completa en tiempo y forma en respuesta a los requerimientos formulados por la Auditoría Superior del Estado, a pesar de que les fueron impuestas medidas de apremio conforme a las disposiciones aplicables.",
+    "id": "4cc59ea7-bb11-4c11-9a33-3e93e2dba5c0",
+    "fechaCaptura": "2023-11-30T19:21:01.137Z"
+  },
+  {
+    "tipoFalta": {
+      "clave": "DSCT",
+      "valor": "DESACATO"
+    },
+    "resolucion": {
+      "fechaResolucion": "2023-11-15"
+    },
+    "multa": {
+      "moneda": {
+        "_id": "670d5eb43a34ace47ebd1b18"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2024-08-17",
+      "fechaFinal": "2024-11-17"
+    },
+    "id": "b29869bb-6022-4a0e-b79f-fa43cd9982c7",
+    "fechaCaptura": "2024-10-14T18:11:00.021Z",
+    "expediente": "TJA/RAG/0030/2023-III",
+    "institucionDependencia": {
+      "nombre": "Municipio de Miguel Auza",
+      "siglas": "MA",
+      "clave": "MNZ029",
+      "_id": "670d5eb43a34ace47ebd1b15"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "J. ARMANDO ",
+      "primerApellido": " GARCÍA ",
+      "segundoApellido": "ORTIZ   ",
+      "puesto": "Presidente Municipal del Ayuntamiento",
+      "_id": "670d5eb43a34ace47ebd1b16"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "Omitió presentar en tiempo el Informe Anual de Cuenta Publica correspondiente al ejercicio fiscal 2017 del Municipio de Miguel Auza, Zacatecas, aún de los requerimientos que le fueran formulados por parte de la entidad de fiscalización el estado. \n\n\n"
+  },
+  {
+    "tipoFalta": {
+      "clave": "DSCT",
+      "valor": "DESACATO"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-10-27"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2024-09-11",
+      "fechaFinal": "2024-12-11"
+    },
+    "id": "8aaf26bd-1011-4671-912b-8d4a0a5fc881",
+    "fechaCaptura": "2024-09-13T20:06:30.564Z",
+    "expediente": "TJA/RAG/0009/2021-III",
+    "institucionDependencia": {
+      "nombre": "Municipio de Pinos",
+      "siglas": "PIN",
+      "clave": "MNZ038",
+      "_id": "66e49a5741459462b2dfb84a"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "J. MARCOS ",
+      "primerApellido": "RODRÍGUEZ ",
+      "segundoApellido": "FLORES   ",
+      "puesto": "Presidente Municipal de Pinos, Zacatecas 2016-2018",
+      "_id": "66e49b4641459462b2dfc310"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "Omitió presentar en tiempo el Informe Anual de Cuenta Publica correspondiente al ejercicio fiscal 2017 del Municipio de Pinos, Zacatecas, aún de los requerimientos que le fueran formulados por parte de la entidad de fiscalización el estado. "
+  },
+  {
+    "tipoFalta": {
+      "valor": "ABUSO DE FUNCIONES",
+      "clave": "AFN"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-09-15"
+    },
+    "inhabilitacion": {
+      "plazo": "DOS AÑOS",
+      "fechaInicial": "2021-10-22",
+      "fechaFinal": "2023-10-22"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Jesús ",
+      "segundoApellido": " Balderas",
+      "primerApellido": " Prado ",
+      "nivel": "Residente ",
+      "puesto": "Residente de Obra",
+      "_id": "672ced1503a24446a3a70b76"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "TJA/RAG/0340/2020-P3",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Obras Públicas",
+      "siglas": "SOP",
+      "clave": "EJZ008",
+      "_id": "672ced1503a24446a3a70b77"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "Ejecutar de forma arbitraria modificaciones de cadenamiento a la obra pública a su cargo.",
+    "id": "5453661c-5629-41f4-b7fe-946bce87cd6d",
+    "fechaCaptura": "2024-03-14T19:12:48.321Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESVÍO DE RECURSOS PÚBLICOS",
+      "clave": "DRP"
+    },
+    "resolucion": {
+      "fechaResolucion": "2019-11-13"
+    },
+    "inhabilitacion": {
+      "fechaInicial": "2021-08-26",
+      "fechaFinal": "2022-08-25"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Jesús Gerardo ",
+      "primerApellido": "López ",
+      "segundoApellido": "Longoria",
+      "puesto": "Director General del Régimen Estatal de Protección Social en Salud.",
+      "nivel": "Directivo",
+      "_id": "672ced1503a24446a3a70b78"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "TJA/RAG/560/2018-P3",
+    "institucionDependencia": {
+      "nombre": "Servicios de Salud de Zacatecas",
+      "siglas": "SSZ",
+      "clave": "EJZ023",
+      "_id": "672ced1503a24446a3a70b79"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "Autorizó mediante contratos de adquisiciones la asignación de recursos públicos financieros contraviniendo la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público.",
+    "observaciones": "",
+    "id": "f0b0db62-5732-41c9-b757-673c40bad047",
+    "fechaCaptura": "2023-10-30T17:18:46.688Z"
+  },
+  {
+    "tipoFalta": {
+      "clave": "AFN",
+      "valor": "ABUSO DE FUNCIONES"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-06-24"
+    },
+    "multa": {
+      "monto": 1200000,
+      "moneda": {
+        "clave": "MXN",
+        "_id": "66e9ad89b97c1cf229cbfea5"
+      }
+    },
+    "id": "d470ccd8-60f8-493a-8875-9b3515b82e61",
+    "fechaCaptura": "2024-09-17T16:26:27.374Z",
+    "expediente": " TJA/RAG/0016/2021-III",
+    "institucionDependencia": {
+      "nombre": "Municipio de General Francisco R. Murguía",
+      "siglas": "GFRM",
+      "clave": "MNZ014",
+      "_id": "66e9ad89b97c1cf229cbfea6"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Joel ",
+      "primerApellido": "Gómez",
+      "segundoApellido": "Acosta",
+      "puesto": "Tesorero Municipal del Ayuntamiento ",
+      "_id": "66e9adb3b97c1cf229cc0503"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "tipoSancion": [
+      {
+        "clave": "IRSC",
+        "valor": "INDEMNIZACIÓN RESARCITORIA"
+      }
+    ],
+    "causaMotivoHechos": "Autorizar la adquisición de un bien inmueble sin llevar a cabo el procedimiento de licitación y autorización de Cabildo, en perjuicio del patrimonio del ayuntamiento.\n\n",
+    "observaciones": "\nLa indemnización es solidaria \n"
+  },
+  {
+    "tipoFalta": {
+      "clave": "DRP",
+      "valor": "DESVÍO DE RECURSOS PÚBLICOS"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-10-05"
+    },
+    "inhabilitacion": {
+      "plazo": "9 MESES",
+      "fechaInicial": "2024-09-10",
+      "fechaFinal": "2025-06-10"
+    },
+    "id": "50abf251-838e-44be-87a4-2fba49ea4179",
+    "fechaCaptura": "2024-09-19T20:59:33.220Z",
+    "expediente": "TJA/RAG/146/2019-P3",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Obras Públicas",
+      "siglas": "SOP",
+      "clave": "EJZ008",
+      "_id": "66ec90b53a34ace47e3a6177"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Jorge ",
+      "primerApellido": "Escalante ",
+      "segundoApellido": "González.",
+      "puesto": "Coordinador Jurídico de la Secretaría de Infraestructura. ",
+      "_id": "66ec90b53a34ace47e3a6178"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "Autorizó recursos públicos financieros en contraposición de las normas aplicables, a través de contratos de obra pública y convenios de ampliación de montos y metas. "
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESACATO",
+      "clave": "DSCT"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-04-26"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2023-10-27",
+      "fechaFinal": "2024-01-27"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "José Ángel ",
+      "primerApellido": "Zamora ",
+      "segundoApellido": "Flores",
+      "puesto": "Presidente Municipal",
+      "nivel": "Presidencia",
+      "_id": "672ced1503a24446a3a70b7a"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "TJA/RAG/0012/2021-III",
+    "institucionDependencia": {
+      "nombre": "Municipio de Sain Alto",
+      "siglas": "SA",
+      "clave": "MNZ040",
+      "_id": "672ced1503a24446a3a70b7b"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas",
+    "causaMotivoHechos": "No presentar en tiempo y forma legales la Cuenta Pública del Municipio de Saín Alto, Zacatecas.",
+    "id": "a7e2bd1c-65ec-4029-9cd3-a38aa203c52e",
+    "fechaCaptura": "2023-11-30T19:03:08.987Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "COHECHO O EXTORSION",
+      "clave": "CEX"
+    },
+    "resolucion": {
+      "fechaResolucion": "2020-05-22"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso mexicano",
+        "_id": "672ced1503a24446a3a70b7d"
+      },
+      "monto": 10000
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "José de Jesús",
+      "primerApellido": "García",
+      "segundoApellido": "Barrios ",
+      "puesto": "Asesor Jurídico ",
+      "_id": "672ced1503a24446a3a70b7c"
+    },
+    "tipoSancion": [
+      {
+        "valor": "SANCIÓN ECONÓMICA",
+        "clave": "SE"
+      }
+    ],
+    "id": "7daf284c-3349-45e8-92f2-33d08d6bc795",
+    "fechaCaptura": "2023-08-18T17:40:18.509Z",
+    "institucionDependencia": {
+      "nombre": "Secretaría de las Mujeres",
+      "siglas": "SEMUJER",
+      "clave": "EJZ015",
+      "_id": "672ced1503a24446a3a70b7e"
+    },
+    "expediente": "TJA/RAG/529/2018-P3",
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas",
+    "causaMotivoHechos": "Cobro de servicios gratuitos.",
+    "observaciones": "El Servidor Público sancionado se desempeñó como Asesor Jurídico adscrito al  Centro de Atención a Mujeres Víctimas de Violencia en el Municipio de Fresnillo, Zacatecas y la sanción impuesta es por la falta grave de cohecho."
+  },
+  {
+    "tipoFalta": {
+      "clave": "DRP",
+      "valor": "DESVÍO DE RECURSOS PÚBLICOS"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-10-05"
+    },
+    "multa": {
+      "moneda": {
+        "_id": "66ec8f213a34ace47e3a6149"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "UN AÑO",
+      "fechaInicial": "2024-09-10",
+      "fechaFinal": "2025-09-10"
+    },
+    "id": "23cbccb3-b40f-4a50-ad1b-45cfb7ab2d74",
+    "fechaCaptura": "2024-09-19T20:52:49.560Z",
+    "expediente": "TJA/RAG/146/2019-P3",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Obras Públicas",
+      "siglas": "SOP",
+      "clave": "EJZ008",
+      "_id": "66ec8f213a34ace47e3a6146"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "José Francisco ",
+      "primerApellido": "Ibargüengoytia ",
+      "segundoApellido": "Borrego",
+      "puesto": "Secretario de Infraestructura ",
+      "_id": "66ec8f213a34ace47e3a6147"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "Autorizó recursos públicos financieros en contraposición de las normas aplicables, a través de contratos de obra pública y convenios de ampliación de montos y metas. "
+  },
+  {
+    "tipoFalta": {
+      "valor": "ABUSO DE FUNCIONES",
+      "clave": "AFN"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-03-10"
+    },
+    "inhabilitacion": {
+      "fechaInicial": "2022-04-01",
+      "plazo": "7 meses, con 15 días",
+      "fechaFinal": "2022-11-15"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "JOSÉ FRANCISCO ",
+      "primerApellido": "JUÁREZ ",
+      "segundoApellido": "COSÍO.",
+      "puesto": "DOCENTE DE ESCUELA PRIMARIA",
+      "_id": "672ced1503a24446a3a70b7f"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "TJA/RAG/0007/2021-III",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "SEDUZAC",
+      "clave": "EJZ009",
+      "_id": "672ced1503a24446a3a70b80"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "Bajo el cargo de docente, realizó actos arbitrarios consistentes en maltrato físico y psicológico a una persona.",
+    "id": "1111a89d-6306-45a2-869f-71c3c3092531",
+    "fechaCaptura": "2024-08-29T16:45:07.380Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESVÍO DE RECURSOS PÚBLICOS",
+      "clave": "DRP"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-08-31"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso mexicano",
+        "_id": "672ced1503a24446a3a70b82"
+      },
+      "monto": 450000
+    },
+    "inhabilitacion": {
+      "plazo": "10 años",
+      "fechaInicial": "2024-05-13",
+      "fechaFinal": "2034-05-13"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "JUAN ANTONIO ",
+      "primerApellido": "HERRERA",
+      "segundoApellido": "MORÚA ",
+      "puesto": "Presidente Municipal de Vetagrande, Zacatecas.",
+      "nivel": "",
+      "_id": "672ced1503a24446a3a70b81"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "valor": "INDEMNIZACIÓN RESARCITORIA",
+        "clave": "IRSC"
+      }
+    ],
+    "expediente": "TJA/RAG/0020/2021-III",
+    "institucionDependencia": {
+      "nombre": "Municipio de Vetagrande",
+      "clave": "MNZ050",
+      "siglas": "VET",
+      "_id": "672ced1503a24446a3a70b83"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "Autorizar con su firma, ordenes de pago a la Tesorería Municipal para  la asignación de recursos financieros en contraposición a las normas aplicables.",
+    "observaciones": "La Indemnización de $450,000.00 (cuatrocientos cincuenta mil pesos 00/100 M.N.) es solidaria con Alfredo Gutiérrez Hernández.",
+    "id": "d810763e-162e-48e2-88c7-c05bfcdf0929",
+    "fechaCaptura": "2024-08-14T18:07:31.950Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESACATO",
+      "clave": "DSCT"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-07-08"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2023-10-16",
+      "fechaFinal": "2024-01-16"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Juan Manuel ",
+      "primerApellido": "Vela ",
+      "segundoApellido": "Arellano",
+      "puesto": "Regidor del Ayuntamiento en el Municipio de Villa García, Zacatecas.",
+      "_id": "672ced1503a24446a3a70b84"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "RAG/0029/2021-III",
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "institucionDependencia": {
+      "clave": "MNZ052",
+      "siglas": "VG",
+      "nombre": "Municipio de Villa García",
+      "_id": "672ced1503a24446a3a70b85"
+    },
+    "causaMotivoHechos": "No dar respuesta a los requerimientos por parte de una autoridad jurisdiccional, a pesar de que les fueron impuestas las medidas de apremio correspondientes.",
+    "id": "d366dee7-b0e7-49fa-9bf1-0e6bfeba4447",
+    "fechaCaptura": "2024-04-30T20:38:55.707Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "ABUSO DE FUNCIONES",
+      "clave": "AFN"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-09-15"
+    },
+    "inhabilitacion": {
+      "plazo": "UN AÑO",
+      "fechaInicial": "2023-06-12",
+      "fechaFinal": "2024-06-12"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Juan Miguel ",
+      "primerApellido": " Lira ",
+      "segundoApellido": "Leyva ",
+      "puesto": "Residente de Obra",
+      "nivel": "Residente ",
+      "_id": "672ced1503a24446a3a70b86"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "id": "8681d94a-42f1-4858-a57f-02388727d2d1",
+    "fechaCaptura": "2024-07-19T19:22:29.728Z",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Obras Públicas",
+      "siglas": "SOP",
+      "clave": "EJZ008",
+      "_id": "672ced1503a24446a3a70b87"
+    },
+    "expediente": "TJA/RAG/0340/2020-P3",
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "Ejecutar de forma arbitraria modificaciones de cadenamiento a la obra pública a su cargo."
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESVÍO DE RECURSOS PÚBLICOS",
+      "clave": "DRP"
+    },
+    "resolucion": {
+      "fechaResolucion": "2019-07-11"
+    },
+    "inhabilitacion": {
+      "plazo": "10 años",
+      "fechaInicial": "2019-07-12",
+      "fechaFinal": "2029-07-12"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Julio César",
+      "primerApellido": "Juárez ",
+      "segundoApellido": "Batres",
+      "puesto": "Dirección de Imagen Institucional",
+      "nivel": "Director",
+      "_id": "672ced1503a24446a3a70b88"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "id": "69a918f8-ad57-41da-a748-b23bd4969029",
+    "fechaCaptura": "2022-09-27T17:27:16.320Z",
+    "institucionDependencia": {
+      "nombre": "Jefatura de Oficina del Gobernador",
+      "siglas": "JOG",
+      "clave": "EJZ053",
+      "_id": "672ced1503a24446a3a70b89"
+    },
+    "expediente": "TJA/RAG/517/2018-P3",
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas",
+    "causaMotivoHechos": "Adjudicación directa de contratos de prestación de servicios."
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESVÍO DE RECURSOS PÚBLICOS",
+      "clave": "DRP"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-06-07"
+    },
+    "inhabilitacion": {
+      "plazo": "1 AÑO ",
+      "fechaInicial": "2021-06-08",
+      "fechaFinal": "2022-06-08"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Julio César",
+      "primerApellido": "Juárez ",
+      "segundoApellido": "Batres",
+      "puesto": "Dirección de Imagen Institucional ",
+      "nivel": "Director ",
+      "_id": "672ced1503a24446a3a70b8a"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "TJA/RAG/516/2018-P3",
+    "institucionDependencia": {
+      "nombre": "Jefatura de Oficina del Gobernador",
+      "siglas": "JOG",
+      "clave": "EJZ053",
+      "_id": "672ced1503a24446a3a70b8b"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas",
+    "causaMotivoHechos": "ADJUDICACIÓN DIRECTA DE CONTRATOS DE PRESTACIÓN DE SERVICIOS\n",
+    "id": "38365f51-c43f-47a2-83c8-7b5aa9b00bed",
+    "fechaCaptura": "2022-09-27T17:39:18.460Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESACATO",
+      "clave": "DSCT"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-07-08"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2023-10-17",
+      "fechaFinal": "2024-01-17"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Karina Yasmín ",
+      "primerApellido": "Esquivel ",
+      "segundoApellido": "Guillén",
+      "puesto": "Regidora del Ayuntamiento en el  Municipio de Villa García, Zacatecas.",
+      "_id": "672ced1503a24446a3a70b8c"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "RAG/0029/2021-III",
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "No dar respuesta a los requerimientos por parte de una autoridad jurisdiccional, a pesar de que les fueron impuestas las medidas de apremio correspondientes.",
+    "institucionDependencia": {
+      "clave": "MNZ052",
+      "siglas": "VG",
+      "nombre": "Municipio de Villa García",
+      "_id": "672ced1503a24446a3a70b8d"
+    },
+    "id": "a1517c8b-2ef3-4357-9fac-d2035205afe8",
+    "fechaCaptura": "2024-04-30T20:59:42.573Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESACATO",
+      "clave": "DSCT"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-05-20"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2022-11-24",
+      "fechaFinal": "2023-02-24"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Kenet Carmelo ",
+      "primerApellido": "Castillo ",
+      "segundoApellido": "Rodríguez",
+      "puesto": "Director de Obras Públicas y Servicio Social del Ayuntamiento ",
+      "_id": "672ced1503a24446a3a70b8e"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "id": "a37b6397-39be-4099-9d45-7b5f109d4ece",
+    "fechaCaptura": "2024-06-05T19:39:08.901Z",
+    "institucionDependencia": {
+      "nombre": "Municipio de Mazapil",
+      "siglas": "MAZ",
+      "clave": "MNZ026",
+      "_id": "672ced1503a24446a3a70b8f"
+    },
+    "expediente": "TJA/RAG/0015/2021-III",
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "No presentar a la Auditoría Superior del Estado, información mensual y trimestral (contable y financiera), aun de haber sido requerido por el ente fiscalizador."
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESACATO",
+      "clave": "DSCT"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-07-08"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2024-01-08",
+      "fechaFinal": "2024-04-08"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Luis ",
+      "primerApellido": "Santos ",
+      "segundoApellido": "Hernández",
+      "puesto": "Presidente Municipal del Ayuntamiento de Villa García, Zacatecas.",
+      "_id": "672ced1503a24446a3a70b90"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "TJA/RAG/0029/2021-III",
+    "institucionDependencia": {
+      "clave": "MNZ052",
+      "siglas": "VG",
+      "nombre": "Municipio de Villa García",
+      "_id": "672ced1503a24446a3a70b91"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "No dar respuesta a los requerimientos por parte de una autoridad jurisdiccional, a pesar de que les fueron impuestas las medidas de apremio correspondientes.",
+    "id": "db9015aa-243a-4e35-8547-7b2f07db14e5",
+    "fechaCaptura": "2024-04-30T20:33:06.128Z"
+  },
+  {
+    "tipoFalta": {
+      "clave": "DSCT",
+      "valor": "DESACATO"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-10-27"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2024-09-11",
+      "fechaFinal": "2024-12-11"
+    },
+    "id": "2d0ee888-ea62-4972-9d85-7344ccbdda63",
+    "fechaCaptura": "2024-09-13T20:05:40.491Z",
+    "expediente": "TJA/RAG/0009/2021-III",
+    "institucionDependencia": {
+      "nombre": "Municipio de Pinos",
+      "siglas": "PIN",
+      "clave": "MNZ038",
+      "_id": "66e49b1441459462b2dfc1bd"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "MA. DE LOS ÁNGELES ",
+      "primerApellido": "ARGUELLO   ",
+      "segundoApellido": "GALLEGOS    ",
+      "puesto": "Síndica Municipal de Pinos, Zacatecas 2016-2018",
+      "_id": "66e49b1441459462b2dfc1be"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "Omitió presentar en tiempo el Informe Anual de Cuenta Publica correspondiente al ejercicio fiscal 2017 del Municipio de Pinos, Zacatecas, aún de los requerimientos que le fueran formulados por parte de la entidad de fiscalización el estado. "
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESACATO",
+      "clave": "DSCT"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-05-09"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2022-12-13",
+      "fechaFinal": "2023-03-13"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Margarita ",
+      "segundoApellido": "Veloz",
+      "primerApellido": "Duarte",
+      "puesto": "Directora de Obras y Servicios Públicos del Ayuntamiento ",
+      "nivel": "Directivo",
+      "_id": "672ced1503a24446a3a70b92"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "TJA/RAG/0022/2021-III",
+    "institucionDependencia": {
+      "clave": "MNZ021",
+      "siglas": "JT",
+      "nombre": "Municipio de Jiménez del Teul",
+      "_id": "672ced1503a24446a3a70b93"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "Omitió cumplir en tiempo y forma con diversa información solicitada mediante requerimientos por parte de la Auditoría Superior del Estado.\n\n",
+    "id": "60638ae2-950d-40bb-b76c-9034e4518391",
+    "fechaCaptura": "2024-06-10T19:17:01.685Z"
+  },
+  {
+    "tipoFalta": {
+      "clave": "DSCT",
+      "valor": "DESACATO"
+    },
+    "resolucion": {
+      "fechaResolucion": "2023-09-15"
+    },
+    "inhabilitacion": {
+      "fechaInicial": "2024-08-17",
+      "fechaFinal": "2024-11-17"
+    },
+    "id": "28107d4e-9077-40a9-9816-2c69a1913e5f",
+    "fechaCaptura": "2024-10-14T18:15:22.911Z",
+    "expediente": "TJA/RAG/0030/2023-III",
+    "institucionDependencia": {
+      "nombre": "Municipio de Miguel Auza",
+      "siglas": "MA",
+      "clave": "MNZ029",
+      "_id": "670d5fba3a34ace47ebd1b2f"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "MARÍA DEL CARMEN ",
+      "primerApellido": "BONILLA ",
+      "segundoApellido": "GONZÁLEZ ",
+      "puesto": "Síndica Municipal de Miguel Auza, Zacatecas 2016-2018.",
+      "_id": "670d5fba3a34ace47ebd1b30"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "Omitió presentar en tiempo el Informe Anual de Cuenta Pública correspondiente al ejercicio fiscal 2017 del Municipio de Miguel Auza, Zacatecas, aún de los requerimientos que le fueran formulados por parte de la entidad de fiscalización el estado. \n\n"
+  },
+  {
+    "tipoFalta": {
+      "clave": "DSCT",
+      "valor": "DESACATO"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-10-27"
+    },
+    "multa": {
+      "moneda": {
+        "_id": "66e49be741459462b2dfcdbb"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2024-09-11",
+      "fechaFinal": "2024-12-11"
+    },
+    "id": "4f456ee4-11a8-4093-abdd-03452c453cb6",
+    "fechaCaptura": "2024-09-13T20:09:11.706Z",
+    "expediente": "TJA/RAG/0009/2021-III",
+    "institucionDependencia": {
+      "nombre": "Municipio de Pinos",
+      "siglas": "PIN",
+      "clave": "MNZ038",
+      "_id": "66e49be741459462b2dfcdb8"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "MARÍA DEL ROSARIO ",
+      "primerApellido": "CONTRERAS ",
+      "segundoApellido": "DE LIRA ",
+      "puesto": "Tesorera Municipal de Pinos, Zacatecas 2016-2018",
+      "_id": "66e49be741459462b2dfcdb9"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "Omitió presentar en tiempo el Informe Anual de Cuenta Publica correspondiente al ejercicio fiscal 2017 del Municipio de Pinos, Zacatecas, aún de los requerimientos que le fueran formulados por parte de la entidad de fiscalización el estado. "
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESVÍO DE RECURSOS PÚBLICOS",
+      "clave": "DRP"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-06-23"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso mexicano",
+        "_id": "672ced1503a24446a3a70b95"
+      },
+      "monto": 88505.02
+    },
+    "inhabilitacion": {
+      "plazo": "DIEZ AÑOS",
+      "fechaInicial": "2023-05-29",
+      "fechaFinal": "2033-05-29"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Mario Armando ",
+      "primerApellido": "García ",
+      "segundoApellido": "Huerta",
+      "puesto": "Jefe del Departamento Jurídico de la Dirección de Recursos Humanos de Ayuntamiento de Zacatecas",
+      "nivel": "Directivo",
+      "_id": "672ced1503a24446a3a70b94"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "valor": "SANCIÓN ECONÓMICA",
+        "clave": "SE"
+      }
+    ],
+    "expediente": "TJA/RAG/0027/2021-III",
+    "institucionDependencia": {
+      "clave": "MNZ056",
+      "siglas": "ZAC",
+      "nombre": "Municipio de Zacatecas",
+      "_id": "672ced1503a24446a3a70b96"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "Realizó actos mediante los cuales, solicitó la liberación de recursos públicos financieros del Ayuntamiento de Zacatecas, con un fin y objeto específico, y en lugar de ello, depositó algunos de esos recursos a su cuenta bancaria, sin fundamento jurídico ni motivo justificado. ",
+    "id": "3f3bedb2-a98c-43b7-852a-6ac2816bfbf2",
+    "fechaCaptura": "2024-06-04T17:06:59.886Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "COHECHO O EXTORSION",
+      "clave": "CEX"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-12-16"
+    },
+    "inhabilitacion": {
+      "fechaInicial": "2022-07-15",
+      "fechaFinal": "2023-03-02",
+      "plazo": "7 meses y 15 días"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Mario Raymundo",
+      "primerApellido": "Moreno",
+      "segundoApellido": "Soriano",
+      "puesto": "Director de Administración de Activos",
+      "nivel": "Directivo",
+      "_id": "672ced1503a24446a3a70b97"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "TJA/RAG/344/2019-P3",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Administración",
+      "siglas": "SA",
+      "clave": "EJZ004",
+      "_id": "672ced1503a24446a3a70b98"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas",
+    "causaMotivoHechos": "Exigió para sí, con motivo de sus funciones, un beneficio no comprendido en su remuneración como servidor público en el cargo que desempeñó.",
+    "id": "0457b825-39dc-4a00-9d74-41cf5d15b867",
+    "fechaCaptura": "2022-11-30T14:27:45.905Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESACATO",
+      "clave": "DSCT"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-07-08"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2023-01-10",
+      "fechaFinal": "2023-04-10"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Martha Berenice ",
+      "primerApellido": "Herrera ",
+      "segundoApellido": "Cervantes",
+      "puesto": "Regidora del Ayuntamiento en el  Municipio de Villa García, Zacatecas.",
+      "_id": "672ced1503a24446a3a70b99"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "RAG/0029/2021-III",
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "institucionDependencia": {
+      "clave": "MNZ052",
+      "siglas": "VG",
+      "nombre": "Municipio de Villa García",
+      "_id": "672ced1503a24446a3a70b9a"
+    },
+    "causaMotivoHechos": "No dar respuesta a los requerimientos por parte de una autoridad jurisdiccional, a pesar de que les fueron impuestas las medidas de apremio correspondientes.",
+    "id": "2fa421fd-096f-4b76-863f-81fb2baca77f",
+    "fechaCaptura": "2024-04-30T20:51:51.852Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESACATO",
+      "clave": "DSCT"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-04-26"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2023-10-27",
+      "fechaFinal": "2024-01-27"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Martha Patricia ",
+      "primerApellido": "Medina ",
+      "segundoApellido": "Arenas",
+      "puesto": "Síndica Municipal",
+      "nivel": "Sindicatura",
+      "_id": "672ced1503a24446a3a70b9b"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "TJA/RAG/0012/2021-III",
+    "institucionDependencia": {
+      "nombre": "Municipio de Sain Alto",
+      "siglas": "SA",
+      "clave": "MNZ040",
+      "_id": "672ced1503a24446a3a70b9c"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas",
+    "causaMotivoHechos": "No presentar en tiempo y forma legales la Cuenta Pública del Municipio de Saín Alto, Zacatecas.",
+    "id": "701c02d4-f1f7-4729-90c2-fb876ae88494",
+    "fechaCaptura": "2023-11-30T19:07:01.942Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "ABUSO DE FUNCIONES",
+      "clave": "AFN"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-09-25"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2022-09-25",
+      "fechaFinal": "2023-02-25"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Olga ",
+      "primerApellido": "Sandate",
+      "segundoApellido": " Carlos",
+      "puesto": "Síndica Municipal ",
+      "nivel": "Sindicatura",
+      "_id": "672ced1503a24446a3a70b9d"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "TJA/RAG/0033/2021-III",
+    "institucionDependencia": {
+      "clave": "MNZ013",
+      "siglas": "GEE",
+      "nombre": "Municipio de General Enrique Estrada",
+      "_id": "672ced1503a24446a3a70b9e"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "Autorizar órdenes de pago, no vigilar el ejercicio del recurso público, permitir y no verificar erogaciones a la cuenta bancaria a nombre del municipio",
+    "observaciones": "",
+    "id": "f62bb75f-eab9-422e-a083-dfec83f5d9f1",
+    "fechaCaptura": "2024-03-04T14:51:03.634Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "ABUSO DE FUNCIONES",
+      "clave": "AFN"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-09-25"
+    },
+    "inhabilitacion": {
+      "plazo": "DIEZ AÑOS",
+      "fechaInicial": "2022-12-07",
+      "fechaFinal": "2023-12-07"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Patricia ",
+      "primerApellido": "Hernández ",
+      "segundoApellido": "Sánchez ",
+      "puesto": "Tesorera Municipal",
+      "nivel": "Tesorería",
+      "_id": "672ced1503a24446a3a70b9f"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "valor": "INDEMNIZACIÓN RESARCITORIA",
+        "clave": "IRSC"
+      }
+    ],
+    "expediente": "TJA/RAG/0033/2021-III",
+    "institucionDependencia": {
+      "clave": "MNZ013",
+      "siglas": "GEE",
+      "nombre": "Municipio de General Enrique Estrada",
+      "_id": "672ced1503a24446a3a70ba0"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "Autorizar órdenes de pago, no vigilar el ejercicio del recurso público, permitir y no verificar erogaciones a la cuenta bancaria a nombre del municipio. ",
+    "observaciones": "ES RESPONSABLE SOLIDARIA DEL PAGO POR INDEMNIZACIÓN RESARCITORIA JUNTO CON HÉCTOR ALEJANDRO CORDERO MARTÍNEZ.",
+    "id": "e2aa21ae-b1a3-4604-8af4-a80a3ad160be",
+    "fechaCaptura": "2024-03-04T15:01:41.575Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESVÍO DE RECURSOS PÚBLICOS",
+      "clave": "DRP"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-04-29"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso mexicano",
+        "_id": "672ced1503a24446a3a70ba2"
+      },
+      "monto": 932278.12
+    },
+    "inhabilitacion": {
+      "plazo": "QUINCE AÑOS",
+      "fechaInicial": "2023-10-27",
+      "fechaFinal": "2038-10-27"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Patricia ",
+      "primerApellido": "Ramírez ",
+      "segundoApellido": "Márquez",
+      "puesto": "Coordinadora Administrativa del Instituto ",
+      "nivel": "Coordinación",
+      "_id": "672ced1503a24446a3a70ba1"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "valor": "SANCIÓN ECONÓMICA",
+        "clave": "SE"
+      }
+    ],
+    "expediente": "TJA/RAG/448/2020-P3",
+    "institucionDependencia": {
+      "nombre": "Instituto Regional de Patrimonio Mundial",
+      "siglas": "IRPMZCC",
+      "clave": "EJZ052",
+      "_id": "672ced1503a24446a3a70ba3"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "Efectuó transferencias de la cuenta bancaria del Instituto Regional del Patrimonio Mundial de Zacatecas a su cuenta personal, sin fundamento jurídico.",
+    "id": "bc146b48-5d31-4c70-b3ca-72eb55fae55b",
+    "fechaCaptura": "2024-06-07T20:56:23.914Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "ABUSO DE FUNCIONES",
+      "clave": "AFN"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-12-08"
+    },
+    "inhabilitacion": {
+      "plazo": "Tres Meses",
+      "fechaInicial": "2023-05-16",
+      "fechaFinal": "2023-08-15"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Patricia del Carmen ",
+      "primerApellido": "Bernal ",
+      "segundoApellido": "Larralde",
+      "puesto": "Dirección General del Instituto Tecnológico Superior de Loreto, Zacatecas.",
+      "nivel": "Director General",
+      "_id": "672ced1503a24446a3a70ba4"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "TJA/RAG/0006/2021-III ",
+    "institucionDependencia": {
+      "nombre": "Instituto Tecnológico Superior de Loreto",
+      "siglas": "ITSL",
+      "clave": "EJZ042",
+      "_id": "672ced1503a24446a3a70ba5"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas ",
+    "causaMotivoHechos": "Contrató a una persona y recategorizó a dos más, con quienes se determinó tiene un vínculo de parentesco, beneficiándolas con el salario a percibir.",
+    "id": "0dd8b8ce-78d5-44a3-83d5-3697289684f3",
+    "fechaCaptura": "2023-07-07T20:17:50.089Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "DESACATO",
+      "clave": "DSCT"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-04-26"
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2023-10-27",
+      "fechaFinal": "2024-01-27"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Pedro ",
+      "primerApellido": "Longoria",
+      "segundoApellido": " Castro",
+      "puesto": "Tesorero Municipal",
+      "nivel": "Tesorería",
+      "_id": "672ced1503a24446a3a70ba6"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas",
+    "causaMotivoHechos": "No presentar en tiempo y forma legales la Cuenta Pública del Municipio de Saín Alto, Zacatecas.",
+    "expediente": "TJA/RAG/0012/2021-III",
+    "institucionDependencia": {
+      "nombre": "Municipio de Sain Alto",
+      "siglas": "SA",
+      "clave": "MNZ040",
+      "_id": "672ced1503a24446a3a70ba7"
+    },
+    "id": "c34b4bc3-3104-4d7a-b51e-e31c073e2ea7",
+    "fechaCaptura": "2023-11-30T19:10:45.794Z"
+  },
+  {
+    "tipoFalta": {
+      "valor": "PECULADO",
+      "clave": "PEC"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-11-19"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso mexicano",
+        "_id": "672ced1503a24446a3a70ba9"
+      },
+      "monto": 381160.78
+    },
+    "inhabilitacion": {
+      "plazo": "10 años",
+      "fechaInicial": "2023-11-23",
+      "fechaFinal": "2033-11-23"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Ramiro ",
+      "primerApellido": "Torres ",
+      "segundoApellido": "Bañuelos",
+      "puesto": "Director de la Benemérita Escuela Normal Manuel Ávila Camacho. 2015-2016.",
+      "nivel": "Directivo",
+      "_id": "672ced1503a24446a3a70ba8"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "valor": "INDEMNIZACIÓN RESARCITORIA",
+        "clave": "IRSC"
+      }
+    ],
+    "id": "cbc78845-aa8e-4dc6-ae53-e5670c9e1617",
+    "fechaCaptura": "2024-09-11T18:21:16.063Z",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "SEDUZAC",
+      "clave": "EJZ009",
+      "_id": "672ced1503a24446a3a70baa"
+    },
+    "expediente": "TJA/RAG/0002/2021-III",
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "causaMotivoHechos": "-\tRealizó actos para apropiarse para sí, de recursos financieros en contraposición a las normas aplicables y autorizó actos para que terceros con los que tuvo una relación laboral se apropiaran de recursos públicos financieros en contraposición a las normas aplicables.",
+    "observaciones": "-\tSe precisa que se manejó como monto total de la sanción de indemnización resarcitoria $381,160.78 (trescientos ochenta y un mil, ciento sesenta pesos con setenta y ocho centavos Moneda Nacional)\nCantidad que acuerdo a la sentencia es la sumatoria de: \ndaño a la hacienda pública: $168,599.52 (responsable solidario con Arturo Gutiérrez Ortiz); indemnización: $85,025.88 (responsable solidario con Arturo Gutiérrez Ortiz) y sanción económica: $127,535.38 (sanción individual).\n"
+  },
+  {
+    "tipoFalta": {
+      "clave": "DRP",
+      "valor": "DESVÍO DE RECURSOS PÚBLICOS"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-10-05"
+    },
+    "inhabilitacion": {
+      "plazo": "9 MESES",
+      "fechaInicial": "2024-09-10",
+      "fechaFinal": "2025-06-10"
+    },
+    "id": "39b7a9c9-d1b2-401f-b1ea-586335f15b6b",
+    "fechaCaptura": "2024-09-19T20:56:21.739Z",
+    "expediente": "TJA/RAG/146/2019-P3",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Obras Públicas",
+      "siglas": "SOP",
+      "clave": "EJZ008",
+      "_id": "66ec8ff53a34ace47e3a6168"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Rubén ",
+      "primerApellido": "Vázquez ",
+      "segundoApellido": "Sosa.",
+      "puesto": "Subsecretario de Infraestructura Vial",
+      "_id": "66ec8ff53a34ace47e3a6169"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "Autorizó recursos públicos financieros en contraposición de las normas aplicables, a través de contratos de obra pública y convenios de ampliación de montos y metas. \n\n"
+  },
+  {
+    "tipoFalta": {
+      "valor": "ABUSO DE FUNCIONES",
+      "clave": "AFN"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-09-15"
+    },
+    "inhabilitacion": {
+      "plazo": "Dos Años",
+      "fechaInicial": "2023-11-27",
+      "fechaFinal": "2025-11-27"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Salvador ",
+      "primerApellido": "Montes",
+      "segundoApellido": " Saucedo",
+      "puesto": "Residente de Obra",
+      "nivel": "Residente ",
+      "_id": "672ced1503a24446a3a70bab"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "expediente": "TJA/RAG/0340/2020-P3",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Obras Públicas",
+      "siglas": "SOP",
+      "clave": "EJZ008",
+      "_id": "672ced1503a24446a3a70bac"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas",
+    "causaMotivoHechos": "Ejecutar de forma arbitraria modificaciones de cadenamiento a la obra pública a su cargo.",
+    "id": "6fd5a1ce-4457-4281-a775-f8de0889aefd",
+    "fechaCaptura": "2024-03-14T18:42:04.622Z"
+  },
+  {
+    "tipoFalta": {
+      "clave": "CEX",
+      "valor": "COHECHO O EXTORSION"
+    },
+    "resolucion": {
+      "fechaResolucion": "2022-11-25"
+    },
+    "multa": {
+      "monto": 100000,
+      "moneda": {
+        "clave": "MXN",
+        "_id": "66e497f741459462b2df913c"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "10 años",
+      "fechaInicial": "2024-09-11",
+      "fechaFinal": "2034-09-11"
+    },
+    "id": "114a4369-daea-4896-baa2-695c37367ee4",
+    "fechaCaptura": "2024-09-13T19:54:56.697Z",
+    "expediente": "TJA/RAG/0026/2021-III",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Administración",
+      "siglas": "SA",
+      "clave": "EJZ004",
+      "_id": "66e497f741459462b2df913d"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "Salvador ",
+      "primerApellido": "García ",
+      "segundoApellido": "Ortega ",
+      "puesto": "Director de la Banda Sinfónica del Estado de Zacatecas ",
+      "nivel": "Directivo",
+      "_id": "66e4989041459462b2df9aca"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "tipoSancion": [
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA"
+      }
+    ],
+    "causaMotivoHechos": "Obtuvo para sí, un beneficio no comprendido en su remuneración como servidor público, consistente en dinero."
+  }
+]

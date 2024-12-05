@@ -1,0 +1,1569 @@
+[
+  {
+    "id": "9",
+    "fechaCaptura": "2023-10-19T00:00:00Z",
+    "expediente": "J040/2021",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "ABRAHAM ERNESTO COSIO TORRES",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J040/2021",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "https://e-tribunalbcs.mx/AccesoLibre/Documento.aspx?cadena=/IWvPOEZfvDcDDcFKEJOPVklieSIszsPyogbW2Wht3Oaq3iTxqCyFjnwQgHlpWDXaojElaxsWjSDdo5nh58CGLGkvqtEtvHvC7GjXEu1ArYIwQvddDXo6ENuhUWXgZry",
+      "fechaNotificacion": "2022-02-16"
+    },
+    "multa": {
+      "monto": 3047,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "15 AÑOS 2 MESES",
+      "fechaInicial": "2021-04-21",
+      "fechaFinal": "2036-06-21"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "39",
+    "fechaCaptura": "2023-11-09T00:00:00Z",
+    "expediente": "J157/2022",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "ALVARO CAMPOS OROZCO",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J157/2022",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "https://e-tribunalbcs.mx/AccesoLibre/Documento.aspx?cadena=/IWvPOEZfvDcDDcFKEJOPVklieSIszsPyogbW2Wht3Pu+STRRvLeSyi0DMCRCXC4v1+JWgHBnsei0eP45OSoXDXmhSPeydKFndifKLxn3pc69RsBAjCSWCe1PIzptUFF",
+      "fechaNotificacion": "2023-08-18"
+    },
+    "multa": {
+      "monto": 19244,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "4 AÑOS",
+      "fechaInicial": "2022-11-29",
+      "fechaFinal": "2026-11-29"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "30",
+    "fechaCaptura": "2023-11-09T00:00:00Z",
+    "expediente": "J168/2019",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "CRISTIAN SALVADOR AGUILLON OSUNA",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J168/2019",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "",
+      "fechaNotificacion": "2023-02-13"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "12 AÑOS 6 MESES",
+      "fechaInicial": "2021-12-15",
+      "fechaFinal": "2046-12-15"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "13",
+    "fechaCaptura": "2023-10-19T00:00:00Z",
+    "expediente": "J026/2020",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "DIEGO ARMANDO VILCHES OROZCO",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J026/2020",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "https://e-tribunalbcs.mx/AccesoLibre/Documento.aspx?cadena=/IWvPOEZfvDcDDcFKEJOPVklieSIszsPyogbW2Wht3P5KQnA30qkezmLjgm+54SjeUMIGooVQ/2ayUxmAhNd69ke+NozkV72lNjenymNsejscA0aCYGnsminG9sEtJz8",
+      "fechaNotificacion": "2022-03-27"
+    },
+    "inhabilitacion": {
+      "plazo": "16 AÑOS 8 MESES",
+      "fechaInicial": "2020-04-09",
+      "fechaFinal": "2036-12-09"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "19",
+    "fechaCaptura": "2023-10-20T00:00:00Z",
+    "expediente": "J029/2022",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "EDUARDO HERNANDEZ LOPEZ",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J029/2022",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "",
+      "fechaNotificacion": "2022-10-14"
+    },
+    "multa": {
+      "monto": 96,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "2 AÑOS 3 MESES",
+      "fechaInicial": "2022-03-28",
+      "fechaFinal": "2024-06-28"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "25",
+    "fechaCaptura": "2023-10-23T00:00:00Z",
+    "expediente": "J009/2020",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "ELIAS ORANTES CAMACHO",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J009/2020",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "",
+      "fechaNotificacion": "2022-08-12"
+    },
+    "multa": {
+      "monto": 86,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "5 AÑOS",
+      "fechaInicial": "2020-02-06",
+      "fechaFinal": "2025-02-06"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "37",
+    "fechaCaptura": "2023-11-09T00:00:00Z",
+    "expediente": "J095/2021",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "ELOY JAVIER VILLEGAS IBARRA",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J095/2021",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "https://e-tribunalbcs.mx/AccesoLibre/Documento.aspx?cadena=/IWvPOEZfvDcDDcFKEJOPVklieSIszsPyogbW2Wht3P4HgAEyg8TJbElFOi3Sl55aFs9OFM6xm8T0BTyJKDmSdgwAym8fEr/9XAeEqUGOD+nxDJBz8kh/49cM8gKM1++",
+      "fechaNotificacion": "2023-06-22"
+    },
+    "multa": {
+      "monto": 19244,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "2 AÑOS",
+      "fechaInicial": "2022-05-16",
+      "fechaFinal": "2024-05-16"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "24",
+    "fechaCaptura": "2023-10-23T00:00:00Z",
+    "expediente": "J111/2021",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "ENRIQUE RODRIGUEZ VAZQUEZ",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J111/2021",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "https://e-tribunalbcs.mx/AccesoLibre/Documento.aspx?cadena=/IWvPOEZfvDcDDcFKEJOPVklieSIszsPyogbW2Wht3MbH3tKUkWALUltu/mU4HqUT2zEv5Sk/WEWkvxrcPk1FgG12pMaK0dlCSOZeR5Zbxy0k7Nk6lVxNv4DP4lU0pOH",
+      "fechaNotificacion": "2022-07-02"
+    },
+    "inhabilitacion": {
+      "plazo": "20 AÑOS",
+      "fechaInicial": "2021-09-24",
+      "fechaFinal": "2041-09-24"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "22",
+    "fechaCaptura": "2023-10-23T00:00:00Z",
+    "expediente": "J022/2021",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "FELIPE DE JESUS ARAGON SARABIA",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J022/2021",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "https://e-tribunalbcs.mx/AccesoLibre/Documento.aspx?cadena=/IWvPOEZfvDcDDcFKEJOPVklieSIszsPyogbW2Wht3MXy0PMnPYSgzCnPRzDaqteySZNvoPPseONWru8qUWS/CyXNlMRBCJrieiVQmsh+53Cu9uSVAX9gSdepzwajAdg",
+      "fechaNotificacion": "2022-05-27"
+    },
+    "inhabilitacion": {
+      "plazo": "18 AÑOS",
+      "fechaInicial": "2021-03-06",
+      "fechaFinal": "2039-03-06"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "38",
+    "fechaCaptura": "2023-11-09T00:00:00Z",
+    "expediente": "J001/2023",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "FRANCISCO GABRIEL GRAVE GARCIA",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J001/2023",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "https://e-tribunalbcs.mx/AccesoLibre/Documento.aspx?cadena=/IWvPOEZfvDcDDcFKEJOPVklieSIszsPyogbW2Wht3PRWqZtzR5Xj/HhziY83CJEofZ34A+nghFi7DiCVvASXh3q/r10KiXBS2XVybrNrnn8dX+a3h+ZHHc3Km+RQlcb",
+      "fechaNotificacion": "2023-08-18"
+    },
+    "multa": {
+      "monto": 6447,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "2 AÑOS 4 MESES",
+      "fechaInicial": "2023-01-25",
+      "fechaFinal": "2025-05-25"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "32",
+    "fechaCaptura": "2023-11-09T00:00:00Z",
+    "expediente": "J141/2021",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "GUSTAVO ANGEL ESPINOZA BARVOZA",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J141/2021",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "https://e-tribunalbcs.mx/AccesoLibre/Documento.aspx?cadena=/IWvPOEZfvDcDDcFKEJOPVklieSIszsPyogbW2Wht3P6drOg5LQTHv53Fx4CdZNkXPpDRB6IOHXfE8LFfh7jv9TuojdNR4RQwUom5A2LAegDfY7YowrDNoQBwznpIafl",
+      "fechaNotificacion": "2023-03-08"
+    },
+    "multa": {
+      "monto": 86,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "3 AÑOS 4 MESES",
+      "fechaInicial": "2022-02-24",
+      "fechaFinal": "2025-06-24"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "29",
+    "fechaCaptura": "2023-10-25T00:00:00Z",
+    "expediente": "J018/2022",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "IGNACIO GABRIEL JUAREZ GONZALEZ",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J018/2022",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "https://e-tribunalbcs.mx/AccesoLibre/Documento.aspx?cadena=/IWvPOEZfvDcDDcFKEJOPVklieSIszsPyogbW2Wht3PbREnfYpqury0+ImqtgBrZlinqD51zy8P3DU+wefzC9KjfgtJojmDgzJ0EZVaxFzuhnIj0a3rcKafaBNfKucxz",
+      "fechaNotificacion": "2022-12-09"
+    },
+    "multa": {
+      "monto": 6350,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "2 AÑOS 8 MESES",
+      "fechaInicial": "2022-02-10",
+      "fechaFinal": "2025-04-08"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "7",
+    "fechaCaptura": "2023-10-19T00:00:00Z",
+    "expediente": "J026/2021",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "JESUS MANUEL ORTIZ ANDANA",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J026/2021",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "https://e-tribunalbcs.mx/AccesoLibre/Documento.aspx?cadena=/IWvPOEZfvDcDDcFKEJOPVklieSIszsPyogbW2Wht3OU2P4G7bfEOi8QwKq7SAN64hRpa7RdL1IFgX1J0qdJeYTsee8A9dZPolxKhJxWwFS3j/IVgDYLj0IPNQOIBYGd",
+      "fechaNotificacion": "2022-02-01"
+    },
+    "inhabilitacion": {
+      "plazo": "20 AÑOS",
+      "fechaInicial": "2021-03-25",
+      "fechaFinal": "2041-03-25"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "12",
+    "fechaCaptura": "2023-10-19T00:00:00Z",
+    "expediente": "J110/2020",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "JESUS MIGUEL VAZQUEZ SALDAÑA",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J110/2020",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "",
+      "fechaNotificacion": "2022-03-24"
+    },
+    "multa": {
+      "monto": 87,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "3 AÑOS 4 MESES",
+      "fechaInicial": "2021-10-27",
+      "fechaFinal": "2025-03-01"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "27",
+    "fechaCaptura": "2023-10-23T00:00:00Z",
+    "expediente": "J125/2021",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "JOEL RAMIREZ LOPEZ",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J125/2021",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "https://e-tribunalbcs.mx/AccesoLibre/Documento.aspx?cadena=/IWvPOEZfvDcDDcFKEJOPVklieSIszsPyogbW2Wht3OCfHVKfQJsXByhuQWUC1vSFo3WjLc2YJ+ncZ+PKaAt+mNJlV+Gug4+OgfROUsIR/Z6hhfLPxry+45W51T0VHiGOiCnCJ7FiaF1+d5iFhtOLA==",
+      "fechaNotificacion": "2022-11-12"
+    },
+    "multa": {
+      "monto": 86,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "3 AÑOS 4 MESES",
+      "fechaInicial": "2021-11-04",
+      "fechaFinal": "2025-03-04"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "28",
+    "fechaCaptura": "2023-10-23T00:00:00Z",
+    "expediente": "J135/2021",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "JONATHAN GONZALO OLVERA RODRIGUEZ",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J135/2021",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "https://e-tribunalbcs.mx/AccesoLibre/Documento.aspx?cadena=/IWvPOEZfvDcDDcFKEJOPVklieSIszsPyogbW2Wht3NhcJY8zP0iNSOgJ/0l/+L2LM/UDVr4DZX8Ddeb/Ym2URC66Wjomg8DM4vsZ3wBUxSOJTsHQkRQvdBxGP2qMiXQ",
+      "fechaNotificacion": "2022-12-08"
+    },
+    "multa": {
+      "monto": 5866,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "2 AÑOS 4 MESES",
+      "fechaInicial": "2022-11-11",
+      "fechaFinal": "2025-03-11"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "17",
+    "fechaCaptura": "2023-10-20T00:00:00Z",
+    "expediente": "J118/2021",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "JORGE ALBERTO AMEZOLA CASTILLO",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J118/2021",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "",
+      "fechaNotificacion": "2022-07-06"
+    },
+    "multa": {
+      "monto": 8962,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "13 AÑOS",
+      "fechaInicial": "2021-10-24",
+      "fechaFinal": "2024-10-24"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "11",
+    "fechaCaptura": "2023-10-19T00:00:00Z",
+    "expediente": "J096/2021",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "JOSE FEDERICO BURGOS DIAZ",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J096/2021",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "https://e-tribunalbcs.mx/AccesoLibre/Documento.aspx?cadena=/IWvPOEZfvDcDDcFKEJOPVklieSIszsPyogbW2Wht3MxYoA10NGvC9fR0+F4Brx5EwXlNw6Zy6aGwrb7oKZc/Wg+DmdlRaKMYb014LnNiTySkHVvhzpp0oqq2iCFaW08",
+      "fechaNotificacion": "2022-03-17"
+    },
+    "multa": {
+      "monto": 11555,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "2 AÑOS 8 MESES",
+      "fechaInicial": "2021-08-15",
+      "fechaFinal": "2024-04-15"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "36",
+    "fechaCaptura": "2023-11-09T00:00:00Z",
+    "expediente": "J184/2022",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "JOSE MEZA SMITH",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J184/2022",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "https://e-tribunalbcs.mx/AccesoLibre/Documento.aspx?cadena=/IWvPOEZfvDcDDcFKEJOPVklieSIszsPyogbW2Wht3NZJufg10zJQbL7H8q+yz4hXUl4t5Y9FyOqyO2nhMHwOIu9afvGT/h8Xo+PBjj+L4uauwzUi1TjKbOY0hC/nF/q",
+      "fechaNotificacion": "2023-06-13"
+    },
+    "multa": {
+      "monto": 7549,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "10 AÑOS",
+      "fechaInicial": "2022-12-16",
+      "fechaFinal": "2032-12-16"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "31",
+    "fechaCaptura": "2023-11-09T00:00:00Z",
+    "expediente": "J001/2022",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "JOSE MIGUEL MARTINEZ ESPINOZA",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J001/2022",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "https://e-tribunalbcs.mx/AccesoLibre/Documento.aspx?cadena=/IWvPOEZfvDcDDcFKEJOPVklieSIszsPyogbW2Wht3Pm75p+kfNr6QP0Z3rK+ijvJ3QZOXEqHtPGUTZ5htKmmqHsnH5C4qcA6HqerWD5GUmVKrnHlesac0g4KwrXxRtn",
+      "fechaNotificacion": "2022-01-01"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "25 AÑOS",
+      "fechaInicial": "2022-01-14",
+      "fechaFinal": "2047-01-14"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "8",
+    "fechaCaptura": "2023-10-19T00:00:00Z",
+    "expediente": "J002/2021",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "LUIS ALEJANDRO VALERIO SOTO",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J002/2021",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "https://e-tribunalbcs.mx/AccesoLibre/Documento.aspx?cadena=/IWvPOEZfvDcDDcFKEJOPVklieSIszsPyogbW2Wht3NfEd7uKWreyzIceeqGxQLvyRQ0Hk8MeHKz71FLPK7o5kiI9ln2AxESgy4xX7iP5XWDj53uHfRNNk4/jenYs6ce",
+      "fechaNotificacion": "2022-03-02"
+    },
+    "multa": {
+      "monto": 17655,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "12 AÑOS 8 MESES",
+      "fechaInicial": "2021-01-11",
+      "fechaFinal": "2033-09-11"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "21",
+    "fechaCaptura": "2023-10-23T00:00:00Z",
+    "expediente": "J074/2020",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "MIGUEL ANGEL MARTINEZ MERAZ",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J074/2020",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "https://e-tribunalbcs.mx/AccesoLibre/Documento.aspx?cadena=/IWvPOEZfvDcDDcFKEJOPVklieSIszsPyogbW2Wht3Pu3sd1ngWQFR0osK5RjPjHTZd4aj377+g3JJTSGmDQddN1NQLquOkgmMdUhTH6QnmelmKJ02GjxSfvoCwZkWKf",
+      "fechaNotificacion": "2023-05-18"
+    },
+    "multa": {
+      "monto": 86,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "3 AÑOS 4 MESES",
+      "fechaInicial": "2021-02-09",
+      "fechaFinal": "2024-06-09"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "23",
+    "fechaCaptura": "2023-10-23T00:00:00Z",
+    "expediente": "J022/2021",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "OMAR HUMBERTO URBINA ESCOBEDO",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J022/2021",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "https://e-tribunalbcs.mx/AccesoLibre/Documento.aspx?cadena=/IWvPOEZfvDcDDcFKEJOPVklieSIszsPyogbW2Wht3MXy0PMnPYSgzCnPRzDaqteySZNvoPPseONWru8qUWS/CyXNlMRBCJrieiVQmsh+53Cu9uSVAX9gSdepzwajAdg",
+      "fechaNotificacion": "2022-05-27"
+    },
+    "inhabilitacion": {
+      "plazo": "18 AÑOS",
+      "fechaInicial": "2021-03-06",
+      "fechaFinal": "2039-03-06"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "33",
+    "fechaCaptura": "2023-11-09T00:00:00Z",
+    "expediente": "J103/2021",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "OSCAR ENRIQUE FISHER OLACHEA",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J103/2021",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "",
+      "fechaNotificacion": "2023-03-27"
+    },
+    "multa": {
+      "monto": 22405,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "16 AÑOS 10 MESES 15 DIAS",
+      "fechaInicial": "2021-08-26",
+      "fechaFinal": "2038-07-12"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "18",
+    "fechaCaptura": "2023-10-20T00:00:00Z",
+    "expediente": "J001/2021",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "PASCUAL LOPEZ RAMIREZ",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J001/2021",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "",
+      "fechaNotificacion": "2022-07-12"
+    },
+    "multa": {
+      "monto": 27065,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "7 AÑOS 9 MESES",
+      "fechaInicial": "2023-04-24",
+      "fechaFinal": "2031-01-24"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "35",
+    "fechaCaptura": "2023-11-09T00:00:00Z",
+    "expediente": "J043/2022",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "PEDRO LARA MADRIGAL",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J043/2022",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "https://e-tribunalbcs.mx/AccesoLibre/Documento.aspx?cadena=/IWvPOEZfvDcDDcFKEJOPVklieSIszsPyogbW2Wht3PNI5N3qlLvQknh4XtKOYaEjFUacFcCyBRxI1qq2YDeqQrg20uRvHmPdTLFLWd5FPnCnDn37grysyEjkf+2NY76",
+      "fechaNotificacion": "2023-05-11"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "20 AÑOS",
+      "fechaInicial": "2022-04-30",
+      "fechaFinal": "2042-04-30"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "26",
+    "fechaCaptura": "2023-10-23T00:00:00Z",
+    "expediente": "J052/2021",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "RAMIRO RODRIGUEZ RAMOS",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J052/2021",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "https://e-tribunalbcs.mx/AccesoLibre/Documento.aspx?cadena=/IWvPOEZfvDcDDcFKEJOPVklieSIszsPyogbW2Wht3NCmPbQaJ+ekkdC88kGI6ZcCX28WRNuTKn2xFnokwPxbkTgNbtkEKqGo3svD0ZH0JFRKxNcYgGLQkoRPDEirg9T",
+      "fechaNotificacion": "2022-09-12"
+    },
+    "multa": {
+      "monto": 179,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "20 AÑOS",
+      "fechaInicial": "2021-05-01",
+      "fechaFinal": "2041-05-01"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "34",
+    "fechaCaptura": "2023-11-09T00:00:00Z",
+    "expediente": "J072/2022",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "SEBASTIAN VARGAS COSIO",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J072/2022",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "",
+      "fechaNotificacion": "2023-04-21"
+    },
+    "multa": {
+      "monto": 26064,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "31 AÑOS",
+      "fechaInicial": "2022-07-12",
+      "fechaFinal": "2053-07-12"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "20",
+    "fechaCaptura": "2023-10-20T00:00:00Z",
+    "expediente": "J100/2021",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "ULISES AMEZCUA LOPEZ",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J100/2021",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "",
+      "fechaNotificacion": "2022-04-22"
+    },
+    "multa": {
+      "monto": 19244,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "4 AÑOS",
+      "fechaInicial": "2021-08-16",
+      "fechaFinal": "2025-08-16"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "14",
+    "fechaCaptura": "2023-10-19T00:00:00Z",
+    "expediente": "J087/2021",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "VICTOR MANUEL RUIZ LOPEZ",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J087/2021",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "https://e-tribunalbcs.mx/AccesoLibre/Documento.aspx?cadena=/IWvPOEZfvDcDDcFKEJOPVklieSIszsPyogbW2Wht3Pf8IAqk1V+2sOGa97Tpybc3x4vSdwbJTGhRag8BKVrKmePj/UBidflz0tUCNcFnZhwlRlFqsd/NWqRElsLtMGF",
+      "fechaNotificacion": "2022-04-06"
+    },
+    "multa": {
+      "monto": 87,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "6 AÑOS 8 MESES",
+      "fechaInicial": "2021-06-29",
+      "fechaFinal": "2028-03-04"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "10",
+    "fechaCaptura": "2023-10-19T00:00:00Z",
+    "expediente": "J105/2020",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "VIRGINIO VEGA ROSALES",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J105/2020",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "https://e-tribunalbcs.mx/AccesoLibre/Documento.aspx?cadena=/IWvPOEZfvDcDDcFKEJOPVklieSIszsPyogbW2Wht3NayeU2EgYnINuk9vqRwRXSGGtOOhjVd8em2Z3JrzMYRbVtmmMK5apCJgBxMHydwS3EM9ZAzRyeVnO4hI/DZjkt",
+      "fechaNotificacion": "2022-03-16"
+    },
+    "multa": {
+      "monto": 17336,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "4 AÑOS",
+      "fechaInicial": "2020-11-09",
+      "fechaFinal": "2024-11-09"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "15",
+    "fechaCaptura": "2023-10-19T00:00:00Z",
+    "expediente": "J120/2021",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "WILBERT IVAN ARCE AMARILLAS",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J120/2021",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "https://e-tribunalbcs.mx/AccesoLibre/Documento.aspx?cadena=/IWvPOEZfvDcDDcFKEJOPVklieSIszsPyogbW2Wht3OlOQ6CqU3NT1GP4oJ/K9K3MhjWYos7Mmcvl0IFniFqXpp7w92xWFNv2+hsUssfAN7mBdcrIk5+RhVydvL9y+Ai",
+      "fechaNotificacion": "2022-06-12"
+    },
+    "inhabilitacion": {
+      "plazo": "4 AÑOS",
+      "fechaInicial": "2021-11-03",
+      "fechaFinal": "2025-11-03"
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "16",
+    "fechaCaptura": "2023-10-19T00:00:00Z",
+    "expediente": "J120/2021",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    "particularSancionado": {
+      "nombreRazonSocial": "WILBERT IVAN ARCE AMARILLAS",
+      "objetoSocial": "-",
+      "tipoPersona": "F"
+    },
+    "objetoContrato": "SENTENCIA CONDENATORIA",
+    "autoridadSancionadora": "JUEZ DE CONTROL",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCION ECONOMICA"
+      }
+    ],
+    "causaMotivoHechos": "J120/2021",
+    "acto": "DELITO COMETIDO POR PARTICULAR",
+    "resolucion": {
+      "sentido": "SENTENCIA CONDENATORIA",
+      "url": "https://e-tribunalbcs.mx/AccesoLibre/Documento.aspx?cadena=/IWvPOEZfvDcDDcFKEJOPVklieSIszsPyogbW2Wht3OlOQ6CqU3NT1GP4oJ/K9K3MhjWYos7Mmcvl0IFniFqXpp7w92xWFNv2+hsUssfAN7mBdcrIk5+RhVydvL9y+Ai",
+      "fechaNotificacion": "2022-06-12"
+    },
+    "multa": {
+      "monto": 9600,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "4 AÑOS",
+      "fechaInicial": "2021-11-03",
+      "fechaFinal": "2025-11-03"
+    },
+    "observaciones": ""
+  }
+]

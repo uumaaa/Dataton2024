@@ -1,0 +1,157 @@
+[
+  {
+    "id": "655d1ba40e5b49001df642b2",
+    "institucionDependencia": {
+      "nombre": "Instituto de la Juventud del Municipio de Solidaridad.",
+      "siglas": "INJUVE Solidaridad "
+    },
+    "particularSancionado": {
+      "domicilioMexico": {
+        "pais": {
+          "clave": "MX",
+          "valor": "México"
+        },
+        "entidadFederativa": {
+          "clave": "23",
+          "valor": "Quintana Roo"
+        },
+        "municipio": {
+          "clave": "008",
+          "valor": "Solidaridad"
+        },
+        "localidad": {
+          "clave": "0001",
+          "valor": "Playa del Carmen"
+        },
+        "vialidad": {
+          "clave": "PRIVADA",
+          "valor": "Fraccionamiento Real Ibiza"
+        },
+        "codigoPostal": "77723",
+        "numeroExterior": "Manzana 11",
+        "numeroInterior": "Lote 4 departamento 203"
+      },
+      "nombreRazonSocial": "FRANCISCO ISAAC OLIVA MÁRQUEZ",
+      "tipoPersona": "F",
+      "telefono": "529842333790",
+      "objetoSocial": "N/A"
+    },
+    "responsableSancion": {
+      "primerApellido": "CUÉLLAR ",
+      "segundoApellido": "LABARTHE",
+      "nombres": "ALFREDO "
+    },
+    "resolucion": {
+      "sentido": "Se determina que sí existen elementos para determinar la comisión de la falta administrativa de uso indebido de recursos públicos atribuida al ciudadano Francisco Isaac Oliva Marquez y por lo tanto es responsable administrativamente por la comisión de dicha conducta ",
+      "fechaNotificacion": "2022-10-31"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "Se impone a Francisco Isaac Oliva Márquez, la sanción administrativa consistente en la Inhabilitación temporal para participar en adquisiciones, arrendamientos, servicios u obras públicas, por un periodo de 4 años, la cual deberá ser ejecutada de conformidad con lo ordenado en el artículo 225 de la Ley General de Responsabilidades Administrativas."
+      },
+      {
+        "clave": "O",
+        "valor": "OTRO",
+        "descripcion": "Se impone a Francisco Isaac Oliva Márquez, la sanción administrativa consistente en la Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público, por un periodo de 4 años, la cual deberá ser ejecutada de conformidad con lo ordenado en el artículo 225 de la Ley General de Responsabilidades Administrativas."
+      }
+    ],
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "Sentencia definitiva",
+        "tipo": "RESOLUCION",
+        "descripcion": "Sentencia definitiva emitida el 31 de octubre de 2022, en el expediente del Procedimiento de Responsabilidad Administrativa 01/2019-SU2-PR",
+        "url": "https://drive.google.com/file/d/15B40koiOrRqU1LC9Frodyt2i-Mnvnk6J/view?usp=drive_link",
+        "fecha": "2022-10-31"
+      }
+    ],
+    "expediente": "01/2019-SU2-PR",
+    "causaMotivoHechos": "FRANCISCO ISAAC OLIVA MÁRQUEZ realizó actos con los cuales hizo uso indebido o desvió el objeto para el cual está previsto el recurso humano público en este caso en específico la denunciante quien se desempeñaba en el cargo de auxiliar administrativa de la Coordinación de Comunicación Social comisionada al Instituto de la Juventud de Solidaridad Quintana Roo",
+    "acto": "Con la ayuda de dos servidoras públicas trasladó en horario laboral a un lugar donde se le practicaría en contra de su voluntad una prueba de embarazo es decir un actividad distinta para la cual estaba previsto dicho recurso público humano",
+    "tipoFalta": "Uso indebido de recursos públicos",
+    "autoridadSancionadora": "Segunda Sala Unitaria del Tribunal de Justicia Administrativa del Estado de Quintana Roo",
+    "inhabilitacion": {
+      "plazo": "4 años",
+      "fechaInicial": "2023-05-16",
+      "fechaFinal": "2027-05-16"
+    },
+    "fechaCaptura": "2023-11-21T21:05:40+00:00",
+    "__v": 0
+  },
+  {
+    "id": "61e1db512a16a00013957b07",
+    "institucionDependencia": {
+      "nombre": "DIRECCIÓN DE JUZGADOS CIVICOS DE BENITO JUÁREZ",
+      "siglas": "DJCBJ"
+    },
+    "particularSancionado": {
+      "domicilioMexico": {
+        "pais": {
+          "clave": "MX",
+          "valor": "México"
+        },
+        "entidadFederativa": {
+          "clave": "23",
+          "valor": "Quintana Roo"
+        },
+        "municipio": {
+          "clave": "005",
+          "valor": "Benito Juárez"
+        },
+        "localidad": {
+          "clave": "0001",
+          "valor": "Cancún"
+        },
+        "vialidad": {
+          "clave": "CALLE",
+          "valor": "LAGUNA VERDE"
+        },
+        "codigoPostal": "77539"
+      },
+      "nombreRazonSocial": "JUAN CARLOS IBARRA GUEVARA",
+      "tipoPersona": "F"
+    },
+    "responsableSancion": {
+      "nombres": "JUAN CARLOS ",
+      "primerApellido": "IBARRA",
+      "segundoApellido": "GUEVARA"
+    },
+    "resolucion": {
+      "sentido": "SE DETERMINA RESPONSABILIDAD CLASIFICADA COMO SOBORNO",
+      "fechaNotificacion": "2020-09-20"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      },
+      "monto": 8688
+    },
+    "__v": 0,
+    "acto": "SOBORNO",
+    "autoridadSancionadora": "TERCERA SALA UNITARIA DEL TJAQROO",
+    "causaMotivoHechos": "UN CONOCIDO DEL PARTICULAR FUE DETENIDO Y PUESTO A DISPOSICIÓN  DEL JUEZ CÍVICO Y HACE DEL CONOCIMIENTO DEL PARTICULAR  EL MONTO DE LA MULTA PERO AL NO TENER EL DINERO EN ESE MOMENTO LA REFERIDA SERVIDORALE RECIBIÓ 1000 PESOS  JUNTO CON EL RELOJ DEL PARTICULAR",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "SENTENCIA DEFINITIVA DEL EXPEDIENTE TJA/QR-SU3-092-2019",
+        "tipo": "RESOLUCION",
+        "descripcion": "SENTENCIA DE FECHA 21 DE SEPTIEMBRE DE 2020 POR LA QUE SE DETERMINÓ LA RESPONSABILIDAD ADMINISTRATIVA GRAVE DE JUAN CARLOS IBARRA GUEVARA (PARTICULAR)",
+        "url": "https://drive.google.com/file/d/11r8DZBS682ixinpGZSn-eoPJmCnbtu7M/view",
+        "fecha": "2021-09-20"
+      }
+    ],
+    "expediente": "TJA/QR-SU3-092-2019",
+    "fechaCaptura": "2024-09-23T18:56:30+00:00",
+    "tipoFalta": "ABUSO DE FUNCIONES",
+    "tipoSancion": [
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "SANCIÓN ECONÓMICA POR LA CANTIDAD DE 8,688.00"
+      }
+    ]
+  }
+]

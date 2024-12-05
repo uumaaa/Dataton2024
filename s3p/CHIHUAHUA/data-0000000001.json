@@ -1,0 +1,237 @@
+[
+  {
+    "id": "5",
+    "institucionDependencia": {
+      "nombre": "Fideapech",
+      "siglas": "",
+      "clave": "501"
+    },
+    "particularSancionado": {
+      "domicilioMexico": {
+        "pais": {
+          "valor": "México",
+          "clave": "MX"
+        },
+        "entidadFederativa": {
+          "valor": "Chihuahua",
+          "clave": "8"
+        },
+        "municipio": {
+          "valor": "Juárez",
+          "clave": "37"
+        },
+        "localidad": {
+          "valor": "Lomas del Rey",
+          "clave": "37"
+        },
+        "vialidad": {
+          "valor": "5",
+          "clave": "Calle"
+        },
+        "codigoPostal": "32651",
+        "numeroExterior": "",
+        "numeroInterior": "6674"
+      },
+      "domicilioExtranjero": {
+        "pais": {
+          "valor": "México",
+          "clave": "MX"
+        },
+        "calle": "",
+        "numeroExterior": "",
+        "numeroInterior": "",
+        "ciudadLocalidad": "",
+        "estadoProvincia": "",
+        "codigoPostal": ""
+      },
+      "nombreRazonSocial": "ISRAEL BELTRÁN CRUZ",
+      "objetoSocial": null,
+      "tipoPersona": "F",
+      "telefono": "6563049962"
+    },
+    "directorGeneral": {
+      "nombres": null,
+      "primerApellido": null,
+      "segundoApellido": null,
+      "curp": null
+    },
+    "apoderadoLegal": {
+      "nombres": null,
+      "primerApellido": null,
+      "segundoApellido": null,
+      "curp": null
+    },
+    "responsableSancion": {
+      "nombres": null,
+      "primerApellido": null,
+      "segundoApellido": null,
+      "curp": null
+    },
+    "resolucion": {
+      "sentido": "sancion económica",
+      "url": "https://www.tejachihuahua.org.mx/transparencia/archivos/2024/sg/resoluciones/2trimestre/SD%20EXP%20037-2023-3%20JRA_Testado.pdf",
+      "fechaNotificacion": "2024-04-18"
+    },
+    "multa": {
+      "moneda": {
+        "clave": null,
+        "valor": null
+      },
+      "monto": null
+    },
+    "fechaCaptura": "2024-09-20T18:31:22.000000Z",
+    "expediente": "037/2023-3 JRA",
+    "objetoContrato": null,
+    "autoridadSancionadora": "280",
+    "tipoFalta": "UTILIZACIÓN DE INFORMACIÓN FALSA",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "Inhabilitación",
+        "descripcion": "",
+        "idSancion": 5,
+        "idTipoSancion": 1
+      },
+      {
+        "clave": "SE",
+        "valor": "Sanción económica",
+        "descripcion": "",
+        "idSancion": 5,
+        "idTipoSancion": 14
+      }
+    ],
+    "causaMotivoHechos": "Presentar, en el marco del Programa emergente de Apoyo, recibos de nómina supuestamente timbrados ante el SAT, mismos que resultaron alterados.",
+    "acto": "OFICIO AEF-150/2021 signado por el Titular de la Auditoría Especial Forense de Auditoría Superior del Estado",
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "",
+      "fechaFinal": ""
+    },
+    "observaciones": null,
+    "documentos": [
+      {
+        "id_sancion": 5,
+        "id": "857",
+        "tipo": "RESOLUCION",
+        "titulo": "Resolución",
+        "descripcion": null,
+        "url": "https://www.tejachihuahua.org.mx/transparencia/archivos/2024/sg/resoluciones/2trimestre/SD%20EXP%20037-2023-3%20JRA_Testado.pdf",
+        "fechaApi": "2024-04-18"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "institucionDependencia": {
+      "nombre": "Fideapech",
+      "siglas": "",
+      "clave": "501"
+    },
+    "particularSancionado": {
+      "domicilioMexico": {
+        "pais": {
+          "valor": "México",
+          "clave": "MX"
+        },
+        "entidadFederativa": {
+          "valor": "Chihuahua",
+          "clave": "8"
+        },
+        "municipio": {
+          "valor": "Juárez",
+          "clave": "37"
+        },
+        "localidad": {
+          "valor": "Granjas de Chapultepec",
+          "clave": "37"
+        },
+        "vialidad": {
+          "valor": "5",
+          "clave": "Calle"
+        },
+        "codigoPostal": "32677",
+        "numeroExterior": "",
+        "numeroInterior": "903"
+      },
+      "domicilioExtranjero": {
+        "pais": {
+          "valor": "México",
+          "clave": "MX"
+        },
+        "calle": "",
+        "numeroExterior": "",
+        "numeroInterior": "",
+        "ciudadLocalidad": "",
+        "estadoProvincia": "",
+        "codigoPostal": ""
+      },
+      "nombreRazonSocial": "JOSÉ ÁNGEL OLIVAS CAMACHO",
+      "objetoSocial": null,
+      "tipoPersona": "F",
+      "telefono": "6568556689"
+    },
+    "directorGeneral": {
+      "nombres": null,
+      "primerApellido": null,
+      "segundoApellido": null,
+      "curp": null
+    },
+    "apoderadoLegal": {
+      "nombres": null,
+      "primerApellido": null,
+      "segundoApellido": null,
+      "curp": null
+    },
+    "responsableSancion": {
+      "nombres": null,
+      "primerApellido": null,
+      "segundoApellido": null,
+      "curp": null
+    },
+    "resolucion": {
+      "sentido": "SANCION ECONOMICA",
+      "url": "https://www.tejachihuahua.org.mx/transparencia/archivos/2024/sg/resoluciones/2trimestre/SD%20EXP%20037-2023-3%20JRA_Testado.pdf",
+      "fechaNotificacion": "2024-04-18"
+    },
+    "multa": {
+      "moneda": {
+        "clave": null,
+        "valor": null
+      },
+      "monto": null
+    },
+    "fechaCaptura": "2024-09-20T18:39:11.000000Z",
+    "expediente": "037/2023-3-JRA",
+    "objetoContrato": null,
+    "autoridadSancionadora": "280",
+    "tipoFalta": "UTILIZACION DE INFORMACIÓN FALSA",
+    "tipoSancion": [
+      {
+        "clave": "SE",
+        "valor": "Sanción económica",
+        "descripcion": "",
+        "idSancion": 6,
+        "idTipoSancion": 14
+      }
+    ],
+    "causaMotivoHechos": "Presentar, en el marco del Programa emergente de Apoyo, recibos de nómina supuestamente timbrados ante el SAT, mismos que resultaron alterados.",
+    "acto": "AEF-150/2021 signado por el Titular de la Auditoría Especial Forense de Auditoría Superior del Estado",
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "",
+      "fechaFinal": ""
+    },
+    "observaciones": null,
+    "documentos": [
+      {
+        "id_sancion": 6,
+        "id": "858",
+        "tipo": "RESOLUCION",
+        "titulo": "Resolución",
+        "descripcion": null,
+        "url": "https://www.tejachihuahua.org.mx/transparencia/archivos/2024/sg/resoluciones/2trimestre/SD%20EXP%20037-2023-3%20JRA_Testado.pdf",
+        "fechaApi": "2024-04-18"
+      }
+    ]
+  }
+]

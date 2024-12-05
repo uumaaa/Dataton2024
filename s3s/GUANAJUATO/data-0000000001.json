@@ -1,0 +1,257 @@
+[
+  {
+    "id": "132JOBRCA23",
+    "fechaCaptura": "2023-12-23T18:00:00Z",
+    "expediente": "FG 28/20",
+    "institucionDependencia": {
+      "nombre": "Municipio de León",
+      "siglas": "",
+      "clave": "1066"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "JOSÉ MANUEL",
+      "primerApellido": "BRIONES",
+      "segundoApellido": "CARRANCO",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "puesto": "Auxiliar Administrativo/ Auxiliar Técnico",
+      "nivel": ""
+    },
+    "autoridadSancionadora": "Tribunal de justicia Administrativa",
+    "tipoFalta": {
+      "clave": "ABCI",
+      "valor": "ACTUACIÓN BAJO CONFLICTO DE INTERÉS"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "«[…] se precisa que en la conducta menciona que el C. José Gabriel Briones Carranco, realizó modificaciones al sistema Control de Impuestos Inmobiliarios (COII), a las cuentas prediales […], sin contar con justificación legal alguna, al no existir los juicios de nulidad tal como se acredita con el oficio número J.A.M.265/2019 suscrito por la Lic. María Guadalupe Garza Lozornio en su carácter de Jueza General de los Juzgados Administrativos Municipales, en el que se menciona la inexistencia de los juicios, con el cual el C. José Gabriel Briones Carranco, realizó modificaciones, supuesto que fue a voluntad o capricho de él […] toda vez que al no contar con justificación legal para realizar la modificación, disminuyó el valor de los inmuebles causando un detrimento a la hacienda pública, por la cantidad de $438,200.64 (cuatrocientos treinta y ocho mil doscientos pesos con 64/100 M.N.).",
+    "resolucion": {
+      "url": "https://transparencia.tcagto.gob.mx/wp-content/uploads/2022/11/S.E.A.F.G.-28-Sala-Especializada-20.pdf",
+      "fechaResolucion": "2021-11-23"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "",
+        "valor": ""
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "10 AÑOS",
+      "fechaInicial": "2022-07-12",
+      "fechaFinal": "2032-07-12"
+    },
+    "observaciones": "",
+    "documentos": []
+  },
+  {
+    "id": "133OLPÉMO23",
+    "fechaCaptura": "2023-12-23T18:00:00Z",
+    "expediente": "FG 81/21",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de Guanajuato",
+      "siglas": "",
+      "clave": "1036"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "OLGA LIDIA",
+      "primerApellido": "PÉREZ",
+      "segundoApellido": "MONREAL",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "puesto": "Administradora de Farmacia",
+      "nivel": ""
+    },
+    "autoridadSancionadora": "Tribunal de justicia Administrativa",
+    "tipoFalta": {
+      "clave": "PEC",
+      "valor": "PECULADO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "« […] realizó actos, como son el no hacer los depósitos respectivos por los ingresos en la farmacia, y al no hacerlo se quedó en su esfera de poder y vigilancia con dinero que no es de su propiedad, realizando con ello acto de propiedad de recursos públicos que no forman parte de sus ingresos […] la cantidad de $387,305.11 (trescientos ochenta y siete mil trescientos cinco pesos 11/100 M.N.), se obtuvo de las ventas de los días 7, 9, 10,12, 13, 14 de agosto de 2018, y las cuales por disposición debía tener la administradora de la farmacia 029 ya sea el total del dinero, o las correspondientes fichas de depósito expedidas por la Institución Bancaria correspondiente, situación que no aconteció, es por ello que la obtención del efectivo queda presuntamente bajo la esfera ».",
+    "resolucion": {
+      "url": "https://transparencia.tcagto.gob.mx/wp-content/uploads/2023/01/S.E.A.F.G.-81-Sala-Especializada-21.pdf",
+      "fechaResolucion": "2022-07-15"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "",
+        "valor": ""
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "12 AÑOS",
+      "fechaInicial": "2022-10-10",
+      "fechaFinal": "2034-10-10"
+    },
+    "observaciones": "",
+    "documentos": []
+  },
+  {
+    "id": "134AURAMO23",
+    "fechaCaptura": "2023-12-23T18:00:00Z",
+    "expediente": "FG 31/21",
+    "institucionDependencia": {
+      "nombre": "Municipio de León",
+      "siglas": "",
+      "clave": "1066"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "AURORA GUADALUPE",
+      "primerApellido": "RANGEL",
+      "segundoApellido": "MORENO",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "puesto": "Responsable de Ventanilla",
+      "nivel": ""
+    },
+    "autoridadSancionadora": "Tribunal de justicia Administrativa",
+    "tipoFalta": {
+      "clave": "AFN",
+      "valor": "ABUSO DE FUNCIONES"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "«[…] de comprobarse la conducta señalada, el presunto responsable infringiría la falta administrativa inserta que se encuentra contemplada en la ley actualmente vigente, siento esto en el artículo 57 de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas para el Estado de Guanajuato[…]».",
+    "resolucion": {
+      "url": "https://transparencia.tcagto.gob.mx/wp-content/uploads/2022/11/S.E.A.F.G.-31-Sala-Especializada-21.pdf",
+      "fechaResolucion": "2022-05-31"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "",
+        "valor": ""
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "15 AÑOS",
+      "fechaInicial": "2022-05-31",
+      "fechaFinal": "2037-05-31"
+    },
+    "observaciones": "",
+    "documentos": []
+  },
+  {
+    "id": "151FRBATO24",
+    "fechaCaptura": "2024-01-12T18:00:00Z",
+    "expediente": "FG 32/20",
+    "institucionDependencia": {
+      "nombre": "Municipio de San Miguel de Allende",
+      "siglas": "",
+      "clave": "1081"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "FRANCISCO JAVIER",
+      "primerApellido": "BAEZA",
+      "segundoApellido": "TOVAR",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "puesto": "Coordinador de Gestión Ciudadana, Situación Patrimonial y de Intereses",
+      "nivel": ""
+    },
+    "autoridadSancionadora": "Tribunal de justicia Administrativa",
+    "tipoFalta": {
+      "clave": "PEC",
+      "valor": "PECULADO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "[…] se advierte que el C. Francisco Javier Baeza Tovar quien al momento de la comisión de la conducta se encontrada adscrito a la Contraloría Municipal con el cargo de Coordinador de Gestión Ciudadana, Situación Patrimonial y de Intereses, firmando de conformidad el respectivo resguardo de los tres bienes descritos con anterioridad, recibiendo a su cargo para desempeñar el servicio del departamento, adquiriendo por ende la responsabilidad del cuidado y en su momento la entrega de los bienes. Sin embargo, pese a los requerimientos que le fueron realizados el mismo no ha hecho la entrega correspondiente de los tres bienes señalados anteriormente».",
+    "resolucion": {
+      "url": "https://transparencia.tcagto.gob.mx/wp-content/uploads/2023/05/S.E.A.F.G.-32-Sala-Especializada-20.pdf",
+      "fechaResolucion": "2021-05-27"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "",
+        "valor": ""
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "10 años",
+      "fechaInicial": "2023-03-16",
+      "fechaFinal": "2033-03-16"
+    },
+    "observaciones": "",
+    "documentos": []
+  },
+  {
+    "id": "177J.LIBR24",
+    "fechaCaptura": "2024-05-13T11:35:00Z",
+    "expediente": "FG 41/20",
+    "institucionDependencia": {
+      "nombre": "Sistema de Agua Potable y Alcantarillado de León",
+      "siglas": "",
+      "clave": "1124"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "J.LEONARDO ",
+      "primerApellido": "LINO",
+      "segundoApellido": "BRIONES",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "puesto": "DIRECTOR GENERAL ",
+      "nivel": ""
+    },
+    "autoridadSancionadora": "Tribunal de justicia Administrativa",
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "«Adjudicar de manera directa mediante sesión de fecha 03 tres de marzo del 2017\ndos mil diecisiete, la contratación del servicio de vigilancia y salvaguarda de las\ninstalaciones y oficinas del Sistema de Agua Potable y Alcantarillado de León\n(SAPAL) por tres años a favor de la empresa Centro Corporativo de Seguridad\nPrivada, S.A. de C.V., sin fundar y motivar su determinación en el dictamen\nrespectivo a través del cual se hicieran constar las razones por las cuales se adjudicó\nel servicio a la empresa señalada con antelación […] lo que ocasiono que se\nsuscribieran los contratos número SAPAL/CPS/015/2017, SAPAL/CPS/077/2018 y\nSAPAL/CPS/166/2019, por las cantidades de $10´719,900.00 (diez millones\ntjagto-c1e2-jhzqpfl7\nsetecientos diecinueve mil novecientos pesos 00/100 M.N.), $16´130,052.00\n(dieciséis millones ciento treinta mil cincuenta y dos pesos 00/100 M.N.) y\n$11´696,170.94 (once millones seiscientos noventa y seis mil ciento setenta pesos\n94/100 M.N.) […] causando con ello un detrimento al erario público. Por haberse\npagado la cantidad total de $45, 360,770.05 (cuarenta y cinco millones trescientos\nsesenta mil setecientos setenta pesos 05/100 M.N.) […]»\n",
+    "resolucion": {
+      "url": "https://transparencia.tcagto.gob.mx/wp-content/uploads/2024/04/S.E.A.F.G-41-Sala-Especializada-20.pdf",
+      "fechaResolucion": "0023-12-01"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "",
+        "valor": ""
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "1 AÑO",
+      "fechaInicial": "2024-03-15",
+      "fechaFinal": "2025-04-12"
+    },
+    "observaciones": "",
+    "documentos": []
+  }
+]

@@ -1,0 +1,1687 @@
+[
+  {
+    "id": "668dc24517b0725db09f4083",
+    "fechaCaptura": "2024-07-08T17:41:23Z",
+    "expediente": "45/2022",
+    "institucionDependencia": {
+      "nombre": "FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO",
+      "siglas": "FGJEM",
+      "clave": "oau-002"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "JONATHAN ALFREDO",
+      "primerApellido": "LOMAS",
+      "segundoApellido": "DÁVILA",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "puesto": "Agente del Ministerio Público Auxiliar de la Fiscalía"
+    },
+    "autoridadSancionadora": "427",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "ABUSO DE FUNCIONES, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN",
+        "descripcion": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN"
+      }
+    ],
+    "causaMotivoHechos": "ABUSO DE FUNCIONES, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2023-03-27"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "90 día(s) undefined mes(es) undefined año(s)",
+      "fechaInicial": "2024-06-24",
+      "fechaFinal": "2024-09-24"
+    },
+    "observaciones": "Nota 1: El periodo de suspensión del empleo, cargo o comisión o de cualquier otro cargo que se encuentre desempeñando comenzara a computarse a partir de la fecha de cause ejecutoria.  (24/06/2024 al 24/09/2024)\nNota 2: Empleo, cargo o comisión al momento de la conducta: Agente del Ministerio Público de la Coordinación Regional para la Atención de Delitos vinculados a la Violencia de Género Valle de México. ",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  },
+  {
+    "id": "668ec54fe3ed39fab747d3bc",
+    "fechaCaptura": "2024-07-10T10:57:50Z",
+    "expediente": "83/2021",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE VALLE DE CHALCO SOLIDARIDAD",
+      "siglas": "VALLEDECHALCO",
+      "clave": "mun-114"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "LUIS",
+      "primerApellido": "AUDELO",
+      "segundoApellido": "SANDOVAL",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "puesto": "Promotora,or de Empleo"
+    },
+    "autoridadSancionadora": "427",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "ABUSO DE FUNCIONES, COHECHO, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "D",
+        "valor": "DESTITUCIÓN DEL EMPLEO, CARGO O COMISIÓN",
+        "descripcion": "DESTITUCIÓN DEL EMPLEO, CARGO O COMISIÓN"
+      },
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "SANCIÓN ECONÓMICA"
+      }
+    ],
+    "causaMotivoHechos": "ABUSO DE FUNCIONES, COHECHO, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2022-06-22"
+    },
+    "multa": {
+      "monto": 1801,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "undefined día(s) undefined mes(es) 1 año(s)",
+      "fechaInicial": "2024-06-28",
+      "fechaFinal": "2025-06-28"
+    },
+    "observaciones": "Nota 1: Empleo, cargo o comisión al momento de la conducta: Luis Audelo Sandoval, en su carácter de Promotor D de la Dirección de Atención a la Salud Protección Animal de Valle de Chalco Solidaridad, Estado de México. \nNota 2: El periodo de inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público y para participar en adquisiciones, arredramientos, servicios u obras públicas por un año, comenzara a computarse a partir de la fecha de cause ejecutoria.  (28/06/2024 al 28/06/2025)\nNota 3: El monto de la sanción económica es de $901.00\nNota 4: El monto de la indemnización es de: $900.00\nNota 5: El monto total de la sanción económica más la indemnización es de $1,801.00 (mil ochocientos un pesos 00/100 moneda nacional)",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  },
+  {
+    "id": "668ec54fe3ed39fab747d3bf",
+    "fechaCaptura": "2024-07-10T11:06:17Z",
+    "expediente": "83/2021",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE VALLE DE CHALCO SOLIDARIDAD",
+      "siglas": "VALLEDECHALCO",
+      "clave": "mun-114"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "ALINE ARIANA",
+      "primerApellido": "COLÍN",
+      "segundoApellido": "GONZÁLEZ",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "puesto": "N/E"
+    },
+    "autoridadSancionadora": "427",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "ABUSO DE FUNCIONES, COHECHO, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "D",
+        "valor": "DESTITUCIÓN DEL EMPLEO, CARGO O COMISIÓN",
+        "descripcion": "DESTITUCIÓN DEL EMPLEO, CARGO O COMISIÓN"
+      },
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "SANCIÓN ECONÓMICA"
+      }
+    ],
+    "causaMotivoHechos": "ABUSO DE FUNCIONES, COHECHO, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2022-06-22"
+    },
+    "multa": {
+      "monto": 1801,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "undefined día(s) undefined mes(es) 1 año(s)",
+      "fechaInicial": "2024-06-28",
+      "fechaFinal": "2025-06-28"
+    },
+    "observaciones": "Nota 1: Empleo, cargo o comisión al momento de la conducta: Aline Ariana Colín González, en su carácter de Coordinadora de la Unidad de Protección Animal de Valle de Chalco Solidaridad, Estado de México. \nNota 2: El periodo de inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público y para participar en adquisiciones, arredramientos, servicios u obras públicas por un año, comenzara a computarse a partir de la fecha de cause ejecutoria.  (28/06/2024 al 28/06/2025)\nNota 3: El monto de la sanción económica es de $901.00\nNota 4: El monto de la indemnización es de: $900.00\nNota 5: El monto total de la sanción económica más la indemnización es de $1,801.00 (mil ochocientos un pesos 00/100 moneda nacional)",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  },
+  {
+    "id": "6697e73c228016d3bde4bfaf",
+    "fechaCaptura": "2024-07-10T11:43:25Z",
+    "expediente": "34/2022",
+    "institucionDependencia": {
+      "nombre": "FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO",
+      "siglas": "FGJEM",
+      "clave": "oau-002"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "ARMANDO",
+      "primerApellido": "GARCÍA",
+      "segundoApellido": "JIMÉNEZ",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "puesto": "Agente del Ministerio Público Auxiliar de la Fiscalía"
+    },
+    "autoridadSancionadora": "427",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "ABUSO DE FUNCIONES, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN",
+        "descripcion": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN"
+      }
+    ],
+    "causaMotivoHechos": "ABUSO DE FUNCIONES, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2023-02-24"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "90 día(s) undefined mes(es) undefined año(s)",
+      "fechaInicial": "2024-06-28",
+      "fechaFinal": "2024-09-28"
+    },
+    "observaciones": "Nota 1: Empleo, cargo o comisión al momento de la conducta: Agente del Ministerio Público adscrito a la Fiscalía Regional Tecámac, Estado de México\nNota 2: El periodo de suspensión del empleo, cargo o comisión, sin goce de sueldo por un periodo de noventa días naturales, comenzara a computarse a partir de la fecha de cause ejecutoria.  (28/06/2024 al 28/09/2024)\n",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  },
+  {
+    "id": "6697e73c228016d3bde4bfb4",
+    "fechaCaptura": "2024-07-10T11:51:39Z",
+    "expediente": "34/2022",
+    "institucionDependencia": {
+      "nombre": "FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO",
+      "siglas": "FGJEM",
+      "clave": "oau-002"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "JANETH",
+      "primerApellido": "BOJORGES",
+      "segundoApellido": "SARABIA",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "puesto": "Agente del Ministerio Público Auxiliar de la Fiscalía"
+    },
+    "autoridadSancionadora": "427",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "ABUSO DE FUNCIONES, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN",
+        "descripcion": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN"
+      }
+    ],
+    "causaMotivoHechos": "ABUSO DE FUNCIONES, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2023-02-24"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "90 día(s) undefined mes(es) undefined año(s)",
+      "fechaInicial": "2024-06-28",
+      "fechaFinal": "2024-09-28"
+    },
+    "observaciones": "Nota 1: Empleo, cargo o comisión al momento de la conducta: Agente del Ministerio Público adscrito a la Fiscalía Regional Tecámac, Estado de México\nNota 2: El periodo de suspensión del empleo, cargo o comisión, sin goce de sueldo por un periodo de noventa días naturales, comenzara a computarse a partir de la fecha de cause ejecutoria.  (28/06/2024 al 28/09/2024)",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  },
+  {
+    "id": "6697e73c228016d3bde4bfb7",
+    "fechaCaptura": "2024-07-10T14:35:54Z",
+    "expediente": "ERA 96/2022",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE MORELOS",
+      "siglas": "MORELOS",
+      "clave": "mun-059"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "MARIELA",
+      "primerApellido": "MERCADO",
+      "segundoApellido": "GIL",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "puesto": "N/E"
+    },
+    "autoridadSancionadora": "426",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "ABUSO DE FUNCIONES, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "ABUSO DE FUNCIONES, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2023-12-18"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "0 día(s) 0 mes(es) 1 año(s)",
+      "fechaInicial": "2024-07-11",
+      "fechaFinal": "2025-07-11"
+    },
+    "observaciones": "*",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  },
+  {
+    "id": "66cd1d5b4c57dd95ab89f166",
+    "fechaCaptura": "2024-08-09T17:21:16Z",
+    "expediente": "61/2023",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE CUAUTITLÁN IZCALLI",
+      "siglas": "CUAUTITLANIZCALLI",
+      "clave": "mun-032"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "ARELI VALERIA",
+      "primerApellido": "CONTRERAS",
+      "segundoApellido": "GONZÁLEZ",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "puesto": "Controlista Pagadora,or de Caja General"
+    },
+    "autoridadSancionadora": "427",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "ABUSO DE FUNCIONES, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "SANCIÓN ECONÓMICA"
+      }
+    ],
+    "causaMotivoHechos": "ABUSO DE FUNCIONES, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2024-05-03"
+    },
+    "multa": {
+      "monto": 491860,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "undefined día(s) 6 mes(es) 3 año(s)",
+      "fechaInicial": "2024-08-05",
+      "fechaFinal": "2028-02-05"
+    },
+    "observaciones": "Nota 1: El periodo de inhabilitación temporal para desempeñar empleos, cargo o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas por un periodo de tres años y seis meses comenzara a computarse a partir de la fecha de cause ejecutoria.  (05/08/2024 al 05/02/2028)\nNota 2: Empleo, cargo o comisión al momento de la conducta: Cajera adscrita a la Subtesorería de Ingresos dependiente de la Tesorería Municipal de Cuautitlán Izcalli, Estado de México.\nNota 3: El monto de la indemnización es de $4,918.60 (cuatro mil novecientos dieciocho pesos 60/100 moneda nacional)",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  },
+  {
+    "id": "66cd1d5b4c57dd95ab89f169",
+    "fechaCaptura": "2024-08-09T17:33:31Z",
+    "expediente": "16/2023",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE CUAUTITLÁN IZCALLI",
+      "siglas": "CUAUTITLANIZCALLI",
+      "clave": "mun-032"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "AIDEE ALEJANDRA",
+      "primerApellido": "SANTANA",
+      "segundoApellido": "VARGAS",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "puesto": "Controlista Pagadora,or de Caja General"
+    },
+    "autoridadSancionadora": "427",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "ABUSO DE FUNCIONES, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "SANCIÓN ECONÓMICA"
+      }
+    ],
+    "causaMotivoHechos": "ABUSO DE FUNCIONES, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2024-04-23"
+    },
+    "multa": {
+      "monto": 651526,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "undefined día(s) undefined mes(es) 1 año(s)",
+      "fechaInicial": "2024-07-12",
+      "fechaFinal": "2025-07-12"
+    },
+    "observaciones": "Nota 1: El periodo de inhabilitación temporal para desempeñar empleos, cargo o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas por un periodo de un año comenzara a computarse a partir de la fecha de cause ejecutoria.  (12/07/2024 al 12/07/2025)\nNota 2: Empleo, cargo o comisión al momento de la conducta: Cajera adscrita al Departamento de Ingresos Diversos dependiente de la Tesorería Municipal de Cuautitlán Izcalli, Estado de México\nNota 3: El monto de la indemnización es de  $6,515.26 (seis mil quinientos quince pesos 26/100 moneda nacional)",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  },
+  {
+    "id": "66cd1d5c4c57dd95ab89f16c",
+    "fechaCaptura": "2024-08-09T17:42:48Z",
+    "expediente": "85/2023",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE CUAUTITLÁN IZCALLI",
+      "siglas": "CUAUTITLANIZCALLI",
+      "clave": "mun-032"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "AIDEE ALEJANDRA",
+      "primerApellido": "SANTANA",
+      "segundoApellido": "VARGAS",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "puesto": "Controlista Pagadora,or de Caja General"
+    },
+    "autoridadSancionadora": "427",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "ABUSO DE FUNCIONES, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "SANCIÓN ECONÓMICA"
+      }
+    ],
+    "causaMotivoHechos": "ABUSO DE FUNCIONES, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2024-05-16"
+    },
+    "multa": {
+      "monto": 1182850,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "undefined día(s) undefined mes(es) 5 año(s)",
+      "fechaInicial": "2024-07-09",
+      "fechaFinal": "2029-07-09"
+    },
+    "observaciones": "Nota 1: El periodo de inhabilitación temporal para desempeñar empleos, cargo o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas por un periodo de cinco años comenzara a computarse a partir de la fecha de cause ejecutoria.  (09/07/2024 al 09/07/2029)\nNota 2: Empleo, cargo o comisión al momento de la conducta: Cajera adscrita al Departamento de Ingresos Diversos dependiente de la Tesorería Municipal de Cuautitlán Izcalli, Estado de México\nNota 3: El monto de la indemnización es de  $11,828.50 (once mil ochocientos veintiocho pesos 50/100 moneda nacional)\n",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  },
+  {
+    "id": "66cd1d5c4c57dd95ab89f16f",
+    "fechaCaptura": "2024-08-09T17:51:09Z",
+    "expediente": "155/2023",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE CUAUTITLÁN IZCALLI",
+      "siglas": "CUAUTITLANIZCALLI",
+      "clave": "mun-032"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "AIDEE ALEJANDRA",
+      "primerApellido": "SANTANA",
+      "segundoApellido": "VARGAS",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "puesto": "Controlista Pagadora,or de Caja General"
+    },
+    "autoridadSancionadora": "427",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "ABUSO DE FUNCIONES, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "SANCIÓN ECONÓMICA"
+      }
+    ],
+    "causaMotivoHechos": "ABUSO DE FUNCIONES, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2024-05-17"
+    },
+    "multa": {
+      "monto": 353238,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "undefined día(s) 6 mes(es) 2 año(s)",
+      "fechaInicial": "2024-07-12",
+      "fechaFinal": "2027-01-12"
+    },
+    "observaciones": "Nota 1: El periodo de inhabilitación temporal para desempeñar empleos, cargo o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas por un periodo de dos años seis meses comenzara a computarse a partir de la fecha de cause ejecutoria.  (12/07/2024 al 12/01/2027)\nNota 2: Empleo, cargo o comisión al momento de la conducta: Cajera adscrita al Departamento de Ingresos Diversos dependiente de la Tesorería Municipal de Cuautitlán Izcalli, Estado de México\nNota 3: El monto de la indemnización es de  $3,532.38 (tres mil quinientos treinta y dos pesos 38/100 moneda nacional)\n",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  },
+  {
+    "id": "66cd1d5c4c57dd95ab89f172",
+    "fechaCaptura": "2024-08-12T09:18:58Z",
+    "expediente": "32/2022",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE CUAUTITLÁN IZCALLI",
+      "siglas": "CUAUTITLANIZCALLI",
+      "clave": "mun-032"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "MARÍA DEL CARMEN",
+      "primerApellido": "PERALTA",
+      "segundoApellido": "ESCÁRCEGA",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "puesto": "Controlista Pagadora,or de Caja General"
+    },
+    "autoridadSancionadora": "427",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "ABUSO DE FUNCIONES, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "SANCIÓN ECONÓMICA"
+      }
+    ],
+    "causaMotivoHechos": "ABUSO DE FUNCIONES, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2024-04-19"
+    },
+    "multa": {
+      "monto": 3840241,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "undefined día(s) undefined mes(es) 10 año(s)",
+      "fechaInicial": "2024-07-09",
+      "fechaFinal": "2034-07-09"
+    },
+    "observaciones": "Nota 1: El periodo de inhabilitación temporal para desempeñar empleos, cargo o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas por un periodo de diez años comenzara a computarse a partir de la fecha de cause ejecutoria.  (09/07/2024 al 09/07/2034)\nNota 2: Empleo, cargo o comisión al momento de la conducta: Cajera adscrita a la Subtesoreria de Ingresos dependiente de la Tesorería Municipal de Cuautitlán Izcalli, Estado de México\nNota 3: El monto de la indemnización es de  $38,402.41 (treinta y ocho mil cuatrocientos dos pesos 41/100 moneda nacional)\n",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  },
+  {
+    "id": "66cd1d5c4c57dd95ab89f175",
+    "fechaCaptura": "2024-08-12T09:27:30Z",
+    "expediente": "102/2023",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE CUAUTITLÁN IZCALLI",
+      "siglas": "CUAUTITLANIZCALLI",
+      "clave": "mun-032"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "MARÍA DEL CARMEN",
+      "primerApellido": "PERALTA",
+      "segundoApellido": "ESCÁRCEGA",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "puesto": "Controlista Pagadora,or de Caja General"
+    },
+    "autoridadSancionadora": "427",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "ABUSO DE FUNCIONES, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "SANCIÓN ECONÓMICA"
+      }
+    ],
+    "causaMotivoHechos": "ABUSO DE FUNCIONES, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2024-05-09"
+    },
+    "multa": {
+      "monto": 1203892,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "undefined día(s) undefined mes(es) 1 año(s)",
+      "fechaInicial": "2024-07-01",
+      "fechaFinal": "2025-07-01"
+    },
+    "observaciones": "Nota 1: El periodo de inhabilitación temporal para desempeñar empleos, cargo o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas por un periodo de un año comenzara a computarse a partir de la fecha de cause ejecutoria.  (01/07/2024 al 01/07/2025)\nNota 2: Empleo, cargo o comisión al momento de la conducta: Cajera adscrita a la Subtesoreria de Ingresos dependiente de la Tesorería Municipal de Cuautitlán Izcalli, Estado de México\nNota 3: El monto de la indemnización es de  $12,038.92 (doce mil treinta y ocho pesos 92/100 moneda nacional)\n",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  },
+  {
+    "id": "66cd1d5c4c57dd95ab89f178",
+    "fechaCaptura": "2024-08-14T16:24:02Z",
+    "expediente": "37/2023",
+    "institucionDependencia": {
+      "nombre": "FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO",
+      "siglas": "FGJEM",
+      "clave": "oau-002"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "JORGE ARMANDO",
+      "primerApellido": "MAYEN",
+      "segundoApellido": "AGUILAR",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "puesto": "Agente del Ministerio Público Auxiliar de la Fiscalía"
+    },
+    "autoridadSancionadora": "427",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "ABUSO DE FUNCIONES, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "D",
+        "valor": "DESTITUCIÓN DEL EMPLEO, CARGO O COMISIÓN",
+        "descripcion": "DESTITUCIÓN DEL EMPLEO, CARGO O COMISIÓN"
+      },
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "ABUSO DE FUNCIONES, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2024-03-12"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "undefined día(s) undefined mes(es) 1 año(s)",
+      "fechaInicial": "2024-08-13",
+      "fechaFinal": "2025-08-13"
+    },
+    "observaciones": "Nota 1: El periodo de inhabilitación temporal empezará a computarse a partir de que causo ejecutoria la sentencia (13/08/2024 al 13/08/2025)\nNota 2: El empleo, cargo o comisión al momento de la conducta: Agente de Policía de Investigación comisionado a la Fiscalía de Robo de Vehículos Toluca-Tlalnepantla de la Fiscalía General de Justicia del Estado de México.\n",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  },
+  {
+    "id": "66d261f0026d93becf446cee",
+    "fechaCaptura": "2024-08-30T16:47:42Z",
+    "expediente": "39/2022",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE ATIZAPÁN DE ZARAGOZA",
+      "siglas": "ATIZAPANDEZARAGOZA",
+      "clave": "mun-013"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "VÍCTOR HUGO",
+      "primerApellido": "OLIVARES",
+      "segundoApellido": "GONZÁLEZ",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "puesto": "Jefa,e de Departamento "
+    },
+    "autoridadSancionadora": "427",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "COHECHO, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "D",
+        "valor": "DESTITUCIÓN DEL EMPLEO, CARGO O COMISIÓN",
+        "descripcion": "DESTITUCIÓN DEL EMPLEO, CARGO O COMISIÓN"
+      },
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "COHECHO, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2023-03-06"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "undefined día(s) undefined mes(es) 1 año(s)",
+      "fechaInicial": "2024-08-12",
+      "fechaFinal": "2025-08-12"
+    },
+    "observaciones": "Nota 1: El periodo de inhabilitación por un año para desempeñar cualquier empleo, cargo o comisión en el servicio público y participar en adquisiciones, arrendamientos, servicios y obras públicas, comenzará a computarse a partir de la fecha de cause ejecutoria.  (12/08/2024 al 12/08/2024)\nNota 2: Empleo, cargo o comisión al momento de la conducta: Jefe de Departamento “A” de la Dirección de Desarrollo Económico del Municipio de Atizapán de Zaragoza, Estado de México\n",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  },
+  {
+    "id": "67100a3758bddc26e4f6a9e1",
+    "fechaCaptura": "2024-09-02T09:59:01Z",
+    "expediente": "ERA 11/2023",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO MUNICIPAL DE CULTURA FÍSICA Y DEPORTE DE SAN SIMÓN DE GUERRERO",
+      "siglas": "IMCUFIDEM",
+      "clave": "eje-157"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "ALEJANDRO AGUSTÍN",
+      "primerApellido": "MEJÍA",
+      "segundoApellido": "MARTÍNEZ",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "puesto": "Tesorero del Imcufide"
+    },
+    "autoridadSancionadora": "426",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "PECULADO, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITADO"
+      },
+      {
+        "clave": "IRSC",
+        "valor": "INDEMNIZACIÓN RESARCITORIA",
+        "descripcion": "INDEMNIZACIÓN RESARCITORIA"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "SANCIÓN ECONÓMICA"
+      }
+    ],
+    "causaMotivoHechos": "PECULADO, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2024-02-16"
+    },
+    "multa": {
+      "monto": 32500,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "0 día(s) 0 mes(es) 2 año(s)",
+      "fechaInicial": "2024-09-02",
+      "fechaFinal": "2026-09-02"
+    },
+    "observaciones": "*",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  },
+  {
+    "id": "67100a3858bddc26e4f6a9e4",
+    "fechaCaptura": "2024-09-02T10:04:58Z",
+    "expediente": "ERA 11/2023",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO MUNICIPAL DE CULTURA FÍSICA Y DEPORTE DE SAN SIMÓN DE GUERRERO",
+      "siglas": "IMCUFIDEM",
+      "clave": "eje-157"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "JUAN JOSÉ",
+      "primerApellido": "MARURI",
+      "segundoApellido": "MARTÍNEZ",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "puesto": "Tesorero del Imcufide"
+    },
+    "autoridadSancionadora": "426",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "PECULADO, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITADO"
+      },
+      {
+        "clave": "IRSC",
+        "valor": "INDEMNIZACIÓN RESARCITORIA",
+        "descripcion": "INDEMNIZACIÓN RESARCITORIA"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "SANCIÓN ECONÓMICA"
+      }
+    ],
+    "causaMotivoHechos": "PECULADO, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2024-02-16"
+    },
+    "multa": {
+      "monto": 67864,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "undefined día(s) 0 mes(es) 10 año(s)",
+      "fechaInicial": "2024-09-02",
+      "fechaFinal": "2034-09-02"
+    },
+    "observaciones": "*",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  },
+  {
+    "id": "67100a3858bddc26e4f6a9e9",
+    "fechaCaptura": "2024-09-03T10:19:55Z",
+    "expediente": "72/2023",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE VILLA DEL CARBÓN",
+      "siglas": "VILLADELCARBON",
+      "clave": "mun-116"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "VICTORIA",
+      "primerApellido": "GONZÁLEZ",
+      "segundoApellido": "MARTÍNEZ",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "puesto": "Cajera,o General"
+    },
+    "autoridadSancionadora": "427",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "ABUSO DE FUNCIONES, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITADO"
+      },
+      {
+        "clave": "IRSC",
+        "valor": "INDEMNIZACIÓN RESARCITORIA",
+        "descripcion": "INDEMNIZACIÓN RESARCITORIA"
+      }
+    ],
+    "causaMotivoHechos": "ABUSO DE FUNCIONES, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2024-05-27"
+    },
+    "multa": {
+      "monto": 5502,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "undefined día(s) undefined mes(es) 1 año(s)",
+      "fechaInicial": "2024-08-09",
+      "fechaFinal": "2025-08-09"
+    },
+    "observaciones": "Nota 1: El periodo de inhabilitación temporal por un periodo de un año, para desempeñar empleos, cargos o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios y obras públicas, comenzara a computarse a partir de la fecha de cause ejecutoria.  (09/08/2024 al 09/08/2024)\nNota 2: Empleo, cargo o comisión al momento de la conducta: Encargada de Ingresos de la Tesorería Municipal del Ayuntamiento de Villa del Carbón, Estado de México\n",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  },
+  {
+    "id": "67100a3858bddc26e4f6a9ec",
+    "fechaCaptura": "2024-09-03T10:39:21Z",
+    "expediente": "185/2023",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE CUAUTITLÁN IZCALLI",
+      "siglas": "CUAUTITLANIZCALLI",
+      "clave": "mun-032"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "AIDEE ALEJANDRA",
+      "primerApellido": "SANTANA",
+      "segundoApellido": "VARGAS",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "puesto": "Cajera,o General"
+    },
+    "autoridadSancionadora": "427",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "ABUSO DE FUNCIONES, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITADO"
+      },
+      {
+        "clave": "IRSC",
+        "valor": "INDEMNIZACIÓN RESARCITORIA",
+        "descripcion": "INDEMNIZACIÓN RESARCITORIA"
+      }
+    ],
+    "causaMotivoHechos": "ABUSO DE FUNCIONES, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2024-06-13"
+    },
+    "multa": {
+      "monto": 8243,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "undefined día(s) 6 mes(es) 5 año(s)",
+      "fechaInicial": "2024-08-05",
+      "fechaFinal": "2030-02-05"
+    },
+    "observaciones": "Nota 1: El periodo de inhabilitación temporal para desempeñar empleos, cargo o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas por un periodo de cinco años seis meses comenzara a computarse a partir de la fecha de cause ejecutoria.  (05/08/2024 al 05/02/2030)\nNota 2: Empleo, cargo o comisión al momento de la conducta: Cajera adscrita al Departamento de Ingresos Diversos dependiente de la Tesorería Municipal de Cuautitlán Izcalli, Estado de México\nNota 3: El monto de la indemnización es de  $8,243.00 (ocho mil doscientos cuarenta y tres pesos 00/100 moneda nacional)\n",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  },
+  {
+    "id": "67100a3858bddc26e4f6a9f0",
+    "fechaCaptura": "2024-09-06T09:28:58Z",
+    "expediente": "199/2023",
+    "institucionDependencia": {
+      "nombre": "SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE NOPALTEPEC",
+      "siglas": "DIFNOPALTEPEC",
+      "clave": "dif-084"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "IVÁN",
+      "primerApellido": "MARTÍNEZ",
+      "segundoApellido": "LÓPEZ",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "puesto": "Subsecretaria,o"
+    },
+    "autoridadSancionadora": "427",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "ABUSO DE FUNCIONES, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITADO"
+      },
+      {
+        "clave": "IRSC",
+        "valor": "INDEMNIZACIÓN RESARCITORIA",
+        "descripcion": "INDEMNIZACIÓN RESARCITORIA"
+      }
+    ],
+    "causaMotivoHechos": "ABUSO DE FUNCIONES, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2024-06-21"
+    },
+    "multa": {
+      "monto": 109805,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "undefined día(s) undefined mes(es) 10 año(s)",
+      "fechaInicial": "2024-08-23",
+      "fechaFinal": "2034-08-23"
+    },
+    "observaciones": "Nota 1: El periodo de inhabilitación temporal por un periodo de diez años, para desempeñar empleos, cargos o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas, comenzará a computarse a partir del cause ejecutoria.  (23/08/2024 al 23/08/2034) \nNota 2: Indemnización por el monto de $109,805.18 (ciento nueve mil ochocientos cinco pesos 18/100 moneda nacional), que es equivalente al monto de los daños causados, a partir de la conducta acreditada.\nNota 3: Empleo, cargo o comisión al momento de la conducta: Tesorero del Sistema Municipal para el Desarrollo Integral de la Familia de Nopaltepec, Estado de México.\n",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  },
+  {
+    "id": "67100a3858bddc26e4f6a9f3",
+    "fechaCaptura": "2024-09-06T09:46:56Z",
+    "expediente": "60/2020",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE CUAUTITLÁN IZCALLI",
+      "siglas": "CUAUTITLANIZCALLI",
+      "clave": "mun-032"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "AIDEE ALEJANDRA",
+      "primerApellido": "SANTANA",
+      "segundoApellido": "VARGAS",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "puesto": "Cajera,o General"
+    },
+    "autoridadSancionadora": "427",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "ABUSO DE FUNCIONES, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITADO"
+      },
+      {
+        "clave": "IRSC",
+        "valor": "INDEMNIZACIÓN RESARCITORIA",
+        "descripcion": "INDEMNIZACIÓN RESARCITORIA"
+      }
+    ],
+    "causaMotivoHechos": "ABUSO DE FUNCIONES, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2024-04-29"
+    },
+    "multa": {
+      "monto": 2256.77,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "undefined día(s) undefined mes(es) 5 año(s)",
+      "fechaInicial": "2024-09-02",
+      "fechaFinal": "2029-09-02"
+    },
+    "observaciones": "Nota 1: El periodo de inhabilitación temporal para desempeñar empleos, cargo o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas por un periodo de cinco años comenzara a computarse a partir de la fecha de cause ejecutoria.  (02/09/2024 al 02/09/2029)\nNota 2: Empleo, cargo o comisión al momento de la conducta: Cajera adscrita al Departamento de Ingresos Diversos dependiente de la Tesorería Municipal de Cuautitlán Izcalli, Estado de México\nNota 3: El monto de la indemnización es de  $2,256.77 (dos mil doscientos cincuenta y seis pesos 00/100 moneda nacional)\n",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  },
+  {
+    "id": "67100a3858bddc26e4f6a9f9",
+    "fechaCaptura": "2024-09-20T10:23:25Z",
+    "expediente": "189/2023",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE CUAUTITLÁN IZCALLI",
+      "siglas": "CUAUTITLANIZCALLI",
+      "clave": "mun-032"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "AIDEE ALEJANDRA",
+      "primerApellido": "SANTANA",
+      "segundoApellido": "VARGAS",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "puesto": "Cajera,o General"
+    },
+    "autoridadSancionadora": "427",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "ABUSO DE FUNCIONES, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITADO"
+      },
+      {
+        "clave": "IRSC",
+        "valor": "INDEMNIZACIÓN RESARCITORIA",
+        "descripcion": "INDEMNIZACIÓN RESARCITORIA"
+      }
+    ],
+    "causaMotivoHechos": "ABUSO DE FUNCIONES, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2024-06-21"
+    },
+    "multa": {
+      "monto": 2850.85,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "undefined día(s) undefined mes(es) 1 año(s)",
+      "fechaInicial": "2024-08-28",
+      "fechaFinal": "2025-08-28"
+    },
+    "observaciones": "Nota 1: El periodo de inhabilitación temporal para desempeñar empleos, cargo o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas por un periodo de un año comenzara a computarse a partir de la fecha de cause ejecutoria.  (28/08/2024 al 28/08/2025)\nNota 2: Empleo, cargo o comisión al momento de la conducta: Cajera adscrita al Departamento de Ingresos Diversos dependiente de la Tesorería Municipal de Cuautitlán Izcalli, Estado de México\nNota 3: El monto de la indemnización es de $2,850.85 (dos mil ochocientos cincuenta pesos 85/100 moneda nacional)\n",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  },
+  {
+    "id": "67100a3858bddc26e4f6a9fc",
+    "fechaCaptura": "2024-09-27T15:43:19Z",
+    "expediente": "186/2023",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE CUAUTITLÁN IZCALLI",
+      "siglas": "CUAUTITLANIZCALLI",
+      "clave": "mun-032"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "AIDEE ALEJANDRA",
+      "primerApellido": "SANTANA",
+      "segundoApellido": "VARGAS",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "puesto": "Cajera,o General"
+    },
+    "autoridadSancionadora": "427",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "ABUSO DE FUNCIONES, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITADO"
+      },
+      {
+        "clave": "IRSC",
+        "valor": "INDEMNIZACIÓN RESARCITORIA",
+        "descripcion": "INDEMNIZACIÓN RESARCITORIA"
+      }
+    ],
+    "causaMotivoHechos": "ABUSO DE FUNCIONES, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2024-08-12"
+    },
+    "multa": {
+      "monto": 10757.46,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "undefined día(s) 8 mes(es) 1 año(s)",
+      "fechaInicial": "2024-09-23",
+      "fechaFinal": "2026-05-23"
+    },
+    "observaciones": "Nota 1: El periodo de inhabilitación temporal para desempeñar empleos, cargo o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas por un periodo de un año ocho meses comenzara a computarse a partir de la fecha de cause ejecutoria.  (23/09/2024 al 23/05/2026)\nNota 2: Empleo, cargo o comisión al momento de la conducta: Cajera adscrita al Departamento de Ingresos Diversos dependiente de la Tesorería Municipal de Cuautitlán Izcalli, Estado de México\nNota 3: El monto de la indemnización es de $10,757.46 (diez mil setecientos cincuenta y siete pesos 46/100 moneda nacional)\n",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  },
+  {
+    "id": "67100a3858bddc26e4f6aa01",
+    "fechaCaptura": "2024-10-04T10:17:45Z",
+    "expediente": "121/2023",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE CUAUTITLÁN IZCALLI",
+      "siglas": "CUAUTITLANIZCALLI",
+      "clave": "mun-032"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "ARELI VALERIA",
+      "primerApellido": "CONTRERAS",
+      "segundoApellido": "GONZÁLEZ",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "puesto": "Cajera,o General"
+    },
+    "autoridadSancionadora": "427",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "ABUSO DE FUNCIONES, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "SANCIÓN ECONÓMICA"
+      }
+    ],
+    "causaMotivoHechos": "ABUSO DE FUNCIONES, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2024-06-26"
+    },
+    "multa": {
+      "monto": 14344.81,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "undefined día(s) 9 mes(es) 8 año(s)",
+      "fechaInicial": "2024-08-30",
+      "fechaFinal": "2032-05-30"
+    },
+    "observaciones": "Nota 1: El periodo de inhabilitación temporal para desempeñar empleos, cargo o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas por un periodo de ocho años y nueve meses comenzara a computarse a partir de la fecha de cause ejecutoria.  (30/08/2024 al 30/05/2032)\nNota 2: Empleo, cargo o comisión al momento de la conducta: Cajera adscrita a la Subtesorería de Ingresos dependiente de la Tesorería Municipal de Cuautitlán Izcalli, Estado de México.\nNota 3: El monto de la indemnización es de $14,344.81 (catorce mil trescientos cuarenta y cuatro pesos 81/100 moneda nacional)\n",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  },
+  {
+    "id": "67100a3958bddc26e4f6aa06",
+    "fechaCaptura": "2024-10-14T15:30:34Z",
+    "expediente": "ERA 101/2022",
+    "institucionDependencia": {
+      "nombre": "ORGANISMO PÚBLICO DESCENTRALIZADO PARA LA PRESTACIÓN DE LOS SERVICIOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE METEPEC",
+      "siglas": "OASMETEPEC",
+      "clave": "oas-016"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "FRANCISCO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "ARROYO",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "puesto": "Subdirectora,or "
+    },
+    "autoridadSancionadora": "426",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "ABUSO DE FUNCIONES, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "ABUSO DE FUNCIONES, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2023-11-28"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "0 día(s) 3 mes(es) 3 año(s)",
+      "fechaInicial": "2024-10-14",
+      "fechaFinal": "2028-01-14"
+    },
+    "observaciones": "+",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  },
+  {
+    "id": "67100a3958bddc26e4f6aa09",
+    "fechaCaptura": "2024-10-15T09:09:40Z",
+    "expediente": "19/2022",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE ECATEPEC DE MORELOS",
+      "siglas": "ECATEPEC",
+      "clave": "mun-034"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "JOSÉ ANTONIO",
+      "primerApellido": "SUÁREZ",
+      "segundoApellido": "CRUZ",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "puesto": "Auxiliar Administrativa,o"
+    },
+    "autoridadSancionadora": "427",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "ABUSO DE FUNCIONES, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "SANCIÓN ECONÓMICA"
+      }
+    ],
+    "causaMotivoHechos": "ABUSO DE FUNCIONES, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2023-04-21"
+    },
+    "multa": {
+      "monto": 1601,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "undefined día(s) undefined mes(es) 1 año(s)",
+      "fechaInicial": "2024-10-04",
+      "fechaFinal": "2025-10-04"
+    },
+    "observaciones": "Nota 1: El periodo de inhabilitación temporal por un periodo de un año para desempeñar empleos, cargos o comisiones en el servicio público y participar en adquisiciones, arrendamientos, servicios y obras públicas, comenzará a computarse a partir de la fecha de cause ejecutoria.  (04/10/2024 al 04/10/2025)\nNota 2: El monto de la indemnización es por la cantidad de $1,601.00 (mil seiscientos un pesos 00/100 moneda nacional)\nNota 3: Empleo, cargo o comisión al momento de la conducta: Auxiliar “B” de la Dirección de Desarrollo Urbano y Obras Públicas del Ayuntamiento de Ecatepec de Morelos, Estado de México.\n",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  },
+  {
+    "id": "67100a3958bddc26e4f6aa0c",
+    "fechaCaptura": "2024-10-15T09:17:03Z",
+    "expediente": "19/2022",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE ECATEPEC DE MORELOS",
+      "siglas": "ECATEPEC",
+      "clave": "mun-034"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "HÉCTOR EDUARDO",
+      "primerApellido": "HERNÁNDEZ",
+      "segundoApellido": "AVELINO",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "puesto": "Abogada,o Dictaminadora,or  "
+    },
+    "autoridadSancionadora": "427",
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "ABUSO DE FUNCIONES, "
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITADO"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "SANCIÓN ECONÓMICA"
+      }
+    ],
+    "causaMotivoHechos": "ABUSO DE FUNCIONES, ",
+    "resolucion": {
+      "url": "https://trijaem.gob.mx/sentencias/",
+      "fechaResolucion": "2024-04-21"
+    },
+    "multa": {
+      "monto": 1601,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "undefined día(s) undefined mes(es) 1 año(s)",
+      "fechaInicial": "2024-10-04",
+      "fechaFinal": "2025-10-04"
+    },
+    "observaciones": "Nota 1: El periodo de inhabilitación temporal por un periodo de un año para desempeñar empleos, cargos o comisiones en el servicio público y participar en adquisiciones, arrendamientos, servicios y obras públicas, comenzará a computarse a partir de la fecha de cause ejecutoria.  (04/10/2024 al 04/10/2025)\nNota 2: El monto de la indemnización es por la cantidad de $1,601.00 (mil seiscientos un pesos 00/100 moneda nacional)\nNota 3: Empleo, cargo o comisión al momento de la conducta: Abogado “E” de la Dirección de Desarrollo Urbano y Obras Públicas del Ayuntamiento de Ecatepec de Morelos, Estado de México.\n",
+    "documentos": [
+      {
+        "id": null,
+        "titulo": null,
+        "descripcion": null,
+        "url": null,
+        "fecha": null
+      }
+    ]
+  }
+]

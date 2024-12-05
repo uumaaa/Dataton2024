@@ -1,0 +1,100 @@
+[
+  {
+    "particularSancionado": {
+      "apoderadoLegal": {
+        "nombres": "",
+        "primerApellido": "",
+        "segundoApellido": ""
+      },
+      "nombreRazonSocial": "César Augusto Deras Rodríguez",
+      "objetoSocial": "PISOS, RECUBRIMIENTOS Y DECORACIÓN",
+      "tipoPersona": "F"
+    },
+    "resolucion": {
+      "sentido": "SANCIONATORIA CON MULTA",
+      "fechaNotificacion": "2022-05-19"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso mexicano"
+      },
+      "monto": 9622
+    },
+    "inhabilitacion": {
+      "plazo": ""
+    },
+    "tipoSancion": [
+      {
+        "valor": "SANCIÓN ECONÓMICA",
+        "clave": "SE"
+      }
+    ],
+    "id": "cb631da0-1540-4e97-8dda-30c4cd17a9ca",
+    "fechaCaptura": "2024-06-06T16:05:40.476Z",
+    "expediente": " TJA/RAG/0018/2021-III",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "SEDUZAC",
+      "clave": "EJZ009",
+      "_id": "6732ab9f03a24446a3bb7f3b"
+    },
+    "objetoContrato": "LICITACIÓN PÚBLICA",
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "tipoFalta": "UTILIZACIÓN DE INFORMACIÓN FALSA",
+    "causaMotivoHechos": "PRESENTAR CONSTANCIA FALSA DE OPINIÓN DEL CUMPLIMIENTO DE OBLIGACIONES FISCALES EN CALIDAD DE REPRESENTANTE LEGAL, CON EL FIN DE OBTENER UN BENEFICIO.",
+    "acto": "LICITACIÓN PÚBLICA"
+  },
+  {
+    "particularSancionado": {
+      "apoderadoLegal": {
+        "nombres": "César Augusto ",
+        "segundoApellido": "Rodríguez",
+        "primerApellido": "Deras"
+      },
+      "nombreRazonSocial": "VITROMEX, Pisos, Recubrimientos y Decoración, Sociedad Anónima de Capital Variable",
+      "objetoSocial": "Pisos, Recubrimientos y Decoración, ",
+      "tipoPersona": "M"
+    },
+    "resolucion": {
+      "sentido": "SANCIONADO CON INHABILITACIÓN Y SANCIÓN ECONÓMICA",
+      "fechaNotificacion": "2022-05-19"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso mexicano"
+      },
+      "monto": 96220
+    },
+    "inhabilitacion": {
+      "plazo": "TRES MESES",
+      "fechaInicial": "2023-06-10",
+      "fechaFinal": "2023-09-10"
+    },
+    "tipoSancion": [
+      {
+        "valor": "INHABILITADO",
+        "clave": "I"
+      },
+      {
+        "valor": "SANCIÓN ECONÓMICA",
+        "clave": "SE"
+      }
+    ],
+    "expediente": "TJA/RAG/0018/2021-III",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "SEDUZAC",
+      "clave": "EJZ009",
+      "_id": "6732ab9f03a24446a3bb7f3c"
+    },
+    "autoridadSancionadora": "Tribunal de Justicia Administrativa del Estado de Zacatecas.",
+    "objetoContrato": "LICITACIÓN PÚBLICA",
+    "tipoFalta": "UTILIZACIÓN DE INFORMACIÓN FALSA",
+    "acto": "LICITACIÓN PÚBLICA",
+    "causaMotivoHechos": "PRESENTAR CONSTANCIA FALSA DE OPINIÓN DEL CUMPLIMIENTO DE OBLIGACIONES FISCALES, CON EL FIN DE OBTENER UN BENEFICIO.",
+    "id": "a3344704-e9f8-4809-9008-f06d23a74f58",
+    "fechaCaptura": "2024-06-06T16:03:21.357Z"
+  }
+]
