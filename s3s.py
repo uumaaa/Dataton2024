@@ -23,12 +23,12 @@ map = {}
 for punished in punisheds:
     if(verify_keys(punished,['nombres','primerApellido','segundoApellido'])):
         nombreCompleto = punished['nombres'] + " " + punished['primerApellido'] + " " + punished['segundoApellido']
-        map[nombreCompleto] = 1
+        map[nombreCompleto] = punished
 
 df_2 = pd.read_json("aspirantes.json")
 for index,row in df_2.iterrows():
         if(row['nombreCompleto'] in map):
-            print(row)
+            print(map[row['nombreCompleto']])
 
 
 
