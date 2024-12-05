@@ -15,10 +15,10 @@ def create_dataframe(path):
     return  total_df
 
 total_df = create_dataframe("s3p")
-sancionados = total_df['particularSancionado'].to_numpy()
+punisheds = total_df['particularSancionado'].to_numpy()
 map = {}
-for sancionado in sancionados:
-    map[sancionado['nombreRazonSocial']] = 1
+for punished in punisheds:
+    map[punished['nombreRazonSocial']] = 1
 
 df_2 = pd.read_json("aspirantes.json")
 for index,row in df_2.iterrows():

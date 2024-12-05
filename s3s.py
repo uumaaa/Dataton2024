@@ -18,17 +18,17 @@ def create_dataframe(path):
     return  total_df
 
 total_df = create_dataframe("s3s")
-sancionados = total_df['servidorPublicoSancionado'].to_numpy()
+punisheds = total_df['servidorPublicoSancionado'].to_numpy()
 map = {}
-for sancionado in sancionados:
-    if(verify_keys(sancionado,['nombres','primerApellido','segundoApellido'])):
-        nombreCompleto = sancionado['nombres'] + " " + sancionado['primerApellido'] + " " + sancionado['segundoApellido']
+for punished in punisheds:
+    if(verify_keys(punished,['nombres','primerApellido','segundoApellido'])):
+        nombreCompleto = punished['nombres'] + " " + punished['primerApellido'] + " " + punished['segundoApellido']
         map[nombreCompleto] = 1
 
 df_2 = pd.read_json("aspirantes.json")
 for index,row in df_2.iterrows():
         if(row['nombreCompleto'] in map):
-            print(row['nombreCompleto'])
+            print(row)
 
 
 
