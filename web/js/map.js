@@ -37,7 +37,7 @@ window.onload = async () => {
     Object.entries(stateNames).map(([name, code]) => [code, name])
   );
 
-  sancionometer_data = await fetch("/sancionometro.json")
+  sancionometer_data = await fetch("../sancionometro.json")
     .then((response) => response.json())
     .then((data) => data);
 
