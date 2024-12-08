@@ -65,6 +65,7 @@ window.onload = async () => {
         var sumaTotal = element.sumaTotal;
         sumaTotal = sumaTotal / element.cantidadReportes;
         sumaTotal = sumaTotal + (element.cantidadReportes - 1) * 1.5;
+        sumaTotal = Math.min(sumaTotal, 10);
         element.promedio = sumaTotal;
         mean_rating += sumaTotal;
         per_state_data[stateNames[key]].push(element);
@@ -81,6 +82,7 @@ window.onload = async () => {
 
   Highcharts.mapChart("container", {
     chart: {
+      backgroundColor: "gray",
       events: {
         drilldown: function (e) {
           if (!e.seriesOptions) {
@@ -90,17 +92,19 @@ window.onload = async () => {
             const modalTitle = document.getElementById("exampleModalLabel");
             const modalBody = document.getElementById("modalBody");
             modalTitle.textContent = codeToStateNames[mapKey];
-            string_builder = "";
+            string_builder =
+              "<p style ='color:red'> busca cargo público nuevamente</p><br>";
+            innner_data = per_state_data[mapKey];
             for (const element of per_state_data[mapKey]) {
-              string_builder += `${element.nombre} - ${element.promedio.toFixed(
-                2
-              )} - `;
+              string_builder += `<p ${
+                element.buscaCargo ? 'style = "color:red"' : ""
+              }>Anónimo - ${element.promedio.toFixed(2)} - `;
               string_builder +=
                 `${element.puesto?.[0][0] ?? element.actos?.[0][0]}` + "<br>";
               string_builder +=
                 `${
                   element.sanciones?.[0][0] ?? element.resoluciones.join(" ,")
-                }` + "<br><br>";
+                }` + "<br><br></p>";
             }
             modalBody.innerHTML = string_builder;
             button.click();
@@ -108,9 +112,11 @@ window.onload = async () => {
         },
       },
     },
-
     title: {
       text: "RiesgoCero",
+      style: {
+        color: "white",
+      },
     },
 
     subtitle: {
@@ -119,6 +125,7 @@ window.onload = async () => {
       align: "center",
       y: 50,
       style: {
+        color: "white",
         fontSize: "16px",
       },
     },
@@ -133,7 +140,7 @@ window.onload = async () => {
 
     colorAxis: {
       min: 0,
-      minColor: "#fffcfc",
+      minColor: "#fffa9c",
       maxColor: "#ba0f0f",
     },
 
@@ -148,7 +155,7 @@ window.onload = async () => {
       map: {
         states: {
           hover: {
-            color: "#dfdfdf",
+            color: "#ffffff",
           },
         },
       },
@@ -166,7 +173,7 @@ window.onload = async () => {
       {
         type: "mapline",
         data: separators,
-        color: "silver",
+        color: "black",
         enableMouseTracking: false,
         animation: {
           duration: 500,
